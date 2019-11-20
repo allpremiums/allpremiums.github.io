@@ -1,14 +1,11 @@
 ####################################################
-#
 # Welcome to Doxy Jekyll Template
-#
 # Product Link : https://themeix.com/product/doxy-documentation-website-jekyll-template/
 # Version : v3.0.0
-#
 ####################################################
 
 # Site settings
-title: "Allpremiums"
+title: "Allpremiums promotieartikelen "
 email: "info@allpremiums"
 description: ""
 keywords: ""
@@ -27,12 +24,9 @@ cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-templ
 #youtube: "https://www.youtube.com"
 
 ## Theme Options
-animated_header: ""  #true
+#animated_header: ""  #true
 #twitter_username: jekyllrb
 #github_username:  jekyll
-
-
-
 
 # Build settings
 markdown: kramdown
@@ -98,9 +92,6 @@ autopages:
 tag_page_layout: tag_page
 tag_page_dir: tag
 permalink: /:title/
-
-
-
 
 feed:
   collections:
