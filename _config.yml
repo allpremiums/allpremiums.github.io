@@ -7,8 +7,8 @@
 # Site settings
 title: "Allpremiums promotieartikelen "
 email: "info@allpremiums"
-description: ""
-keywords: ""
+description: "Allpremiums - voor de leukste promotie artikelen om reclame mee te maken"
+keywords: "premiums, give aways, promotieartikelen, promotionele producten, promotiemiddelen en weggevertjes"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dev.allpremiums.nl" # the base hostname & protocol for your site, e.g. http://example.com
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png"
