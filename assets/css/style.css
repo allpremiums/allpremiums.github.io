@@ -2057,7 +2057,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
   .headline-box .headline-logo {
     margin-bottom: 30px; }
     .headline-box .headline-logo img {
-      max-height: 64px; }
+      max-height: 0px; }
   .headline-box .headline-content h4 {
     margin-bottom: 15px; }
   .headline-box .headline-content p {
