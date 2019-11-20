@@ -1,0 +1,8 @@
+	<div class="sidebar sticky doc-sidebar-menu">
+		<ul>
+			{% assign sub_navigation = content | extract_element: 'h2' %}
+			{% for item in sub_navigation %}
+				<li><a href="#{{ item.id }}">{{ item.text }}</a></li>
+			{% endfor %}
+		</ul>
+	</div>

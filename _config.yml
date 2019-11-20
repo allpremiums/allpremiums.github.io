@@ -1,0 +1,108 @@
+####################################################
+#
+# Welcome to Doxy Jekyll Template
+#
+# Product Link : https://themeix.com/product/doxy-documentation-website-jekyll-template/
+# Version : v3.0.0
+#
+####################################################
+
+# Site settings
+title: "Allpremiums"
+email: "info@allpremiums"
+description: ""
+keywords: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dev.allpremiums.nl" # the base hostname & protocol for your site, e.g. http://example.com
+cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png"
+#facebook: "https://www.facebook.com"
+#twitter: "https://www.twitter.com"
+#instagram: "https://www.instagram.com"
+#github: "https://www.github.com"
+#linkedin: "https://www.linkedin.com"
+#behance: "https://www.behance.com"
+#reddit: "https://www.reddit.com"
+#vimeo: "https://www.vimeo.com"
+#dribble: "https://www.dribble.com"
+#youtube: "https://www.youtube.com"
+
+## Theme Options
+animated_header: ""  #true
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+
+
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-archives
+  - jekyll-extract-element
+  - jekyll-seo-tag
+
+collections:
+  team_members:
+    output: true
+    permalink: /team_members/:path/
+  testimonials:
+    output: true
+    permalink: /testimonials/:path/
+  docs:
+    output: true
+    permalink: /docs/:title/
+
+
+
+###################################################################
+# Site configuration for the Jekyll 2 Pagination Gem
+###################################################################
+pagination:
+  enabled: true
+  debug: true
+  collection: 'posts'
+  per_page: 5
+  permalink: '/pages/:num/' # Pages are simple html files
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after:
+  extension: 'html'
+  indexpage: 'index'
+
+autopages:
+  enabled: true
+  collections:
+    layouts:
+      - 'tag_page.html'
+    title: ' :coll' # :coll is replaced by the collection name
+    permalink: '/:coll/'
+
+  tags:
+    layouts:
+      - 'tag_page.html'
+    title: ':tag' # :tag is replaced by the tag name
+    permalink: '/tag/:tag'
+
+
+# Tag Options
+tag_page_layout: tag_page
+tag_page_dir: tag
+permalink: /:title/
+
+
+
+
+feed:
+  collections:
+    posts:
+      path: "/index.xml"
