@@ -27,7 +27,7 @@ cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-templ
 #youtube: "https://www.youtube.com"
 
 ## Theme Options
-animated_header: ""  #true
+animated_header: "false"  #true
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
