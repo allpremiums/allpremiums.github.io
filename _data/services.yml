@@ -10,20 +10,20 @@
 
 - title: FESTIVALBANDJES
   title-img:
-  icon: /assets/images/products/silicone_polsbandjes_1.jpg
+  icon: /assets/images/products/festivalbandjes.jpg
   url: /docs/left-sidebar-example
-
-- title: SILICONEN POLSBANDJES
-  title-img:
-  icon: /assets/images/products/silicone_polsbandjes_1.jpg
-  url: /pages/explore-topics/
 
 - title: WATERFLESJES BEDRUKKEN
   title-img:
-  icon: /assets/images/products/silicone_polsbandjes_1.jpg
+  icon: /assets/images/products/waterflesjes_bedrukken.jpg
   url: /pages/faq/
 
 - title: KEYCORDS BEDRUKKEN
   title-img:
-  icon: /assets/images/products/silicone_polsbandjes_1.jpg
+  icon: /assets/images/products/keycord.jpg
   url: /docs/left-sidebar-example
+
+- title: BIDONS BEDRUKKEN
+  title-img: tacx bidons met logo bedrukken
+  icon: /assets/images/products/bidons_bedrukken.jpg
+  url: /tacx-bidons-met-logo-bedrukken
