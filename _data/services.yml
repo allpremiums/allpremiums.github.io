@@ -1,35 +1,29 @@
 - title: SILICONEN POLSBANDJES
-  icon: /assets/images/service-icon2.png
-  description: psum is simply dummy text of the pritypesetting industry Lorem Ipsum has been the industry’s standard
-  button_label: Learn More
+  title-img: siliconen polsbandjes en armbandjes
+  icon: /assets/images/products/silicone_polsbandjes_1.jpg
   url: /pages/explore-topics/
 
 - title: MAGNETEN BEDRUKKEN
-  icon: /assets/images/service-icon.png
-  description:  It has survived not only five centuries, but also the leap into electronic typesetting, remaining.
-  button_label: Read FAQ
+  title-img:
+  icon: /assets/images/products/silicone_polsbandjes_1.jpg
   url: /pages/faq/
 
 - title: FESTIVALBANDJES
-  icon: /assets/images/service-icon3.png
-  description:  It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.
-  button_label: Read Docs
+  title-img:
+  icon: /assets/images/products/silicone_polsbandjes_1.jpg
   url: /docs/left-sidebar-example
 
 - title: SILICONEN POLSBANDJES
-  icon: /assets/images/service-icon2.png
-  description: psum is simply dummy text of the pritypesetting industry Lorem Ipsum has been the industry’s standard
-  button_label: Learn More
+  title-img:
+  icon: /assets/images/products/silicone_polsbandjes_1.jpg
   url: /pages/explore-topics/
 
 - title: WATERFLESJES BEDRUKKEN
-  icon: /assets/images/service-icon.png
-  description:  It has survived not only five centuries, but also the leap into electronic typesetting, remaining.
-  button_label: Read FAQ
+  title-img:
+  icon: /assets/images/products/silicone_polsbandjes_1.jpg
   url: /pages/faq/
 
 - title: KEYCORDS BEDRUKKEN
-  icon: /assets/images/service-icon3.png
-  description:  It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.
-  button_label: Read Docs
+  title-img:
+  icon: /assets/images/products/silicone_polsbandjes_1.jpg
   url: /docs/left-sidebar-example
