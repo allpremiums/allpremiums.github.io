@@ -3,14 +3,12 @@
 - text: Home
   url: /
 - text: Product Categoriën
-  url: /pages/support
+  url: /siliconen-polsbandjes-en-armbandjes
+  submenu:
+  - text: Siliconen Polsbandjes
+    url: /siliconen-polsbandjes-en-armbandjes
 - text: Nieuws
   url: /blog
-  submenu:
-  - text: Blog Post - Left Sidebar - test
-    url: /blog-post-left-sidebar
-  - text: Blog Post - Right Sidebar
-    url: /blog-post-right-sidebar
 - text: Product info
   url: /bidons-bedrukken
   submenu:
