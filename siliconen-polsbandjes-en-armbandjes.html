@@ -20,6 +20,8 @@ pagination:
                     {% for link in site.data.navigation %}
                       {% assign active = nil %}
 
+                      {% if link.text contains 'Product Categoriën' %}
+
                       {% for sublink in link.submenu %}
                         {% if page.url contains sublink.url %}
                           {% assign active = 'active' %}
@@ -39,6 +41,9 @@ pagination:
                           {% endfor %}
                         </ul>
                       {% endif %}
+
+                      {% endif %}
+
                   {% endfor %}
                  </ul>
                 </nav>
