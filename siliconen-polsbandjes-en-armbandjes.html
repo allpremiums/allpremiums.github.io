@@ -7,10 +7,16 @@ pagination:
   enabled: true
 ---
 {% include header.html %}
-{% include page_header.html %}
-   <!-- Start Blog  Area -->
+<section class="page-title-area bg-cover1">
+ <div class="page-title-wrapper section-spacing">
+    <div class="page-title text-center white-text">
+    </div>
+ </div>
+</section>
+   <!-- Start Catalog Area -->
    <section class="blog-area bg-color1">
       <div class="blog-wrapper section-spacing bminus-30">
+        <h1 class="heading-1">{{page.title}}</h1>
          <div class="container">
             <div class="row">
                <div class="col-md-5 col-lg-3">
@@ -70,5 +76,5 @@ pagination:
          </div>
       </div>
    </section>
-   <!-- End Blog Area -->
+   <!-- End Catalog Area -->
 {% include footer.html %}
