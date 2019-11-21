@@ -13,7 +13,7 @@ pagination:
       <div class="blog-wrapper section-spacing bminus-30">
          <div class="container">
             <div class="row">
-               <div class="col-md-5 col-lg-4">
+               <div class="col-md-5 col-lg-3">
 
                  <nav class="navigation-navbar">
                     <ul id="navigation-menu" class="slimmenu-cat">
@@ -49,7 +49,7 @@ pagination:
                 </nav>
 
                </div>
-               <div class="col-md-7 col-lg-8">
+               <div class="col-md-7 col-lg-9">
                  <div class="row">
                      {% for cat in site.data.cat_siliconen %}
                          <div class="col-md-6">
@@ -59,7 +59,6 @@ pagination:
                                  </header>
                                  <footer class="looking-for-content">
                                      <h4 class="heading-4"><a href="{{cat.url}}">{{cat.title}}</a></h4>
-                                     <p> {{cat.description}}</p>
                                      <a href="{{cat.url}}" class="btn-style3 btn mt-3">Bekijk Product</a>
                                  </footer>
                              </article>
