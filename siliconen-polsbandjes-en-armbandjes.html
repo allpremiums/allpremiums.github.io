@@ -7,28 +7,46 @@ pagination:
   enabled: true
 ---
 {% include header.html %}
-  <!-- Start Page Title Area -->
-    <section class="page-title-area bg-cover1">
-       <div class="page-title-wrapper section-spacing">
-          <div class="page-title text-center white-text">
-             <h1 class="heading-1">
-               {{page.title}}
-             </h1>
-          </div>
-       </div>
-   </section>
-   <!-- End Page Title Area -->
+{% include page_header.html %}
    <!-- Start Blog  Area -->
    <section class="blog-area bg-color1">
       <div class="blog-wrapper section-spacing bminus-30">
          <div class="container">
             <div class="row">
                <div class="col-md-5 col-lg-4">
-                 {% include sidebar.html %}
+
+                 <nav class="navigation-navbar">
+                    <ul id="navigation-menu" class="slimmenu">
+                    {% for link in site.data.navigation %}
+                      {% assign active = nil %}
+
+                      {% for sublink in link.submenu %}
+                        {% if page.url contains sublink.url %}
+                          {% assign active = 'active' %}
+                        {% endif %}
+                      {% endfor %}
+
+                      {% if page.url contains link.url %}
+                        {% assign active = 'active' %}
+                      {% endif %}
+
+                      {% if link.submenu %}
+                        <ul class="themeix-dropdown-item" role="menu">
+                          {% for sublink in link.submenu %}
+                            <li {% if page.url contains sublink.url %}class="active"{% endif %}>
+                              <a href="{{ sublink.url|prepend:site.baseurl }}">{{ sublink.text }}</a>
+                            </li>
+                          {% endfor %}
+                        </ul>
+                      {% endif %}
+                  {% endfor %}
+                 </ul>
+                </nav>
+
                </div>
                <div class="col-md-7 col-lg-8">
 
-test                  
+test
                </div>
             </div>
          </div>
