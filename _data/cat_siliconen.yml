@@ -1,14 +1,20 @@
 - title: Siliconen polsbandjes bedrukken
+  description: Siliconen polsbandjes graveren voor een duurzaam effect dat niet kan slijten. U kunt de polsbandjes bestellen met een gravering in de kleur van het polsbandje, of ingevuld met een contrast kleur zodat uw eigen gravering nog meer opvalt.
   title-img: siliconen polsbandjes bedrukken
   icon: /assets/images/products/silicone_polsbandje_bedrukken_1.jpg
   url: /siliconen-polsbandjes-bedrukken
+  animation: fadeInLeft
 
 - title: Silicone polsbandjes (ingekleurd) graveren
+  description: Siliconen polsbandjes met opliggend reliëf, ook wel embossing genoemd. Het reliëf maken wij in dezelfde kleur als het silicone polsbandje, of bedrukken wij bovenop het reliëf met een andere kleur voor een mooi contrast.
   title-img: silicone polsbandjes (ingekleurd) graveren
   icon: /assets/images/gravering.jpg
   url: /siliconen-polsbandjes-graveren-ingekleurde-gravering
+  animation: fadeInRight
 
 - title: Siliconen polsbandjes opliggend relief
+  description: Door de hoogte van slechts 6mm, zijn deze extra smalle siliconen polsbandjes net even iets subtieler en minder opvallend. 
   title-img: silicone polsbandje opliggend relief
   icon: /assets/images/products/siliconen_polsbandjes_opliggend_relief.jpg
   url: /siliconen-polsbandjes-opliggend-relief-embossing
+  animation: fadeInRight

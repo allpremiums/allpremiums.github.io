@@ -51,16 +51,16 @@ pagination:
                </div>
                <div class="col-md-7 col-lg-8">
                  <div class="row">
-                     {% for support in site.data.supports %}
+                     {% for cat in site.data.cat_siliconen %}
                          <div class="col-md-6">
-                             <article class="looking-for-service wow {{support.animation}}" data-wow-duration="1s">
+                             <article class="looking-for-service wow {{cat.animation}}" data-wow-duration="1s">
                                  <header class="looking-for-logo">
-                                     <a href="{{support.url}}"><img src="{{support.icon}}" alt="{{support.name}}"></a>
+                                     <a href="{{cat.url}}"><img src="{{cat.icon}}" alt="{{cat.title}}"></a>
                                  </header>
                                  <footer class="looking-for-content">
-                                     <h4 class="heading-4"><a href="{{support.url}}">{{support.name}}</a></h4>
-                                     <p> {{support.description}}</p>
-                                     <a href="{{support.url}}" class="btn-style3 btn mt-3">{{support.button_label}}</a>
+                                     <h4 class="heading-4"><a href="{{cat.url}}">{{cat.title}}</a></h4>
+                                     <p> {{cat.description}}</p>
+                                     <a href="{{cat.url}}" class="btn-style3 btn mt-3">Bekijk Product</a>
                                  </footer>
                              </article>
                          </div>
