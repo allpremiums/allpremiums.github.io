@@ -7,7 +7,7 @@
 - text: Nieuws
   url: /blog
   submenu:
-  - text: Blog Post - Left Sidebar
+  - text: Blog Post - Left Sidebar - test
     url: /blog-post-left-sidebar
   - text: Blog Post - Right Sidebar
     url: /blog-post-right-sidebar
