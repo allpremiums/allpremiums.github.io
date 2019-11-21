@@ -31,16 +31,15 @@
     <link rel="shortcut icon" href="{{site.baseurl}}/assets/images/favicon.png" type="image/x-icon"/>
     <link rel="icon" href="{{site.baseurl}}/assets/images/favicon.png" type="image/x-icon"/>
     <!-- Add CSS File -->
-    <link rel="preload" href="{{site.baseurl}}/assets/css/app.min.css" as="style">
-    <!-- Add Javascript File -->
-    <link rel="preload" href="{{site.baseurl}}/assets/js/build.min.js" as="script">
-    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600" rel="stylesheet">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/app.min.css"/>
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600" as="style">
 
 </head>
 
 <body>
     {{content}}
     <!-- Add Javascript File -->
+   <script src="{{site.baseurl}}/assets/js/build.min.js"></script>
    		<script>
 			$(function() {
 				$('a[href*=\\#]').not(".no-smooth").on('click', function(event){
