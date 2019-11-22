@@ -49,8 +49,6 @@ collections:
     output: true
     permalink: /docs/:title/
 
-
-
 ###################################################################
 # Site configuration for the Jekyll 2 Pagination Gem
 ###################################################################
