@@ -27,6 +27,7 @@
 	{% if page.post_image %}<meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="{{ site.url }}{{ page.post_image }}">{% else %}<meta name="twitter:card"  content="summary"><meta name="twitter:image" content="{{ site.cover_image }}">{% endif %}
     <!-- Site Title -->
     <title>{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif %}</title>
+    <link rel="dns-prefetch" href="{{site.baseurl}}">
     <!--  Add Favicon -->
     <link rel="shortcut icon" href="{{site.baseurl}}/assets/images/favicon.png" type="image/x-icon"/>
     <link rel="icon" href="{{site.baseurl}}/assets/images/favicon.png" type="image/x-icon"/>
@@ -39,7 +40,7 @@
 <body>
     {{content}}
     <!-- Add Javascript File -->
-   <script src="{{site.baseurl}}/assets/js/build.min.js"></script>
+   <script async src="{{site.baseurl}}/assets/js/build.min.js"></script>
    		<script>
 			$(function() {
 				$('a[href*=\\#]').not(".no-smooth").on('click', function(event){
