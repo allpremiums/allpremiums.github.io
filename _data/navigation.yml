@@ -11,14 +11,38 @@
     url: /magneten-bedrukken-met-logo
   - text: Festivalbandjes
     url: /textiel-festivalbandjes-bedrukken-of-geweven
+  - text: Waterflesjes Bedrukken
+    url: /waterflesjes-bedrukken-met-logo-op-eigen-etiket
+  - text: keycord Bedrukken
+    url: /keycords-lanyards-bedrukken
+  - text: Bidons Bedrukken
+    url: /tacx-bidons-met-logo-bedrukken
+  - text: Kauwgom Bedrukken
+    url: /kauwgom-verpakking-bedrukken-met-eigen-logo
+  - text: Lolly Bedrukken
+    url: /bedrukte-lollies-met-logo
+  - text: Papierwaren
+    url: /schrijfblok-en-zelfklevende-memo-bedrukken
+  - text: Premiums
+    url: /premiums
+  - text: Whiteboard Magneten
+    url: /whiteboard-magneten
 - text: Nieuws
   url: /blog
 - text: Product info
   url: /bidons-bedrukken
   submenu:
   - text: Bidons bedrukken
-    url: /producten/bidons-bedrukken/
+    url: /producten/bidons-bedrukken
   - text: Kauwgom bedrukken
-    url: /producten/kauwgom-bedrukken/
+    url: /producten/kauwgom-bedrukken
+  - text: Magneten Bedrukken
+    url: /producten/magneten-bedrukken
+  - text: Festivalbandjes
+    url: /producten/festivalbandjes
+  - text: Siliconen Polsbandjes
+    url: /producten/siliconen-polsbandjes
+  - text: Waterflesjes Bedrukken
+    url: /producten/waterflesjes-bedrukken
 - text: Contact
   url: /pages/contact
