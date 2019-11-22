@@ -45,10 +45,6 @@ collections:
   testimonials:
     output: true
     permalink: /testimonials/:path/
-  producten:
-    output: true
-    permalink: /docs/:title/
-
 
 
 ###################################################################
