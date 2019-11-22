@@ -45,9 +45,9 @@ collections:
   testimonials:
     output: true
     permalink: /testimonials/:path/
-  #producten:
-  #  output: true
-  #  permalink: /producten/:title/
+  producten:
+    output: true
+    permalink: /producten/:title/
 
 
 
