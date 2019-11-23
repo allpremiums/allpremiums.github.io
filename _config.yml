@@ -5,8 +5,9 @@
 ####################################################
 
 # Site settings
-title: "Allpremiums promotieartikelen "
-email: "info@allpremiums"
+title: "Allpremiums promotieartikelen"
+email: "buddy@allpremiums"
+tel: "+31 (0) 252 - 235 253"
 description: "Allpremiums - voor de leukste promotie artikelen om reclame mee te maken"
 keywords: "premiums, give aways, promotieartikelen, promotionele producten, promotiemiddelen en weggevertjes"
 baseurl: "" # the subpath of your site, e.g. /blog

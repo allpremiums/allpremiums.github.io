@@ -1,0 +1,32 @@
+<nav class="navigation-navbar">
+   <ul id="navigation-menu" class="slimmenu-cat">
+   {% for link in site.data.navigation %}
+     {% assign active = nil %}
+
+     {% if link.text contains 'Product Categoriën' %}
+
+     {% for sublink in link.submenu %}
+       {% if page.url contains sublink.url %}
+         {% assign active = 'active' %}
+       {% endif %}
+     {% endfor %}
+
+     {% if page.url contains link.url %}
+       {% assign active = 'active' %}
+     {% endif %}
+
+     {% if link.submenu %}
+       <ul class="themeix-dropdown-item" role="menu">
+         {% for sublink in link.submenu %}
+           <li {% if page.url contains sublink.url %}class="active"{% endif %}>
+             <a href="{{ sublink.url|prepend:site.baseurl }}">{{ sublink.text }}</a>
+           </li>
+         {% endfor %}
+       </ul>
+     {% endif %}
+
+     {% endif %}
+
+ {% endfor %}
+</ul>
+</nav>
