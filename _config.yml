@@ -12,16 +12,6 @@ keywords: "premiums, give aways, promotieartikelen, promotionele producten, prom
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dev.allpremiums.nl" # the base hostname & protocol for your site, e.g. http://example.com
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png"
-#facebook: "https://www.facebook.com"
-#twitter: "https://www.twitter.com"
-#instagram: "https://www.instagram.com"
-#github: "https://www.github.com"
-#linkedin: "https://www.linkedin.com"
-#behance: "https://www.behance.com"
-#reddit: "https://www.reddit.com"
-#vimeo: "https://www.vimeo.com"
-#dribble: "https://www.dribble.com"
-#youtube: "https://www.youtube.com"
 
 ## Theme Options
 #animated_header: ""  #true
