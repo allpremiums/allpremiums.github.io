@@ -24,29 +24,30 @@ pagination:
                  {% include nav_cat.html %}
                </div>
                <div class="col-md-6 col-lg-9">
+                  <div class="row">
+                     <div class="col-md-6">
+                         <article class="looking-for-service wow {{cat.animation}}" data-wow-duration="1s">
+                             <header class="looking-for-logo">
+                                 <a href="{{support.url}}"><img src="{{support.icon}}" alt="{{support.name}}"></a>
+                             </header>
+                             <img alt="" src="https://www.allpremiums.nl/media/wysiwyg/allpremiums/silicone_polsbandjes.jpg">
+                         </article>
+                     </div>
+                     <div class="col-md-6">
+                         <article class="looking-for-service wow {{cat.animation}}" data-wow-duration="1s">
+                             <header class="looking-for-logo">
 
-                 <div class="col-md-6">
-                     <article class="looking-for-service wow {{cat.animation}}" data-wow-duration="1s">
-                         <header class="looking-for-logo">
-                             <a href="{{support.url}}"><img src="{{support.icon}}" alt="{{support.name}}"></a>
-                         </header>
-                         <img alt="" src="https://www.allpremiums.nl/media/wysiwyg/allpremiums/silicone_polsbandjes.jpg">
-                     </article>
-                 </div>
-                 <div class="col-md-6">
-                     <article class="looking-for-service wow {{cat.animation}}" data-wow-duration="1s">
-                         <header class="looking-for-logo">
-
-                         </header>
-                         <a href="">
-                           <img alt="" src="https://www.allpremiums.nl/media/wysiwyg/allpremiums/usp_silicone_polsbandjes.jpg">
-                         </a>
-                     </article>
-                 </div>
-                 <div class="col-md-9">
-                 Siliconen polsbandjes bedrukken en graveren wij met uw eigen tekst of logo. Silicone polsbanden zijn in alle kleuren leverbaar en ook te bestellen met een opliggend reliëf, swirl marmer effect, gekleurde segmenten en een lichtgevend glow in the dark effect. Silicone armbanden maken wij in verschillende maten en als u wilt ook in een extra smalle of extra brede uitvoering.
-                 Heeft u nog vragen of wilt u aanvullende informatie? Bel 0252 - 235 253
-                </div>
+                             </header>
+                             <a href="">
+                               <img alt="" src="https://www.allpremiums.nl/media/wysiwyg/allpremiums/usp_silicone_polsbandjes.jpg">
+                             </a>
+                         </article>
+                     </div>
+                   </div>
+                   <div class="col-md-12">
+                     Siliconen polsbandjes bedrukken en graveren wij met uw eigen tekst of logo. Silicone polsbanden zijn in alle kleuren leverbaar en ook te bestellen met een opliggend reliëf, swirl marmer effect, gekleurde segmenten en een lichtgevend glow in the dark effect. Silicone armbanden maken wij in verschillende maten en als u wilt ook in een extra smalle of extra brede uitvoering.
+                     Heeft u nog vragen of wilt u aanvullende informatie? Bel 0252 - 235 253
+                  </div>
 
                  <div class="row">
                      {% for cat in site.data.cat_siliconen %}
