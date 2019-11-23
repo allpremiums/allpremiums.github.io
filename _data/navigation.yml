@@ -30,7 +30,7 @@
 - text: Nieuws
   url: /blog
 - text: Product info
-  url: /producten/bidons-bedrukken
+  url: /producten
   submenu:
   - text: Bidons bedrukken
     url: /producten/bidons-bedrukken
