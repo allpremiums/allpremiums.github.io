@@ -21,6 +21,11 @@ cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-templ
 #github_username:  jekyll
 
 # Build settings
+sass:
+    style: compressed
+compress_html:
+  clippings: all
+  endings: all
 markdown: kramdown
 theme: minima
 plugins:
