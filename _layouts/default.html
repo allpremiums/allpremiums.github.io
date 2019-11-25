@@ -36,12 +36,11 @@ layout: compress
     <!-- Add CSS File -->
     <style type="text/css">
     {% capture include_to_scssify %}
-      {% include assets/css/app.min.scss %}
+      {% include css/app.min.scss %}
     {% endcapture %}
     {{ include_to_scssify | scssify }}
     </style>
 </head>
-
 <body>
     {{content}}
     {% include call_to_action.html %}
