@@ -34,10 +34,12 @@ layout: compress
     <link rel="shortcut icon" href="{{site.baseurl}}/assets/images/favicon.png" type="image/x-icon"/>
     <link rel="icon" href="{{site.baseurl}}/assets/images/favicon.png" type="image/x-icon"/>
     <!-- Add CSS File -->
+    <style type="text/css">
     {% capture include_to_scssify %}
-      {% include assets/css/app.min.css %}
+      {% include assets/css/app.min.scss %}
     {% endcapture %}
-    {{ include_to_scssify | scssify | replace: "@charset "UTF-8";", "" }}
+    {{ include_to_scssify | scssify }}
+    </style>
 </head>
 
 <body>
