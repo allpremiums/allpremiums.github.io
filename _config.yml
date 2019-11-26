@@ -21,17 +21,17 @@ cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-templ
 #github_username:  jekyll
 
 # Build settings
-#sass:
-#    style: compressed
-#compress_html:
-#  clippings: all
-#  comments: ["<!-- ", " -->"]
-#  endings: all
-#  ignore:
-#    envs: [local]
-#  blanklines: false
-#  profile: true
-#  startings: [html, head, body]
+sass:
+    style: compressed
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: true
+  startings: [html, head, body]
 markdown: kramdown
 theme: minima
 plugins:
@@ -42,8 +42,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-compress-images
 
-#compress_images:
-#  images_path: "assets/images/**/*.{gif,png,jpg,jpeg,svg}"
+compress_images:
+  images_path: "assets/images/**/*.{gif,png,jpg,jpeg,svg}"
 
 collections:
   team_members:
