@@ -1,33 +1,36 @@
 ---
-layout: page
+layout: default
 title: Wie zijn Wij
+title-page: Wie zijn Wij
 description: "Allpremiums - premiums & promotionele producten"
 keywords: "premiums & promotie artikelen"
 ---
+{% include header.html %}
+<section class="page-title-area bg-cover1">
+ <div class="page-title-wrapper section-spacing">
+    <div class="page-title text-center white-text">
+    </div>
+ </div>
+</section>
 <!-- Start Wie zijn Wij -->
-<div class="topics-area bg-color1">
-         <div class="topics-wrapper section-spacing bminus-30">
-            <div class="container">
-              <p>Allpremiums is leverancier van reclame artikelen en promotionele producten. Hoewel wij formeel in de ''relatiegeschenken branche'' werkzaam zijn, verkopen wij geen artikelen die u in de standaard catalogi tegenkomt. Met de producten die wij leveren, kunt u zichzelf juist onderscheiden van de concurrentie.</p>
-
-              <p>Wij hebben ruim 20 jaar ervaring in inkoop en productontwikkeling. Hierdoor hebben wij veel productkennis opgedaan en zijn bekend met de mogelijkheden, maar ook juist de onmogelijkheden van de producten die wij leveren. Wij geven een eerlijk en objectief advies om het juiste 'premium' in te zetten om uw product, dienst, evenement of onderneming promotioneel te ondersteunen. Wij "verkopen liever nee", dan dat wij onze afspraken niet na kunnen komen of dat u teleurgesteld raakt.</p>
-
-              <p>Dezelfde instelling vragen wij ook van onze leveranciers. Dit zijn zonder uitzondering specialisten in hun vakgebied, die net als wij de hoge kwaliteit van producten en het leveren van een optimale service enorm belangrijk vinden.</p>
-
-              <p>Onze klantenkring is divers, wij leveren ondermeer aan;</p>
-
-              <ul>
-                <li>Het Midden en Klein Bedrijf</li>
-                <li>Multinationals</li>
-                <li>Overheid: Ministeries, Provincies en Gemeenten</li>
-                <li>Verenigingen, goede doelen en onderwijsinstellingen</li>
-                <li>Particulieren</li>
-
-              <p>Wilt u meer weten over hoe onze promotionele producten reclame voor u kunnen maken?
-              Neem dan gerust vrijblijvend contact met ons op, wij helpen u graag verder!</p>
-
-              Telefoon: +31 (0) 252 - 235 253
-            </div>
-         </div>
+<section class="topics-area bg-color1">
+  <div class="topics-wrapper section-spacing bminus-30">
+    <h1 class="heading-3 text-center">{{page.title-page}}</h1>
+      <div class="container">
+        <p>Allpremiums is leverancier van reclame artikelen en promotionele producten. Hoewel wij formeel in de ''relatiegeschenken branche'' werkzaam zijn, verkopen wij geen artikelen die u in de standaard catalogi tegenkomt. Met de producten die wij leveren, kunt u zichzelf juist onderscheiden van de concurrentie.</p>
+        <p>Wij hebben ruim 20 jaar ervaring in inkoop en productontwikkeling. Hierdoor hebben wij veel productkennis opgedaan en zijn bekend met de mogelijkheden, maar ook juist de onmogelijkheden van de producten die wij leveren. Wij geven een eerlijk en objectief advies om het juiste 'premium' in te zetten om uw product, dienst, evenement of onderneming promotioneel te ondersteunen. Wij "verkopen liever nee", dan dat wij onze afspraken niet na kunnen komen of dat u teleurgesteld raakt.</p>
+        <p>Dezelfde instelling vragen wij ook van onze leveranciers. Dit zijn zonder uitzondering specialisten in hun vakgebied, die net als wij de hoge kwaliteit van producten en het leveren van een optimale service enorm belangrijk vinden.</p>
+        <p>Onze klantenkring is divers, wij leveren ondermeer aan;</p>
+        <ul>
+          <li>Het Midden en Klein Bedrijf</li>
+          <li>Multinationals</li>
+          <li>Overheid: Ministeries, Provincies en Gemeenten</li>
+          <li>Verenigingen, goede doelen en onderwijsinstellingen</li>
+          <li>Particulieren</li>
+        <p>Wilt u meer weten over hoe onze promotionele producten reclame voor u kunnen maken?
+        Neem dan gerust vrijblijvend contact met ons op, wij helpen u graag verder!</p>
+        <a href="tel:{{site.tel-link}}">Telefoon: {{site.tel}}</a>
       </div>
+    </div>
+</section>
 <!-- End Wie zijn Wij -->
