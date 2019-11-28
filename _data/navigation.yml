@@ -28,7 +28,7 @@
   - text: Whiteboard Magneten
     url: /whiteboard-magneten
 - text: Nieuws
-  url: /blog
+  url: /nieuws
 - text: Product info
   url: /producten
   submenu:
