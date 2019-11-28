@@ -3,7 +3,7 @@ layout: post_left
 title: "Extra smalle silicone polsbandjes"
 date: 2015-12-04 20:34:27 +0000
 tags: [silicone polsbandjes, bedrukken]
-post_image:
+post_image: /assets/images/blog/nieuws_smalle_silicone_polsbandjes.jpg
 comment: true
 excerpt:
 ---
