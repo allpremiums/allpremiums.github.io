@@ -16,7 +16,7 @@ pagination:
       <!-- Start Blog  Area -->
       <div class="blog-area bg-color1">
          <div class="blog-wrapper section-spacing">
-           <h1 class="heading-3 text-center">{{page.title-page}}</h1>
+           <h1 class="heading-3 text-center">{{page.title}}</h1>
             <div class="container">
                <div class="row">
                   <div class="col-md-7 col-lg-8 mx-auto">
@@ -44,7 +44,7 @@ pagination:
                         </ul>
                      </article>
                       {% endfor %}
- {% include pagination.html %}
+                      {% include pagination.html %}
                   </div>
 
                </div>
@@ -52,4 +52,3 @@ pagination:
          </div>
       </div>
       <!-- End Blog Area -->
-{% include footer.html %}
