@@ -65,7 +65,8 @@ collections:
 ###################################################################
 # Site configuration for the Jekyll 2 Pagination Gem
 ###################################################################
-
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 autopages:
   enabled: true
