@@ -68,14 +68,14 @@ collections:
 pagination:
   enabled: true
   debug: true
-  collection: 'posts'
+  #collection: 'posts'
   per_page: 5
-  permalink: '/pages/:num/' # Pages are simple html files
+  #permalink: '/page/:num/' # Pages are simple html files
   title: ':title - page :num'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-  category: 'posts'
+  #category: 'posts'
   tag: ''
   locale: ''
   trail:
