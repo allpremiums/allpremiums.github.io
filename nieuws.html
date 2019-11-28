@@ -5,6 +5,7 @@ description: "Allpremiums Nieuws - premiums & promotionele producten"
 keywords: "premiums & promotie artikelen"
 pagination:
   enabled: true
+  permalink: '/nieuws/:num/'
 ---
  {% include header.html %}
  <section class="page-title-area bg-cover1">
@@ -44,7 +45,6 @@ pagination:
                         </ul>
                      </article>
                       {% endfor %}
-                      {% include pagination.html %}
                   </div>
 
                </div>
