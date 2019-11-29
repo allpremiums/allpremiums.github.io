@@ -65,6 +65,24 @@ collections:
 ###################################################################
 # Site configuration for the Jekyll 2 Pagination Gem
 ###################################################################
+pagination:
+  enabled: true
+  debug: true
+  collection: 'posts'
+  per_page: 5
+  permalink: '/pages/:num/' # Pages are simple html files
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after:
+  extension: 'html'
+  indexpage: 'index'
 
 autopages:
   enabled: true
@@ -84,11 +102,8 @@ autopages:
 # Tag Options
 tag_page_layout: tag_page
 tag_page_dir: tag
-
-permalink: "/:title"
-paginate: 5
-paginate_path: "/:num"
-
+permalink: /:title/
+  
 feed:
   collections:
     posts:

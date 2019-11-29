@@ -26,16 +26,31 @@ pagination:
             <div class="container">
                <div class="row">
                   <div class="col-md-7 col-lg-8 mx-auto">
-                    <!-- This loops through the paginated posts -->
-
-
-                    {% for post in paginator.posts %}
-                      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                      {{ post.excerpt }}
-                    {% endfor %}
-
-  <!-- Pagination links -->
-
+                   {% for post in paginator.posts %}
+                     <article class="blog-post blog-spacing wow fadeIn" data-wow-duration="1s">
+                     	{% if post.post_image %}
+                        <div class="blog-img">
+                           <a href="single.html"><img src="{{post.post_image}}" alt="{{post.title}}"/></a>
+                        </div>
+                        {% endif %}
+                        <div class="blog-content">
+                           <h3 class="heading-3"><a href="{{post.url}}">{{post.title}}</a></h3>
+                           <div class="post-excerpt">
+                              {{post.content | truncatewords:30}}
+                           </div>
+                        </div>
+                        <ul class="blog-meta list-inline">
+                           {% if post.author %}
+                           <li class="list-inline-item"><img src="{{site.baseurl}}/assets/images/blog-author.png" alt="{{post.title}}">
+                           	<a href="{{post.author_url}}">{{post.author}}</a></li>
+                           {% endif %}
+                           {% if post.date %}
+                           <li class="list-inline-item"><img src="{{site.baseurl}}/assets/images/blog-date.png" alt="{{post.title}}">{{post.date | date_to_long_string}}</li>
+                           {% endif %}
+                        </ul>
+                     </article>
+                      {% endfor %}
+ {% include pagination.html %}
                   </div>
 
                </div>
@@ -43,3 +58,4 @@ pagination:
          </div>
       </div>
       <!-- End Blog Area -->
+{% include footer.html %}
