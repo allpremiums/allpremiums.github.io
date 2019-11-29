@@ -3,12 +3,8 @@ layout: default
 title: Nieuws
 description: "Allpremiums Nieuws - premiums & promotionele producten"
 keywords: "premiums & promotie artikelen"
-permalink: /nieuws/
 pagination:
   enabled: true
-  category: nieuws
-  permalink: '/:num/'
-
 ---
  {% include header.html %}
  <section class="page-title-area bg-cover1">
@@ -48,8 +44,8 @@ pagination:
                         </ul>
                      </article>
                       {% endfor %}
+                      {% include pagination.html %}
                   </div>
-
                </div>
             </div>
          </div>
