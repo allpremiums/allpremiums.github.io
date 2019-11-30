@@ -1,10 +1,6 @@
 <div class="single-post">
-   {% if page.post_image %}
-   <div class="single-img">
-      <img src="{{page.post_image}}" alt="{{page.title}}"/>
-   </div>
-   {% endif %}
    <div class="single-content">
+     <a href="{{page.url}}" title="{{page.title}}"><img class="img-left" src="{{page.post_image}}" alt="{{page.title}}"/></a>
       {{page.content}}
    </div>
    <div class="single-tags-share">
