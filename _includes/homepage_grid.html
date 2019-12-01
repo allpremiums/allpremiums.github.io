@@ -3,21 +3,25 @@
     <div class="headline-wrapper ">
         <div class="container">
           <div class="row">
-            <div class="col-md-5 order-md-last col-lg-3">
+            <div class="col-md-5 col-lg-3">
                {% include nav_cat.html %}
             </div>
-            {% for grid in site.data.homepage_grid %}
-                <div class="col-md-6 col-lg-3">
-                    <div class="headline-box wow fadeInUp" data-wow-duration="1s" style="visibility:visible; animation-duration:1s; animation-name:fadeInUp;">
-                        <div class="headline-logo">
-                            <a href="{{grid.url}}" title="{{grid.title-img}}"><img src="{{grid.icon}}" alt="{{grid.title}}"></a>
-                        </div>
-                        <div class="headline-content">
-                            <h4 class="heading-4"><a href="{{grid.url}}">{{grid.title}}</a></h4>
+            <div class="col-md-6 col-lg-9">
+              <div class="row">
+                {% for grid in site.data.homepage_grid %}
+                    <div class="col-md-6 col-lg-3">
+                        <div class="headline-box wow fadeInUp" data-wow-duration="1s" style="visibility:visible; animation-duration:1s; animation-name:fadeInUp;">
+                            <div class="headline-logo">
+                                <a href="{{grid.url}}" title="{{grid.title-img}}"><img src="{{grid.icon}}" alt="{{grid.title}}"></a>
+                            </div>
+                            <div class="headline-content">
+                                <h4 class="heading-4"><a href="{{grid.url}}">{{grid.title}}</a></h4>
+                            </div>
                         </div>
                     </div>
-                </div>
-            {% endfor %}
+                {% endfor %}
+              </div>
+            </div>
           </div>
         </div>
     </div>
