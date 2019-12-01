@@ -27,7 +27,7 @@ pagination:
                            <h3 class="heading-3"><a href="{{post.url}}" alt="{{post.title}}">{{post.title}}</a></h3>
                            <div class="post-excerpt">
                              {% if post.post_image %}
-                                  <a class="img-left" href="post.url" alt="{{post.title}}"><img src="{{post.post_image}}" alt="{{post.title}}"/></a>
+                                  <a class="img-left" href="{{post.url}}" alt="{{post.title}}"><img src="{{post.post_image}}" alt="{{post.title}}"/></a>
                                {% endif %}
                               {{post.content | truncatewords:30}}
                            </div>
