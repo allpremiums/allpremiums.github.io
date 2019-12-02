@@ -41,9 +41,19 @@
                 <div class="col-md-6 col-lg-3">
                     <div class="footer-widget wow fadeIn" data-wow-duration="4s">
                         <h5 class="footer-title heading-5">Laatste nieuws</h5>
-                        <ul class="footer-socials list-inline">
-
-                        </ul>
+                        {% for post in site.posts limit:5 %}
+                         <div class="recent-wrapper">
+                            <a class="recent-img" href="{{post.url}}" title="{{post.title}}">
+                            <img src="{{post.post_image}}" alt="{{post.title}}">
+                            </a>
+                            <div class="recent-details">
+                               <h6 class="heading-6"> <a href="{{post.url}}" title="{{post.title}}">{{post.title}}</a> </h6>
+                               <ul class="recent-meta list-inline">
+                                  <li class="list-inline-item">{{post.date | date_to_long_string}}</li>
+                               </ul>
+                            </div>
+                         </div>
+                        {% endfor %}
                     </div>
                 </div>
             </div>
