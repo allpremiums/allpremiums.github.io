@@ -1,8 +1,8 @@
 ---
 layout: post_left
-title: "Silicone polsbandjes met glitters"
+title: "Goedkope magneten bedrukken"
 date: 2016-01-04 12:48:10 +0000
-tags: [silicone, polsbandjes, glitters, bedrukken]
+tags: [magneten, bedrukken]
 post_image: /assets/images/blog/goedkope_magneten_bedrukken_400.jpg
 comment: true
 excerpt:
