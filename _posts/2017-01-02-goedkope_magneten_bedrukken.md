@@ -1,7 +1,7 @@
 ---
 layout: post_left
 title: "Goedkope magneten bedrukken"
-date: 2016-01-04 12:48:10 +0000
+date: 2017-01-04 12:48:10 +0000
 tags: [magneten, bedrukken]
 post_image: /assets/images/blog/goedkope_magneten_bedrukken_400.jpg
 comment: true
