@@ -42,7 +42,7 @@
                     <div class="footer-widget wow fadeIn" data-wow-duration="4s">
                         <h5 class="footer-title heading-5">Laatste nieuws</h5>
                         <div class="recent-widget sidebar-widget">
-                        {% for post in site.posts limit:5 %}
+                        {% for post in site.posts limit:4 %}
                          <div class="recent-wrapper">
                             <a class="recent-img" href="{{post.url}}" title="{{post.title}}">
                             <img src="{{post.post_image}}" alt="{{post.title}}">
