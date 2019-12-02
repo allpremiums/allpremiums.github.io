@@ -7,59 +7,52 @@ keywords: ""
 pagination:
   enabled: true
 ---
-{% include header.html %}
-<section class="page-title-area bg-cover1">
- <div class="page-title-wrapper section-spacing">
-    <div class="page-title text-center white-text">
+ <!-- Start Catalog Area -->
+ <section class="blog-area bg-color1">
+    <div class="blog-wrapper section-spacing bminus-30">
+      <h1 class="heading-3 text-center">{{page.title-page}}</h1>
+       <div class="container">
+          <div class="row">
+             <div class="order-12 col-md-5 order-lg-1 col-lg-3">
+               {% include nav_cat.html %}
+             </div>
+             <div class="order-0 col-md-6 order-lg-12 col-lg-9">
+                <div class="row">
+                   <div class="col-md-6">
+                       <article class="looking-for-service wow fadeInLeft" data-wow-duration="1s">
+                           <img alt="" src="/assets/images/banners/silicone_polsbandjes.jpg">
+                       </article>
+                   </div>
+                   <div class="col-md-6">
+                       <article class="looking-for-service wow fadeInRight" data-wow-duration="1s">
+                           <a href="">
+                             <img alt="" src="/assets/images/banners/usp_silicone_polsbandjes.jpg">
+                           </a>
+                       </article>
+                   </div>
+                </div>
+                <div class="col-md-12">
+                   <p><a class="blue" title="siliconen polsbandjes bedrukken" href="/siliconen-polsbandjes-bedrukken-rubberen-armbandjes-bedrukt">Siliconen polsbandjes bedrukken</a> en <a class="blue" title="siliconen polsbandjes graveren" href="/silicone-polsbandjes-graveren-siliconen-armbandjes-debbossing">graveren</a> wij met uw eigen tekst of logo. Silicone polsbanden zijn in alle kleuren leverbaar en ook te bestellen met een <a class="blue" title="siliconen polsbandjes opliggend relief" href="/siliconen-polsbandjes-opliggend-relief-silicone-armbandjes-embossing">opliggend reliëf</a>, <a class="blue" title="siliconen polsbandjes swirl marmer" href="/siliconen-polsbandjes-swirl-marmer-gemengde-kleuren">swirl marmer effect</a>, <a class="blue" title="siliconen polsbandjes gekleurde segmenten" href="/multi-colour-silicone-polsbandjes-met-verschillende-kleuren-gemixed">gekleurde segmenten</a> en een <a class="blue" title="glow polsbandjes" href="/glow-in-the-dark-lichtgevende-siliconen-polsbandjes">lichtgevend glow in the dark effect</a>. Silicone armbanden maken wij in verschillende maten en als u wilt ook in een <a class="blue" title="extra smalle siliconen polsbandjes" href="/extra-smalle-siliconen-polsbandjes-extra-dunne-silicone-armbandjes">extra smalle</a> of <a class="blue" title="extra brede siliconen polsbandjes" href="/extra-brede-siliconen-polsbandjes-en-armbandjes">extra brede</a> uitvoering.
+                   <p>Heeft u nog vragen of wilt u aanvullende informatie? Bel Telefoon: <a class="blue" href="tel:{{site.tel-link}}">{{site.tel}}</a></p>
+                </div>
+                <div class="row">
+                   {% for cat in site.data.cat_siliconen %}
+                       <div class="col-6 col-md-4">
+                           <article class="looking-for-service wow {{cat.animation}}" data-wow-duration="1s">
+                               <header class="headline-logo">
+                                   <a href="{{cat.url}}" title="{{cat.title-img}}"><img src="{{cat.icon}}" alt="{{cat.title}}"></a>
+                               </header>
+                               <footer class="looking-for-content">
+                                   <h4 class="heading-4"><a href="{{cat.url}}">{{cat.title}}</a></h4>
+                                   <a href="{{cat.url}}" title="{{cat.title-img}}" class="btn-style3 btn mt-3">Bekijk Product</a>
+                               </footer>
+                           </article>
+                       </div>
+                   {% endfor %}
+                </div>
+             </div>
+          </div>
+       </div>
     </div>
- </div>
-</section>
-   <!-- Start Catalog Area -->
-   <section class="blog-area bg-color1">
-      <div class="blog-wrapper section-spacing bminus-30">
-        <h1 class="heading-3 text-center">{{page.title-page}}</h1>
-         <div class="container">
-            <div class="row">
-               <div class="order-12 col-md-5 order-lg-1 col-lg-3">
-                 {% include nav_cat.html %}
-               </div>
-               <div class="order-0 col-md-6 order-lg-12 col-lg-9">
-                  <div class="row">
-                     <div class="col-md-6">
-                         <article class="looking-for-service wow fadeInLeft" data-wow-duration="1s">
-                             <img alt="" src="/assets/images/banners/silicone_polsbandjes.jpg">
-                         </article>
-                     </div>
-                     <div class="col-md-6">
-                         <article class="looking-for-service wow fadeInRight" data-wow-duration="1s">
-                             <a href="">
-                               <img alt="" src="/assets/images/banners/usp_silicone_polsbandjes.jpg">
-                             </a>
-                         </article>
-                     </div>
-                  </div>
-                  <div class="col-md-12">
-                     <p><a class="blue" title="siliconen polsbandjes bedrukken" href="/siliconen-polsbandjes-bedrukken-rubberen-armbandjes-bedrukt">Siliconen polsbandjes bedrukken</a> en <a class="blue" title="siliconen polsbandjes graveren" href="/silicone-polsbandjes-graveren-siliconen-armbandjes-debbossing">graveren</a> wij met uw eigen tekst of logo. Silicone polsbanden zijn in alle kleuren leverbaar en ook te bestellen met een <a class="blue" title="siliconen polsbandjes opliggend relief" href="/siliconen-polsbandjes-opliggend-relief-silicone-armbandjes-embossing">opliggend reliëf</a>, <a class="blue" title="siliconen polsbandjes swirl marmer" href="/siliconen-polsbandjes-swirl-marmer-gemengde-kleuren">swirl marmer effect</a>, <a class="blue" title="siliconen polsbandjes gekleurde segmenten" href="/multi-colour-silicone-polsbandjes-met-verschillende-kleuren-gemixed">gekleurde segmenten</a> en een <a class="blue" title="glow polsbandjes" href="/glow-in-the-dark-lichtgevende-siliconen-polsbandjes">lichtgevend glow in the dark effect</a>. Silicone armbanden maken wij in verschillende maten en als u wilt ook in een <a class="blue" title="extra smalle siliconen polsbandjes" href="/extra-smalle-siliconen-polsbandjes-extra-dunne-silicone-armbandjes">extra smalle</a> of <a class="blue" title="extra brede siliconen polsbandjes" href="/extra-brede-siliconen-polsbandjes-en-armbandjes">extra brede</a> uitvoering.
-                     <p>Heeft u nog vragen of wilt u aanvullende informatie? Bel Telefoon: <a class="blue" href="tel:{{site.tel-link}}">{{site.tel}}</a></p>
-                  </div>
-                  <div class="row">
-                     {% for cat in site.data.cat_siliconen %}
-                         <div class="col-6 col-md-4">
-                             <article class="looking-for-service wow {{cat.animation}}" data-wow-duration="1s">
-                                 <header class="headline-logo">
-                                     <a href="{{cat.url}}" title="{{cat.title-img}}"><img src="{{cat.icon}}" alt="{{cat.title}}"></a>
-                                 </header>
-                                 <footer class="looking-for-content">
-                                     <h4 class="heading-4"><a href="{{cat.url}}">{{cat.title}}</a></h4>
-                                     <a href="{{cat.url}}" title="{{cat.title-img}}" class="btn-style3 btn mt-3">Bekijk Product</a>
-                                 </footer>
-                             </article>
-                         </div>
-                     {% endfor %}
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section>
-   <!-- End Catalog Area -->
+ </section>
+ <!-- End Catalog Area -->
