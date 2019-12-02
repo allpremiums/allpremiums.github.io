@@ -3,18 +3,6 @@ layout: default
 pagination:
   enabled: true
 ---
-<!-- Start Page Title Area -->
-<section class="page-title-area bg-cover1"
-   >
-   <div class="page-title-wrapper section-spacing">
-      <div class="page-title text-center white-text">
-         <h1 class="heading-1">
-            {{ page.title | capitalize }}
-         </h1>
-      </div>
-   </div>
-</section>
-<!-- End Page Title Area -->
 <!-- Start Blog  Area -->
 <div class="blog-area bg-color1">
    <div class="blog-wrapper section-spacing">
@@ -25,7 +13,7 @@ pagination:
                <article class="blog-post blog-spacing wow fadeIn" data-wow-duration="1s">
                   {% if post.post_image %}
                   <div class="blog-img">
-                     <a href="single.html"><img src="{{post.post_image}}" alt="{{post.title}}"/></a>
+                     <a href="{{post.title}}"><img src="{{post.post_image}}" alt="{{post.title}}"/></a>
                   </div>
                   {% endif %}
                   <div class="blog-content">

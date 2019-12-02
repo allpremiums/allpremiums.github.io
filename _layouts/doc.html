@@ -1,29 +1,28 @@
 ---
 layout: default
 ---
-{% include doc_post_header.html %}
-    <section class="layout-area bg-color1 content tutorial">
-        <div class="layout-wrapper section-spacing bminus-30">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                      {% include doc_post_breadcrumb.html %}
-                    </div>
-                </div>
-                <div class="row">
+<section class="layout-area bg-color1 content tutorial">
+    <div class="layout-wrapper section-spacing bminus-30">
+        <div class="container">
+            <div class="row">
                 <div class="col-md-12">
-                        {% include doc_sidebar.html %}
-                    <div class="tutorial-content">
-                        <div class="doc-content">
-                          {{content}}
-                        </div>
-                    </div>
-
-                </div>
+                  {% include doc_post_breadcrumb.html %}
                 </div>
             </div>
+            <div class="row">
+            <div class="col-md-12">
+                    {% include doc_sidebar.html %}
+                <div class="tutorial-content">
+                    <div class="doc-content">
+                      {{content}}
+                    </div>
+                </div>
+
+            </div>
+            </div>
         </div>
-    </section>
+    </div>
+</section>
 <script>
 	var headings = document.querySelectorAll("h2[id]");
 	for (var i = 0; i < headings.length; i++) {
