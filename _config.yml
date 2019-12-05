@@ -59,7 +59,7 @@ collections:
     output: true
     permalink: /testimonials/:path/
   producten:
-    output: true
+    #output: true
     #permalink: /producten/:title/
 
 ###################################################################
