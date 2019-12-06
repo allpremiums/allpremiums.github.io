@@ -59,8 +59,8 @@ collections:
     output: true
     permalink: /testimonials/:path/
   producten:
-    #output: true
-    #permalink: /producten/:title/
+    output: true
+    permalink: /:collection/:title/
 
 ###################################################################
 # Site configuration for the Jekyll 2 Pagination Gem
