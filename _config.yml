@@ -110,4 +110,4 @@ webp:
   regenerate: false
   webp_path: nil
   exclude: []
-  append_ext: true
+  append_ext: false
