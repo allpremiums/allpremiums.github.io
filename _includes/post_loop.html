@@ -1,6 +1,12 @@
 <div class="single-post">
    <div class="single-content">
-     <a href="{{page.url}}" title="{{page.title}}"><img class="img-left" src="{{page.post_image}}" alt="{{page.title}}"/></a>
+     <a href="{{page.url}}" title="{{page.title}}">
+       <picture>
+         <source class="img-left" srcset="{{page.post_image}}.webp" type="image/webp">
+         <source class="img-left" srcset="{{page.post_image}}.jpg" type="image/jpeg">
+           <img class="img-left" alt="{{page.title}}" src="{{page.post_image}}.jpg">
+       </picture>
+     </a>
       {{page.content}}
    </div>
    <div class="single-tags-share">
