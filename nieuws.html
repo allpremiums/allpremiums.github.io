@@ -22,9 +22,9 @@ pagination:
                        {% if post.post_image %}
                             <a class="img-left" href="{{post.url}}" alt="{{post.title}}">
                               <picture>
-                                <source srcset="/assets/images/products/{{post.post_image}}.webp" type="image/webp">
-                                <source srcset="/assets/images/products/{{post.post_image}}.jpg" type="image/jpeg">
-                                  <img alt="{{post.title}}" src="/assets/images/products/{{post.post_image}}.jpg">
+                                <source srcset="{{post.post_image}}.webp" type="image/webp">
+                                <source srcset="{{post.post_image}}.jpg" type="image/jpeg">
+                                  <img alt="{{post.title}}" src="{{post.post_image}}.jpg">
                               </picture>
                             </a>
                          {% endif %}
