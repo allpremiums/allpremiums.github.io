@@ -3,7 +3,7 @@ layout: post_left
 title: "Silicone polsbandjes met glitters"
 date: 2016-01-04 17:42:10 +0000
 tags: [silicone, polsbandjes, glitters, bedrukken]
-post_image: /assets/images/blog/siliconen_polsbandjes_met_glitters_400.jpg
+post_image: /assets/images/blog/siliconen_polsbandjes_met_glitters_400
 comment: true
 excerpt:
 permalink: "/nieuws/:title"

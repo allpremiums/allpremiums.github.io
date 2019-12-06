@@ -3,7 +3,7 @@ layout: post_left
 title: "Memo magneten bedrukken"
 date: 2015-10-26 09:31:12 +0000
 tags: [memo, magneten, bedrukken]
-post_image: /assets/images/blog/memomagneet_bedrukken.jpg
+post_image: /assets/images/blog/memomagneet_bedrukken
 comment: true
 excerpt:
 permalink: "/nieuws/:title"

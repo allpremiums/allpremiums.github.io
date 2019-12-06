@@ -3,7 +3,7 @@ layout: post_left
 title: "Bedrukte magnetische boekenlegger"
 date: 2018-11-10 14:20:41 +0000
 tags: [boekenlegger, magneten, bedrukken]
-post_image: /assets/images/blog/magnetische_boekenleggers_bedrukken.jpg
+post_image: /assets/images/blog/magnetische_boekenleggers_bedrukken
 comment: true
 excerpt:
 permalink: "/nieuws/:title"

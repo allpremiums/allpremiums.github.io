@@ -3,7 +3,7 @@ layout: post_left
 title: "markclip bedrukte paperclips"
 date: 2015-08-31 09:59:08 +0000
 tags: [markclips, paperclips, bedrukken]
-post_image: /assets/images/blog/markclip_bedrukte_paperclips.jpg
+post_image: /assets/images/blog/markclip_bedrukte_paperclips
 comment: true
 excerpt:
 permalink: "/nieuws/:title"
