@@ -4,8 +4,6 @@ title: Bidons Bedrukken
 date: 2019-01-01 12:00:00 +0600
 post_image: assets/images/service-icon3.png
 tags: [bidons, bedrukken]
-permalink: "/producten/:title"
-
 ---
 Bidons bedrukken wij rondom, waarbij de voor- en achterkant verschillend bedrukt kunnen worden. Zo kunt u Tacx bidons met bijvoorbeeld uw logo op de voorkant laten bedrukken en uw adresgegevens op de achterkant. Het is ook mogelijk om de opdruk van logo's, afbeeldingen en teksten zonder extra kosten te combineren. Bij bidons met 750cc inhoud kunt u bovendien de bovenrand mee bedrukken, ook hiervoor wordt geen meerprijs berekend.
 

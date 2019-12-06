@@ -30,7 +30,7 @@
 - text: Nieuws
   url: /nieuws
 - text: Product info
-  url: /producten
+  url: /product-info
   submenu:
   - text: Bidons bedrukken
     url: /producten/bidons-bedrukken
