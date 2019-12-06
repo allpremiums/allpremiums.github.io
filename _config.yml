@@ -40,16 +40,7 @@ plugins:
   - jekyll-archives
   - jekyll-extract-element
   - jekyll-seo-tag
-  - jekyll-compress-images
-
-compress_images:
-  images_path: "assets/images/**/*.{gif,png,jpg,jpeg,svg}"
-
-imageoptim:
-  skip_missing_workers: true
-  nice: 5
-  threads: 4
-  svgo: false
+  - jekyll-webp
 
 collections:
   team_members:
@@ -108,3 +99,15 @@ feed:
   collections:
     posts:
       path: "/index.xml"
+
+webp:
+  enabled: true
+  quality: 75
+  img_dir: ["/assets/images"]
+  nested: true
+  formats: [".jpeg", ".jpg", ".png", ".tiff"]
+  gifs: [".gif"]
+  regenerate: false
+  webp_path: nil
+  exclude: []
+  append_ext: false

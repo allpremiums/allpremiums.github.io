@@ -18,7 +18,11 @@ pagination:
                    <div class="col-md-6">
                        <article class="looking-for-service wow fadeInLeft" data-wow-duration="1s">
                           <a href="{{page.url}}" title="{{page.title}}">
-                           <img alt="{{page.title}}" src="/assets/images/banners/silicone_polsbandjes.jpg">
+                            <picture>
+                              <source srcset="/assets/images/banners/silicone_polsbandjes.webp" type="image/webp">
+                              <source srcset="/assets/images/banners/silicone_polsbandjes.jpg" type="image/jpeg"> 
+                                <img alt="{{page.title}}" src="/assets/images/banners/silicone_polsbandjes.jpg">
+                            </picture>
                          </a>
                        </article>
                    </div>

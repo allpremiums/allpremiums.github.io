@@ -10,5 +10,5 @@ group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-extract-element', '0.0.7'
   gem 'jekyll-seo-tag', '2.4.0'
-  gem 'jekyll-compress-images'
+  gem 'jekyll-webp'
 end
