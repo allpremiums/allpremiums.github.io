@@ -5,11 +5,11 @@ title-page:
 description: "Silicone polsbandjes bedrukken wij in alle kleuren met je logo of tekst. Vraag vrijblijvend een offerte aan voor de scherpste prijs!"
 keywords: "siliconen polsbandjes bedrukken, silicone polsbanden met opdruk, bedrukte siliconen armbandjes, silicone polsbandje bedrukt met uw eigen tekst"
 carousel:
-  - image: /assets/images/products/silicone_polsbandje_bedrukken_1.jpg
-  - image: /assets/images/products/bedrukt_en_swirl_marmer_effect.jpg
-  - image: /assets/images/products/silicone_polsbandjes_bedrukt_met_gekleurde_segmenten.jpg
-  - image: /assets/images/products/bedrukt_en_glow_in_the_dark.jpg
-  - image: /assets/images/products/bedrukte_silicone_polsbandjes_2.jpg
+  - image: /assets/images/products/silicone_polsbandje_bedrukken_1
+  - image: /assets/images/products/bedrukt_en_swirl_marmer_effect
+  - image: /assets/images/products/silicone_polsbandjes_bedrukt_met_gekleurde_segmenten
+  - image: /assets/images/products/bedrukt_en_glow_in_the_dark
+  - image: /assets/images/products/bedrukte_silicone_polsbandjes_2
 jotform-id: 93403539707360
 ---
     <!-- Left Col START - PDP img + table -->
@@ -18,11 +18,16 @@ jotform-id: 93403539707360
         <!-- Left Col START - PDP img -->
         <div class="col-md-6 col-lg-6">
           <article class="looking-for-service wow fadeInLeft" data-wow-duration="1s">
+            {% for slider in page.carousel %}
             <picture>
-              <source srcset="/assets/images/products/silicone_polsbandje_bedrukken_1.webp" type="image/webp">
-              <source srcset="/assets/images/products/silicone_polsbandje_bedrukken_1.jpg" type="image/jpeg">
-                <img alt="{{page.title}}" src="/assets/images/products/silicone_polsbandje_bedrukken_1.jpg">
+                <source srcset="{{slider.image}}.webp" type="image/webp">
+                <source srcset="{{slider.image}}.jpg" type="image/jpeg">
+                <img class="slides" alt="{{page.title}}" src="{{slider.image}}.jpg" style="width:100%">
             </picture>
+            {% endfor %}
+
+            <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+            <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
           </article>
         </div>
         <!-- Left Col END - PDP img -->
@@ -128,10 +133,16 @@ jotform-id: 93403539707360
       <script type="text/javascript" src="https://form.jotformeu.com/jsform/{{page.jotform-id}}"></script>
     </div>
     <!-- Right Col END - Form -->
-    <style>.mySlides {display:none;}</style>
+    <style>
+    .slides {display:none;}
+    .w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
+    .w3-black{color:#fff!important;background-color:#000!important}
+    .w3-display-left{position:absolute;top:50%;left:0%;transform:translate(0%,-50%);-ms-transform:translate(-0%,-50%)}
+    .w3-display-right{position:absolute;top:50%;right:0%;transform:translate(0%,-50%);-ms-transform:translate(0%,-50%)}
+    </style>
     <div class="col-md-6 col-lg-6">
       {% for slider in page.carousel %}
-        <img class="mySlides" src="{{slider.image}}" style="width:100%">
+        <img class="slides" src="{{slider.image}}" style="width:100%">
       {% endfor %}
         <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
         <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
@@ -146,7 +157,7 @@ jotform-id: 93403539707360
 
     function showDivs(n) {
       var i;
-      var x = document.getElementsByClassName("mySlides");
+      var x = document.getElementsByClassName("slides");
       if (n > x.length) {slideIndex = 1}
       if (n < 1) {slideIndex = x.length}
       for (i = 0; i < x.length; i++) {
@@ -155,12 +166,3 @@ jotform-id: 93403539707360
       x[slideIndex-1].style.display = "block";
     }
     </script>
-
-    <div class="col-md-6 col-lg-6">
-      <div id="carousel" class="carousel slide" data-ride="carousel" pause="false">
-        <div class="carousel-inner text-center">
-        {% for slider in page.carousel %}
-          <div class="item img-cover img-fixed {% if forloop.first %}active{% endif %}" style="background-image:url('{{ slider.image }}')"></div>
-        {% endfor %}
-      </div>
-    </div>
