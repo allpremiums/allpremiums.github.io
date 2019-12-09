@@ -4,7 +4,7 @@ title: Siliconen polsbandjes bedrukken
 title-page:
 description: "Silicone polsbandjes bedrukken wij in alle kleuren met je logo of tekst. Vraag vrijblijvend een offerte aan voor de scherpste prijs!"
 keywords: "siliconen polsbandjes bedrukken, silicone polsbanden met opdruk, bedrukte siliconen armbandjes, silicone polsbandje bedrukt met uw eigen tekst"
-images:
+carousel:
   - image: /assets/images/products/silicone_polsbandje_bedrukken_1.jpg
   - image: /assets/images/products/bedrukt_en_swirl_marmer_effect.jpg
   - image: /assets/images/products/silicone_polsbandjes_bedrukt_met_gekleurde_segmenten.jpg
@@ -129,3 +129,12 @@ jotform-id: 93403539707360
     </div>
     <!-- Right Col END - Form -->
     {% include carousel.html height="50" unit="%" duration="7" %}
+
+<div id="carousel" class="carousel slide" data-ride="carousel" pause="false">
+  <div class="carousel-inner text-center">
+  {% for news in page.carousel %}
+    <div class="item img-cover img-fixed {% if forloop.first %}active{% endif %}" style="background-image:url('{{ news.image }}')">
+      <h2>{{ news.text }}</h2>
+    </div>
+  {% endfor %}
+</div>
