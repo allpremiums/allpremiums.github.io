@@ -8,8 +8,8 @@ carousel:
   - image: /assets/images/products/silicone_polsbandje_bedrukken_1.jpg
   - image: /assets/images/products/bedrukt_en_swirl_marmer_effect.jpg
   - image: /assets/images/products/silicone_polsbandjes_bedrukt_met_gekleurde_segmenten.jpg
-  - image: /assets/images/bedrukt_en_glow_in_the_dark.jpg
-  - image: /assets/images/bedrukte_silicone_polsbandjes_2.jpg
+  - image: /assets/images/products/bedrukt_en_glow_in_the_dark.jpg
+  - image: /assets/images/products/bedrukte_silicone_polsbandjes_2.jpg
 jotform-id: 93403539707360
 ---
     <!-- Left Col START - PDP img + table -->
@@ -128,13 +128,6 @@ jotform-id: 93403539707360
       <script type="text/javascript" src="https://form.jotformeu.com/jsform/{{page.jotform-id}}"></script>
     </div>
     <!-- Right Col END - Form -->
-    {% include carousel.html height="50" unit="%" duration="7" %}
-
-<div id="carousel" class="carousel slide" data-ride="carousel" pause="false">
-  <div class="carousel-inner text-center">
-  {% for news in page.carousel %}
-    <div class="item img-cover img-fixed {% if forloop.first %}active{% endif %}" style="background-image:url('{{ news.image }}')">
-      <h2>{{ news.text }}</h2>
+    <div class="col-md-6 col-lg-6">
+    {% include carousel.html height="300" unit="px" duration="3" %}
     </div>
-  {% endfor %}
-</div>
