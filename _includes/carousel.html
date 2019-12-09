@@ -3,7 +3,7 @@
   <picture>
       <source data-srcset="{{slider.image}}.webp" type="image/webp">
       <source data-srcset="{{slider.image}}.jpg" type="image/jpeg">
-      <img class="slides" alt="{{page.title}}" data-src="{{slider.image}}.jpg" style="width:100%">
+      <img class="slides lazy" alt="{{page.title}}" data-src="{{slider.image}}.jpg" style="width:100%">
   </picture>
   {% endfor %}
   <button class="sl-button sl-blue sl-display-left" onclick="plusDivs(-1)">&#10094;</button>
