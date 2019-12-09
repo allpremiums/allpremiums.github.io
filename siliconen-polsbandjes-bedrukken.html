@@ -128,6 +128,41 @@ jotform-id: 93403539707360
       <script type="text/javascript" src="https://form.jotformeu.com/jsform/{{page.jotform-id}}"></script>
     </div>
     <!-- Right Col END - Form -->
+    <style>.mySlides {display:none;}</style>
     <div class="col-md-6 col-lg-6">
-    {% include carousel.html height="300" unit="px" duration="3" %}
+      {% for news in page.carousel %}
+        <img class="mySlides" src="item.image" style="width:100%">
+      {% endfor %}
+        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
+    <script>
+    var slideIndex = 1;
+    showDivs(slideIndex);
+
+    function plusDivs(n) {
+      showDivs(slideIndex += n);
+    }
+
+    function showDivs(n) {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      if (n > x.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = x.length}
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+      }
+      x[slideIndex-1].style.display = "block";
+    }
+    </script>
+
+    <div class="col-md-6 col-lg-6">
+      <div id="carousel" class="carousel slide" data-ride="carousel" pause="false">
+        <div class="carousel-inner text-center">
+        {% for news in page.carousel %}
+          <div class="item img-cover img-fixed {% if forloop.first %}active{% endif %}" style="background-image:url('{{ page.image }}')">
+            <h2>{{ page.text }}</h2>
+          </div>
+        {% endfor %}
+      </div>
     </div>
