@@ -10,12 +10,14 @@
             </tr>
             </thead>
             <tbody>
+            {% raw %}
             {% for table in page.table %}
             <tr>
               <th>{{table.amount}}</th>
               <td>{{table.price}}</td>
             </tr>
             {% endfor %}
+            {% endraw %}
             </tbody>
           </table>
         </table>
