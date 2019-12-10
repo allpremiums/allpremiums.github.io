@@ -15,16 +15,6 @@ sections:
   label: Producten
   create: all
   match: "**/*"
-- type: directory
-  path: _testimonials
-  label: Testimonials
-  create: all
-  match: "**/*"
-- type: directory
-  path: _team_members
-  label: Team members
-  create: all
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
