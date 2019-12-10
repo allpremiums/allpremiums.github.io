@@ -5,14 +5,9 @@
             <col style="width:50%">
             <thead>
             <tr>
-              <th>Aantal</th>
-              <th>Prijs per stuk</th>
-              {% if table.col3 %}
-              <th>Col 3</th>
-              {% endif %}
-              {% if table.col4 %}
-              <th>Col 4</th>
-              {% endif %}
+              {% for columns in page.columns %}
+              <th>{{table.col}}</th>
+              {% endfor %}
             </tr>
             </thead>
             <tbody>
