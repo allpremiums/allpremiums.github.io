@@ -1,0 +1,23 @@
+  <div id="price-table" class="clearfix">
+     <div class="table-description clearfix">
+        <table border="0" class="amountprice">
+            <col style="width:50%">
+            <col style="width:50%">
+            <thead>
+            <tr>
+              <th>Aantal</th>
+              <th>Prijs per stuk</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for table in page.table %}
+            <tr>
+              <th>{{table.amount}}</th>
+              <td>{{table.price}}</td>
+            </tr>
+            {% endfor %}
+            </tbody>
+          </table>
+        </table>
+     </div>
+  </div>
