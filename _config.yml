@@ -43,12 +43,6 @@ plugins:
   - jekyll-webp
 
 collections:
-  team_members:
-    output: true
-    permalink: /team_members/:path/
-  testimonials:
-    output: true
-    permalink: /testimonials/:path/
   producten:
     output: true
     permalink: /:collection/:title/
