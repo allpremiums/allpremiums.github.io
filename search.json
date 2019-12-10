@@ -2,7 +2,7 @@
 layout: null
 ---
 [
-  {% for post in site.docs %}
+  {% for post in site.producten %}
     {
       "title"    : "{{ post.title | escape }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
