@@ -7,13 +7,25 @@
             <tr>
               <th>Aantal</th>
               <th>Prijs per stuk</th>
+              {% if table.col3 %}
+              <th>Col 3</th>
+              {% endif %}
+              {% if table.col4 %}
+              <th>Col 4</th>
+              {% endif %}
             </tr>
             </thead>
             <tbody>
             {% for table in page.table %}
             <tr>
-              <th>{{table.amount}}</th>
+              <td>{{table.amount}}</td>
               <td>{{table.price}}</td>
+              {% if table.col3 %}
+              <td>{{table.col3}}</td>
+              {% endif %}
+              {% if table.col4 %}
+              <td>{{table.col4}}</td>
+              {% endif %}
             </tr>
             {% endfor %}
             </tbody>
