@@ -1,17 +1,18 @@
 <article class="looking-for-service wow fadeInLeft" data-wow-duration="1s">
-  <div id="listing">
-      <div id="viewMore"></div>
-      <span id="nextPage" class="slides">
+
+  <div class="carousel slide lazy">
+    <div class="carousel-inner" role="listbox">
+      <div class="item active">
+        <img class="slides" src="{{page.main-image}}.webp" alt="{{page.title}}" style="width:100%">
+      </div>
       {% for slider in page.carousel %}
       <div class="item">
-        <img src="{{slider.image}}.webp" class="slides lazy" data-src="{{slider.image}}.webp" alt="{{page.title}}" style="width:100%" />
-          <noscript>
-            <img class="slides lazy" alt="{{page.title}}" src="{{slider.image}}.jpg" style="width:100%">
-          </noscript>
+        <img class="slides" data-src="{{slider.image}}.webp" alt="{{page.title}}" style="width:100%">
       </div>
       {% endfor %}
-      </span>
+    </div>
   </div>
+
   <i class="fa fa-angle-left sl-display-left home-top" aria-hidden="true" onclick="plusDivs(-1)"></i>
   <i class="fa fa-angle-right sl-display-right home-top" aria-hidden="true" onclick="plusDivs(1)"></i>
 </article>
@@ -24,5 +25,12 @@
 var slideIndex = 1; showDivs(slideIndex); function plusDivs(n) { showDivs(slideIndex += n); } function showDivs(n) { var i; var x = document.getElementsByClassName("slides"); if (n > x.length) {slideIndex = 1} if (n < 1) {slideIndex = x.length} for (i = 0; i < x.length; i++) { x[i].style.display = "none"; } x[slideIndex-1].style.display = "block"; }
 </script>
 <script>
-var lazy=[];function setLazy(){document.getElementById("listing").removeChild(document.getElementById("viewMore")),document.getElementById("nextPage").removeAttribute("class"),lazy=document.getElementsByClassName("lazy"),console.log("Found "+lazy.length+" lazy images")}function lazyLoad(){for(var e=0;e<lazy.length;e++)isInViewport(lazy[e])&&lazy[e].getAttribute("data-src")&&(lazy[e].src=lazy[e].getAttribute("data-src"),lazy[e].removeAttribute("data-src"));cleanLazy()}function cleanLazy(){lazy=Array.prototype.filter.call(lazy,function(e){return e.getAttribute("data-src")})}function isInViewport(e){var t=e.getBoundingClientRect();return t.bottom>=0&&t.right>=0&&t.top<=(window.innerHeight||document.documentElement.clientHeight)&&t.left<=(window.innerWidth||document.documentElement.clientWidth)}function registerListener(e,t){window.addEventListener?window.addEventListener(e,t):window.attachEvent("on"+e,t)}registerListener("load",setLazy),registerListener("load",lazyLoad),registerListener("scroll",lazyLoad),registerListener("resize",lazyLoad);
+$(function() {
+  return $(".carousel.lazy").on("slide", function(ev) {
+    var lazy;
+    lazy = $(ev.relatedTarget).find("img[data-src]");
+    lazy.attr("src", lazy.data('src'));
+    lazy.removeAttr("data-src");
+  });
+});
 </script>
