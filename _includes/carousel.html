@@ -4,7 +4,10 @@
       <span id="nextPage" class="slides">
       {% for slider in page.carousel %}
       <div class="item">
-        <img src="{{slider.image}}.jpg" class="slides lazy" data-src="{{slider.image}}.webp" alt="{{page.title}}" style="width:100%" />
+        <img src="{{slider.image}}.webp" class="slides lazy" data-src="{{slider.image}}.webp" alt="{{page.title}}" style="width:100%" />
+          <noscript>
+            <img class="slides lazy" alt="{{page.title}}" src="{{slider.image}}.jpg" style="width:100%">
+          </noscript>
       </div>
       {% endfor %}
       </span>
