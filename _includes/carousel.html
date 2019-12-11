@@ -1,18 +1,11 @@
 <article class="looking-for-service wow fadeInLeft" data-wow-duration="1s">
-
-  <div class="carousel slide lazy">
-    <div class="carousel-inner" role="listbox">
-      <div class="item active">
-        <img class="slides" src="{{page.main-image}}.webp" alt="{{page.title}}" style="width:100%">
-      </div>
-      {% for slider in page.carousel %}
-      <div class="item">
-        <img class="slides" data-src="{{slider.image}}.webp" alt="{{page.title}}" style="width:100%">
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-
+  {% for slider in page.carousel %}
+  <picture>
+      <source srcset="{{slider.image}}.webp" type="image/webp">
+      <source srcset="{{slider.image}}.jpg" type="image/jpeg">
+      <img class="slides" alt="{{page.title}}" src="{{slider.image}}.jpg" style="width:100%">
+  </picture>
+  {% endfor %}
   <i class="fa fa-angle-left sl-display-left home-top" aria-hidden="true" onclick="plusDivs(-1)"></i>
   <i class="fa fa-angle-right sl-display-right home-top" aria-hidden="true" onclick="plusDivs(1)"></i>
 </article>
@@ -23,14 +16,4 @@
 </style>
 <script>
 var slideIndex = 1; showDivs(slideIndex); function plusDivs(n) { showDivs(slideIndex += n); } function showDivs(n) { var i; var x = document.getElementsByClassName("slides"); if (n > x.length) {slideIndex = 1} if (n < 1) {slideIndex = x.length} for (i = 0; i < x.length; i++) { x[i].style.display = "none"; } x[slideIndex-1].style.display = "block"; }
-</script>
-<script>
-$(function() {
-  return $(".carousel.lazy").on("slide", function(ev) {
-    var lazy;
-    lazy = $(ev.relatedTarget).find("img[data-src]");
-    lazy.attr("src", lazy.data('src'));
-    lazy.removeAttr("data-src");
-  });
-});
 </script>
