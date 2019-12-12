@@ -13,7 +13,13 @@ pagination:
                <article class="blog-post blog-spacing wow fadeIn" data-wow-duration="1s">
                   {% if post.post_image %}
                   <div class="blog-img">
-                     <a href="{{post.title}}"><img src="{{post.post_image}}" alt="{{post.title}}"/></a>
+                     <a href="{{post.title}}">
+                       <picture>
+                         <source srcset="{{post.post_image}}.webp" type="image/webp">
+                         <source srcset="{{post.post_image}}.jpg" type="image/jpeg">
+                           <img alt="{{page.title}}" src="{{post.post_image}}.jpg">
+                       </picture>
+                     </a>
                   </div>
                   {% endif %}
                   <div class="blog-content">

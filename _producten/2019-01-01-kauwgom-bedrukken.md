@@ -2,7 +2,7 @@
 layout: doc
 title: Kauwgom Bedrukken
 date: 2019-01-01 12:00:00 +0600
-post_image: assets/images/service-icon3.png
+post_image: 
 tags: [kauwgom, bedrukken]
 ---
 Kauwgom bedrukken. Misschien niet het eerste waar u aan denkt, maar het is toch echt al jaren een favoriet promotioneel artikel voor velen van onze klanten. Bedrukte kauwgompakjes met een kartonnen sleeve, of in een plastic potje is een smaakvol product dat uw relaties zeker zullen waarderen.

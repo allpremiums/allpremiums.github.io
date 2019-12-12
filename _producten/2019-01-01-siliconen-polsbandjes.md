@@ -2,7 +2,7 @@
 layout: doc
 title: Siliconen Polsbandjes Bedrukken
 date: 2019-01-01 12:00:00 +0600
-post_image: assets/images/service-icon3.png
+post_image: 
 tags: [siliconen polsbandjes, bedrukken]
 ---
 Siliconen polsbandjes zijn bekend geworden door de Livestrong stichting van Lance Armstrong. Nog steeds reageren mensen heel enthousiast op silicone polsbandjes omdat het een uniek product is met een hoge attentie waarde. Zo worden silicone armbandjes vaak gebruikt om aandacht te vragen voor iemand die ziek is, of voor een algemeen goed doel. Daarnaast zijn de siliconen armbandjes ook heel goed te gebruiken als promotie artikel voor bedrijven, producten en evenementen. Siliconen polsbanden zijn comfortabel om te dragen en omdat wij ze in alle kleuren en maten leveren, kunnen wij altijd een geschikt bandje voor u maken.
