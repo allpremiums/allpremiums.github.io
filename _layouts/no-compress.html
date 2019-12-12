@@ -5,9 +5,12 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
+  <link rel="manifest" href="{{ site.url }}/manifest.json">
+	<meta name='description' content='{% if page.description %}{{ page.description | truncate: 320 }}{% else %}{{ site.description | truncate: 320 }}{% endif %}'>
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords}}{% else %}{{ site.keywords }}{% endif %}">
-	<!-- Facebook Open Graph -->
+  <meta name="theme-color" content="#000000">
+
+  <!-- Facebook Open Graph -->
 	<meta content="{{ site.title }}" property="og:site_name">
 	<meta property="og:locale" content="nl_NL" />
 	{% if page.title %}<meta content="{{ page.title }}" property="og:title">{% else %}<meta content="{{ site.title }}" property="og:title">{% endif %}
@@ -18,18 +21,23 @@
 	{% if page.tag %}{% for tag in page.tag %}<meta content="{{ tag }}" property="article:tag">{% endfor %}{% endif %}
 	{% if page.categories %}{% for category in page.categories limit:1 %}<meta content="{{ category }}" property="article:section">{% endfor %}{% endif %}
 	{% if page.date %}<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">{% endif %}
-	<!-- Twitter cards -->
-	<meta name="twitter:site"    content="@{{ site.twitter_username }}">
-	<meta name="twitter:creator" content="@{{ page.twitter_username }}">
-	{% if page.title %}<meta name="twitter:title"   content="{{ page.title }}">{% else %}<meta name="twitter:title"   content="{{ site.title }}">{% endif %}
-	{% if page.description %}<meta name="twitter:description" content="{{ page.description }}">{% else %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
-	{% if page.post_image %}<meta name="twitter:card"  content="summary_large_image"><meta name="twitter:image" content="{{ site.url }}{{ page.post_image }}">{% else %}<meta name="twitter:card"  content="summary"><meta name="twitter:image" content="{{ site.cover_image }}">{% endif %}
+
+  <meta name="robots" content="{{ site.robots }}"/>
+
     <!-- Site Title -->
     <title>{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif %}</title>
     <link rel="dns-prefetch" href="{{site.url}}">
     <!--  Add Favicon -->
     <link rel="shortcut icon" href="{{site.baseurl}}/assets/images/favicon.png" type="image/x-icon"/>
     <link rel="icon" href="{{site.baseurl}}/assets/images/favicon.png" type="image/x-icon"/>
+
+    <link rel="alternate" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" hreflang="x-default" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}"/>
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url}}/feed.xml">
+
+    <script type="application/ld+json">{% include metadata.json %}</script>
+    <script type="application/ld+json">{% include breadcrumb.json %}</script>
+
     <!-- Add CSS File -->
     <style type="text/css">
     {% capture include_to_scssify %}
