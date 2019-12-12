@@ -11,14 +11,14 @@ tel: "+31 (0) 252 - 235 253"
 tel-link: "+31252235253"
 description: "Allpremiums - voor de leukste promotie artikelen om reclame mee te maken"
 keywords: "premiums, give aways, promotieartikelen, promotionele producten, promotiemiddelen en weggevertjes"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dev.allpremiums.nl" # the base hostname & protocol for your site, e.g. http://example.com
-cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png"
+baseurl: ""
+url: "https://dev.allpremiums.nl"
+robots: NOINDEX,NOFOLLOW
+cover_image: "/assets/images/allpremiums-preview.png"
 
-## Theme Options
-#animated_header: ""  #true
-#twitter_username: jekyllrb
-#github_username:  jekyll
+logo: /assets/images/allpremiums-logo.svg
+logo-png: /assets/images/allpremiums-logo.png
+logo1280-png: /assets/images/allpremiums-logo-1280.png
 
 # Build settings
 sass:
