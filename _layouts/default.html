@@ -11,7 +11,7 @@ layout: compress
   <link rel="manifest" href="{{ site.url }}/manifest.json">
 	<meta name='description' content='{% if page.description %}{{ page.description | truncate: 320 }}{% else %}{{ site.description | truncate: 320 }}{% endif %}'>
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords}}{% else %}{{ site.keywords }}{% endif %}">
-  <meta name="theme-color" content="#000000">
+  <meta name="theme-color" content="#0d65b0">
 
   <!-- Facebook Open Graph -->
 	<meta content="{{ site.title }}" property="og:site_name">
@@ -59,6 +59,35 @@ layout: compress
     {% include call_to_action_footer.html %}
     {% include footer.html %}
     <!-- Add Javascript File -->
-   <script async src="{{site.baseurl}}/assets/js/build.min.js"></script>
+   <script src="{{site.baseurl}}/assets/js/build.min.js"></script>
+   {% if page.nav == 'pdp' %}
+   <script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+   <script src="{{site.baseurl}}/assets/js/yall.min.js"></script>
+   <script>
+     document.addEventListener("DOMContentLoaded", function() {
+       yall({
+         observeChanges: true,
+         events: {
+           load: function (event) {
+             if (!event.target.classList.contains("lazy") && event.target.nodeName == "IMG") {
+               event.target.classList.add("yall-loaded");
+             }
+           },
+           error: {
+             listener: function (event) {
+               if (!event.target.classList.contains("lazy") && event.target.nodeName == "IMG") {
+                 event.target.classList.add("yall-error");
+                 event.target.nextElementSibling.classList.add("visible");
+               }
+             },
+             options: {
+               once: true
+             }
+           }
+         }
+       });
+     });
+   </script>
+   {% endif %}
 </body>
 </html>
