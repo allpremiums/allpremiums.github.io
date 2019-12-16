@@ -11,7 +11,6 @@ keywords: "premiums & promotie artikelen"
       <div class="container">
          <div class="row">
             <div class="col-md-7 col-lg-8 mx-auto">
-             {% for post in paginator.posts %}
                <article class="blog-post blog-spacing wow fadeIn" data-wow-duration="1s">
 
                   <div class="blog-content">
@@ -39,8 +38,7 @@ keywords: "premiums & promotie artikelen"
                      {% endif %}
                   </ul>
                </article>
-                {% endfor %}
-                {% include pagination.html %}
+
             </div>
          </div>
       </div>
