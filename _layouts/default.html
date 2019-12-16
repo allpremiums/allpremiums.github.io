@@ -60,7 +60,6 @@ layout: compress
     {% include footer.html %}
     <!-- Add Javascript File -->
    <script src="{{site.baseurl}}/assets/js/build.min.js"></script>
-   {% if page.nav == 'pdp' %}
    <script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
    <script src="{{site.baseurl}}/assets/js/yall.min.js"></script>
    <script>
@@ -88,6 +87,5 @@ layout: compress
        });
      });
    </script>
-   {% endif %}
 </body>
 </html>

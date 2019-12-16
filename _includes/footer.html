@@ -46,10 +46,17 @@
                          <div class="recent-wrapper">
                             <a class="recent-img" href="{{post.url}}" title="{{post.title}}">
                               <picture>
-                                <source srcset="{{post.post_image}}.webp" type="image/webp">
-                                <source srcset="{{post.post_image}}.jpg" type="image/jpeg">
-                                  <img alt="{{post.title}}" src="{{post.post_image}}.jpg">
+                                  <source data-srcset="{{post.post_image}}.webp 85w" srcset="/assets/images/placeholder.webp" type="image/webp">
+                                  <source data-srcset="{{post.post_image}}.jpg 85w" srcset="/assets/images/placeholder.jpg" type="image/jpeg">
+                                  <img class="lazy" alt="{{post.title}}" data-src="{{post.post_image}}.jpg" srcset="/assets/images/placeholder.jpg" style="width:100%">
                               </picture>
+                              <noscript>
+                                <picture>
+                                    <source srcset="{{post.post_image}}.webp 85w" type="image/webp">
+                                    <source srcset="{{post.post_image}}.jpg 85w" type="image/jpeg">
+                                    <img alt="{{post.title}}" src="{{post.post_image}}.jpg" style="width:100%">
+                                </picture>
+                              </noscript>
                             </a>
                             <div class="recent-details">
                                <h6 class="heading-6"> <a href="{{post.url}}" title="{{post.title}}">{{post.title}}</a> </h6>
