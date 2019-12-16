@@ -1,10 +1,17 @@
 <article class="looking-for-service">
   {% for slider in page.carousel %}
   <picture>
-      <source data-srcset="{{slider.image}}.webp" type="image/webp">
-      <source data-srcset="{{slider.image}}.jpg" type="image/jpeg">
-      <img class="slides lazy" alt="{{page.title}}" src="{{slider.image}}.jpg" style="width:100%">
+      <source data-srcset="{{slider.image}}.webp 300w" srcset="/assets/images/placeholder.webp" type="image/webp">
+      <source data-srcset="{{slider.image}}.jpg 300w" srcset="/assets/images/placeholder.jpg" type="image/jpeg">
+      <img class="slides lazy" alt="{{page.title}}" data-src="{{slider.image}}.jpg" srcset="/assets/images/placeholder.jpg" style="width:100%">
   </picture>
+  <noscript>
+    <picture>
+        <source srcset="{{slider.image}}.webp 300w" type="image/webp">
+        <source srcset="{{slider.image}}.jpg 300w" type="image/jpeg">
+        <img class="slides" alt="{{page.title}}" src="{{slider.image}}.jpg" style="width:100%">
+    </picture>
+  </noscript>
   {% endfor %}
   <i class="fa fa-angle-left sl-display-left home-top" aria-hidden="true" onclick="plusDivs(-1)"></i>
   <i class="fa fa-angle-right sl-display-right home-top" aria-hidden="true" onclick="plusDivs(1)"></i>
