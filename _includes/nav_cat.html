@@ -16,7 +16,7 @@
      {% endif %}
 
      {% if link.submenu %}
-       <ul class="themeix-dropdown-item" role="menu">
+       <ul>
          {% for sublink in link.submenu %}
            <li {% if page.url contains sublink.url %}class="active"{% endif %}>
              <a href="{{ sublink.url|prepend:site.baseurl }}">{{ sublink.text }}</a>
