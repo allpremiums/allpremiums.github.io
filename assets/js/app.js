@@ -119,9 +119,9 @@
             }
         })
     }
-    
+
     // Parallax Window
-    
+
     if ($('.parallax-window').length > 0) {
     $('.parallax-window').parallax({
         naturalWidth: 600,
@@ -151,7 +151,7 @@
         });
     }
     // File Upload
-    $(".form-action").on("change", ".file-upload-field", function(){ 
+    $(".form-action").on("change", ".file-upload-field", function(){
         $(this).parent(".file-upload").attr("data-text",         $(this).val().replace(/.*(\/|\\)/, '') );
     });
     // timeline animation
@@ -168,7 +168,7 @@
         rect.right <= (window.innerWidth || document.documentElement.clientWidth)
       );
     }
-  
+
     function callbackFunc() {
       for (var i = 0; i < items.length; i++) {
         if (isElementInViewport(items[i])) {
@@ -194,13 +194,7 @@
 
     });
 
-
-     $('.rating').rating();
-
-    $('.ratingEvent').rating({ rateEnd: function (v) { $('#result').text(v); } });
-
-
-    // search 
+    // search
     var sjs = SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
@@ -208,22 +202,22 @@
         searchResultTemplate: '<div class="search-results"><div class="search-content"><h3><a href="{url}">{title}</a></h3></div></div>'
     });
 
-    
+
     $(".menu-heading .btn").on("click",function(){
        $(this).next("div").toggleClass("active");
     });
 
-	
-  // Sticky Sidebar	
-	
-	
-	
+
+  // Sticky Sidebar
+
+
+
 })(jQuery);
 
 
 jQuery(function() {
 	  if ($(".doc-sidebar-menu").length > 0) { // Adding Script Conditionally for the doc page
-	
+
 		var $sidebar = $('.sidebar'),
 		$content = $('.content'),
 		$tutorial = $('.tutorial-content'),
@@ -317,5 +311,3 @@ function throttle (callback, limit) {
 		}
 	};
 }
-	
-	
