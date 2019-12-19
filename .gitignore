@@ -7,3 +7,5 @@ public/
 hours
 docker-compose.yml
 _config-dev.yml
+node_modules
+package-lock.json

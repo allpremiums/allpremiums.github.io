@@ -9,32 +9,29 @@
     'use strict';
 /*
 =============================
-	Configure Options & Files 
+	Configure Options & Files
 =============================
 */
     var File_Name = 'jekyll-doxy.zip';
-    var CSS_Files = [	
+    var CSS_Files = [
 	'./assets/css/bootstrap.min.css',
 	'./assets/css/font-awesome.min.css',
 	'./assets/css/slimmenu.min.css',
 	'./assets/css/animate.min.css',
 	'./assets/css/dark-theme.css',
 	'./assets/css/owl.carousel.min.css',
-	'./assets/css/rating.css'	 
+	'./assets/css/rating.css'
     ];
     var JS_Files = [
-	'./assets/js/jquery-3.3.1.min.js',
+	'./assets/js/jquery-3.4.1.min.js',
 	'./assets/js/simple-jekyll-search.min.js',
 	'./assets/js/jquery.slimmenu.min.js',
-	'./assets/js/popper.min.js',
 	'./assets/js/bootstrap.min.js',
-	'./assets/js/owl.carousel.min.js',
 	'./assets/js/wow.min.js',
-	'./assets/js/rating.js',
-	'./assets/js/parallax.min.js',
-	'./assets/js/app.js'	
+  './assets/js/yall.min.js',
+	'./assets/js/app.js'
     ];
- 
+
 /*
 =============================
 	Include Gulp & Plugins
@@ -45,7 +42,7 @@
 		sass 			= require('gulp-sass'),
 		cleanCSS 		= require('gulp-clean-css'),
 		autoprefixer 	= require('gulp-autoprefixer'),
-		concat 			= require('gulp-concat'),		
+		concat 			= require('gulp-concat'),
 		rename 			= require('gulp-rename'),
 		uglify 			= require('gulp-uglify'),
 		terser 			= require('gulp-terser'),
@@ -58,20 +55,20 @@
 		del 			= require('del'),
 		gulpCopy 		= require('gulp-copy'),
 		runSequence 	= require('run-sequence')
-	
-		
+
+
 		sass.compiler = require('node-sass');
-			  
- 
-  
-   // Cleaning 
+
+
+
+   // Cleaning
     gulp.task('clean-production', function() {
        return del('dist', {
             force: true
         });
     });
-	
-   // SCSS	
+
+   // SCSS
     gulp.task('sass', function(done) {
         return gulp.src('./assets/scss/*.scss')
             .pipe(plumber({
@@ -86,12 +83,12 @@
             .pipe(cleanCSS())
             .pipe(gulp.dest('./assets/css'))
             .pipe(size())
-			
+
         done();
     });
-	
-   // Vendor CSS	
-   
+
+   // Vendor CSS
+
     gulp.task('vendor_css', function(done) {
         return gulp.src(CSS_Files)
             .pipe(concat('vendors.css'))
@@ -104,8 +101,8 @@
         done();
     });
 
-   // App CSS	
-   
+   // App CSS
+
     gulp.task('app_css', function(done) {
         return gulp.src(['./assets/css/vendors.min.css', './assets/css/style.min.css'])
             .pipe(concat('app.css'))
@@ -118,8 +115,8 @@
         done();
     });
 
-	
-   // js	
+
+   // js
     gulp.task('js', function(done) {
         return gulp.src(JS_Files)
             .pipe(jshint())
@@ -131,26 +128,26 @@
             .pipe(terser())
             .pipe(gulp.dest('./assets/js'))
             .pipe(size())
-			
+
         done();
     });
-	
+
   // Ghost Template Files
   gulp.task('html', function(done) {
     return gulp.src('**/*.html')
-   
+
       done();
   });
 
-  
-  
+
+
    // Watch
   gulp.task('watch', function() {
 	 gulp.watch('assets/scss/**/*.scss', gulp.series('css'));
     gulp.watch('assets/js/**/*.js', gulp.series('js'));
     gulp.watch('**/*.html', gulp.series('html'));
   });
-  
+
      // Zip
     gulp.task('zip', function(done) {
         gulp.src([
@@ -165,7 +162,7 @@
                 '!./node_modules/**',
                 '!./bower_components/**',
                 '!./dist/**',
-                '!./_site/**',				
+                '!./_site/**',
                 '!./git/**'
             ])
 			.pipe(zip('dev-' + File_Name))
@@ -173,9 +170,9 @@
             .pipe(size())
         done();
     });
-	
+
      // Production Zip
-	 
+
     gulp.task('production-zip', function(done) {
         gulp.src([
                 './dist/production/**/*',
@@ -187,10 +184,10 @@
         done();
     });
 
-	
-	
+
+
      // Copy All Files to Dist
-	
+
     gulp.task('copy_all_files', function(done) {
         return gulp.src([
                 './**/*',
@@ -200,7 +197,7 @@
                 '!package-lock.json',
                 '!.gitattributes',
                 '!gitignore',
-				'!Gemfile.lock',				
+				'!Gemfile.lock',
                 '!README.md',
                 '!./node_modules/**',
                 '!./dist/**',
@@ -211,9 +208,9 @@
             .pipe(gulp.dest('./dist/production'))
             .pipe(size())
         done();
-    }); 
-     // Copy CSS Files to Dist 
-	 
+    });
+     // Copy CSS Files to Dist
+
     gulp.task('copy_css_files', function(done) {
         return gulp.src(CSS_Files)
              .pipe(gulp.dest('./dist/production/assets/css'))
@@ -221,10 +218,10 @@
 
         done();
     });
-	
-  
-     // Copy JS Files to Dist	 	
-	
+
+
+     // Copy JS Files to Dist
+
     gulp.task('copy_js_files', function(done) {
         return gulp.src(JS_Files)
             .pipe(gulp.dest('./dist/production/assets/js'))
@@ -232,8 +229,8 @@
 
         done();
     });
-	
-  
+
+
 
     gulp.task(
         'css',
@@ -241,21 +238,21 @@
     );
 
 	// gulp build
-	
+
     gulp.task(
         'build',
         gulp.series('css', 'js', 'html')
     );
 
 	// gulp production
-	
+
     gulp.task(
         'production',
         gulp.series('build','clean-production', 'copy_all_files', 'copy_css_files', 'copy_js_files', 'production-zip', 'zip')
     );
- 
+
 	// gulp
-	
+
     gulp.task(
         'default',
         gulp.series('build', 'watch')
