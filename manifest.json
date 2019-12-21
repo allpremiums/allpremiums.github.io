@@ -7,9 +7,9 @@ layout: null
   "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}",
   "theme_color": "#0d65b0",
   "background_color": "#000000",
-  "display": "browser",
+  "display": "minimal-ui",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "{{ site.url }}",
   "lang": "",
   "orientation": "any",
   "icons": [

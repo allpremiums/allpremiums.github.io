@@ -29,6 +29,7 @@
 	'./assets/js/bootstrap.min.js',
 	'./assets/js/wow.min.js',
   './assets/js/yall.min.js',
+  './assets/js/serviceworker.js',
 	'./assets/js/app.js'
     ];
 
