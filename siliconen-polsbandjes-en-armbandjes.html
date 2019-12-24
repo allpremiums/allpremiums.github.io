@@ -9,6 +9,7 @@ keywords: ""
  <section class="blog-area bg-color1">
     <div class="blog-wrapper section-spacing bminus-30">
       <h1 class="heading-3 text-center">{{page.title-page}}</h1>
+      <a class="back-to visible-lg" aria-label="Terug naar vorige pagina" href="javascript: history.go(-1)"><i class="fa fa-angle-left" aria-hidden="true"></i> Terug naar vorige pagina </a>
        <div class="container">
           <div class="row">
              <div class="col-md-6 col-lg-12">
@@ -38,7 +39,7 @@ keywords: ""
                 </div>
                 <div class="col-md-12">
                    <p><a class="blue" title="siliconen polsbandjes bedrukken" href="/siliconen-polsbandjes-bedrukken-rubberen-armbandjes-bedrukt">Siliconen polsbandjes bedrukken</a> en <a class="blue" title="siliconen polsbandjes graveren" href="/silicone-polsbandjes-graveren-siliconen-armbandjes-debbossing">graveren</a> wij met uw eigen tekst of logo. Silicone polsbanden zijn in alle kleuren leverbaar en ook te bestellen met een <a class="blue" title="siliconen polsbandjes opliggend relief" href="/siliconen-polsbandjes-opliggend-relief-silicone-armbandjes-embossing">opliggend reliëf</a>, <a class="blue" title="siliconen polsbandjes swirl marmer" href="/siliconen-polsbandjes-swirl-marmer-gemengde-kleuren">swirl marmer effect</a>, <a class="blue" title="siliconen polsbandjes gekleurde segmenten" href="/multi-colour-silicone-polsbandjes-met-verschillende-kleuren-gemixed">gekleurde segmenten</a> en een <a class="blue" title="glow polsbandjes" href="/glow-in-the-dark-lichtgevende-siliconen-polsbandjes">lichtgevend glow in the dark effect</a>. Silicone armbanden maken wij in verschillende maten en als u wilt ook in een <a class="blue" title="extra smalle siliconen polsbandjes" href="/extra-smalle-siliconen-polsbandjes-extra-dunne-silicone-armbandjes">extra smalle</a> of <a class="blue" title="extra brede siliconen polsbandjes" href="/extra-brede-siliconen-polsbandjes-en-armbandjes">extra brede</a> uitvoering.
-                   <p>Heeft u nog vragen of wilt u aanvullende informatie? Bel Telefoon: <a class="blue" href="tel:{{site.tel-link}}">{{site.tel}}</a></p>
+                   <p>Heeft u nog vragen of wilt u aanvullende informatie? Bel: <a class="blue" href="tel:{{site.tel-link}}">{{site.tel}}</a></p>
                 </div>
                 <div class="row">
                    {% for cat in site.data.cat_siliconen %}
@@ -55,9 +56,9 @@ keywords: ""
                                </header>
                                <footer class="looking-for-content">
                                    <h4 class="heading-4 min-55"><a href="{{cat.url}}">{{cat.title}}</a></h4>
-                                   <p>Minimale: afname {{cat.afname}}</p>
-                                   <p>Levertijd: ca. {{cat.levertijd}}</p>
-                                   <p>Prijs vanaf: <span class="price">{{cat.prijs}}</span></p>
+                                   <p>Vanaf {{cat.afname}}</p>
+                                   <p>Levertijd ca. {{cat.levertijd}}</p>
+                                   <p>Prijsvoorbeeld <span class="price">{{cat.prijs}}</span></p>
                                    <a href="{{cat.url}}" title="{{cat.title-img}}" class="btn-style3 btn mt-3">Bekijk Product</a>
                                </footer>
                            </article>
