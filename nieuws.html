@@ -7,8 +7,10 @@ keywords: "premiums & promotie artikelen"
 <!-- Start Blog  Area -->
 <div class="blog-area bg-color1">
    <div class="blog-wrapper section-spacing">
-     <h1 class="heading-3 text-center">{{page.title}}</h1>
+     <h1 class="heading-3 text-center">{{page.title | upcase }}</h1>
+     {% include breadcrumbs.html %}
      <a class="back-to visible-lg" aria-label="Terug naar vorige pagina" href="javascript: history.go(-1)"><i class="fa fa-angle-left" aria-hidden="true"></i> Terug naar vorige pagina </a>
+     <div class="col-md-6 col-lg-12 tminus-10"></div>
       <div class="container">
          <div class="row">
             <div class="col-md-7 col-lg-8 mx-auto">
@@ -27,18 +29,15 @@ keywords: "premiums & promotie artikelen"
                               </picture>
                             </a>
                          {% endif %}
-                        {{post.content | truncatewords:30}}
+                         <ul class="blog-meta list-inline">
+                          {% if post.date %}
+                          <li class="list-inline-item"><img src="{{site.baseurl}}/assets/images/blog-date.png" alt="{{post.title}}">{{post.date | date_to_long_string}}</li>
+                          {% endif %}
+                         </ul>
+                        {{post.content | truncatewords:30}} <i class="fa fa-angle-right" aria-hidden="true"></i>
+                        <a href="{{post.url}}" alt="{{post.title}}">Lees verder </a>
                      </div>
                   </div>
-                  <ul class="blog-meta list-inline">
-                     {% if post.author %}
-                     <li class="list-inline-item"><img src="{{site.baseurl}}/assets/images/blog-author.png" alt="{{post.title}}">
-                     	<a href="{{post.author_url}}">{{post.author}}</a></li>
-                     {% endif %}
-                     {% if post.date %}
-                     <li class="list-inline-item"><img src="{{site.baseurl}}/assets/images/blog-date.png" alt="{{post.title}}">{{post.date | date_to_long_string}}</li>
-                     {% endif %}
-                  </ul>
                </article>
                 {% endfor %}
             </div>

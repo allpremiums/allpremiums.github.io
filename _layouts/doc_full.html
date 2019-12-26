@@ -4,11 +4,13 @@ layout: default
 <!-- Start Layout  Area -->
 <section class="layout-area bg-color1 tutorial">
     <div class="layout-wrapper section-spacing bminus-30">
+      <h1 class="heading-3 text-center">{{page.title | upcase }}</h1>
+      {% include breadcrumbs.html %}
+      <a class="back-to visible-lg" aria-label="Terug naar vorige pagina" href="javascript: history.go(-1)"><i class="fa fa-angle-left" aria-hidden="true"></i> Terug naar vorige pagina </a>
+      <div class="col-md-6 col-lg-12 tminus-10"></div>
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="heading-3 text-center">{{page.title | upcase }}</h1>
-                    <a class="back-to visible-lg" aria-label="Terug naar vorige pagina" href="javascript: history.go(-1)"><i class="fa fa-angle-left" aria-hidden="true"></i> Terug naar vorige pagina </a>
                     <div class="container">
                        <div class="row">
                       {{content}}
