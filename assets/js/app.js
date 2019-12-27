@@ -194,15 +194,6 @@
 
     });
 
-    // search
-    var sjs = SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '/search.json',
-        searchResultTemplate: '<div class="search-results"><div class="search-content"><h3><a href="{url}">{title}</a></h3></div></div>'
-    });
-
-
     $(".menu-heading .btn").on("click",function(){
        $(this).next("div").toggleClass("active");
     });
