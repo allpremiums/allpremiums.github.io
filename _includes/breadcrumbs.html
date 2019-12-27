@@ -3,6 +3,9 @@
     <div class="breadcrumbs">
       {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
       <a href="/">HOME</a>
+      {% if page.nav == 'pdp' %}
+      <a href="/{{ page.cat }}/">/{{ page.cat | upcase }}</a>
+      {% endif %}
       {% for crumb in crumbs offset: 1 %}
         {% if forloop.last %}
           / {{ page.title | upcase }}
