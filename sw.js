@@ -10,7 +10,6 @@ function updateStaticCache() {
         return cache.addAll([
             {% endraw %}
             '/assets/images/allpremiums-logo.svg',
-            '/assets/images/search-logo.png',
             '/assets/js/build.min.js',
             '/assets/css/app.min.css',
             '/offline/'
