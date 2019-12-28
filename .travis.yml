@@ -10,6 +10,9 @@ addons:
 before_install:
   - chmod +x ./script/cibuild
   - npm install -g @lhci/cli@0.3.x # install LHCI
+install:
+  - gem install jekyll
 script:
   - ./script/cibuild
+after_success:
   - lhci autorun --upload.target=temporary-public-storage # run lighthouse CI against your static site
