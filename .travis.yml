@@ -1,20 +1,18 @@
-#sudo: required
-language:
+  language:
   - node_js # Node 10 LTS or later required
-  - ruby
-rvm:
-  - 2.6.3
+#  - ruby
+#rvm:
+#  - 2.6.3
 node_js:
   - '10'
 addons:
   chrome: stable # make Chrome available
 before_install:
-  - chmod +x ./script/cibuild
+#  - chmod +x ./script/cibuild
   - npm install -g @lhci/cli@0.3.x # install LHCI
-install:
-  - bundle install
-#  - gem install jekyll
-script:
-  - ./script/cibuild
+#install:
+#  - bundle install
+#script:
+#  - ./script/cibuild
 after_success:
   - lhci autorun --upload.target=temporary-public-storage # run lighthouse CI against your static site

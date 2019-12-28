@@ -1,0 +1,27 @@
+ci:
+  collect:
+    numberOfRuns: 3
+    additive: true
+    url:
+      - https://dev.allpremiums.nl/
+      - https://dev.allpremiums.nl/siliconen-polsbandjes-en-armbandjes/
+      - https://dev.allpremiums.nl/siliconen-polsbandjes-bedrukken/
+      - https://dev.allpremiums.nl/nieuws/
+      - https://dev.allpremiums.nl/product-info/
+  assert:
+    lighthouse: all
+    assertions:
+      offscreen-images: 'on'
+      uses-webp-images: 'on'
+      color-contrast: 'on'
+      first-contentful-paint:
+        - error
+        - maxNumericValue: 2000
+          aggregationMethod: optimistic
+      interactive:
+        - error
+        - maxNumericValue: 5000
+          aggregationMethod: optimistic
+  #upload:
+  #  target: lhci
+  #  serverBaseUrl: https://lhci.example.com

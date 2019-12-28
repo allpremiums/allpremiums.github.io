@@ -44,7 +44,9 @@
 		"run-sequence": "^2.2.1",
 		"gulp-copy": "^4.0.1",
 		"gulp-string-replace": "^1.1.2",
-		"del": "^4.1.1"
+		"del": "^4.1.1",
+		"@lhci/cli": "^0.3.6",
+		"@lhci/server": "^0.3.6"
 	},
 	"devDependencies": {
 		"gulp": "^4.0.0",
