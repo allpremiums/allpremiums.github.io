@@ -1,4 +1,4 @@
-sudo: required
+#sudo: required
 language:
   - node_js # Node 10 LTS or later required
   - ruby
@@ -12,8 +12,8 @@ before_install:
   - chmod +x ./script/cibuild
   - npm install -g @lhci/cli@0.3.x # install LHCI
 install:
-  - 'bundle install'
-  - gem install jekyll
+  - bundle install
+#  - gem install jekyll
 script:
   - ./script/cibuild
 after_success:
