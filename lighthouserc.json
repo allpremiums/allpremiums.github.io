@@ -2,11 +2,7 @@
   "ci": {
     "collect": {
       "url": [
-        "https://dev.allpremiums.nl/",
-        "https://dev.allpremiums.nl/siliconen-polsbandjes-en-armbandjes/",
-        "https://dev.allpremiums.nl/siliconen-polsbandjes-bedrukken/",
-        "https://dev.allpremiums.nl/nieuws/",
-        "https://dev.allpremiums.nl/product-info/"
+        "http://localhost:4000/"
       ],
       "numberOfRuns": 3,
       "staticDistDir": "./public"
