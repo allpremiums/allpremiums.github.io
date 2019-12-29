@@ -16,4 +16,5 @@ before_install:
 #script:
 #  - ./script/cibuild
 after_success:
-  - lhci autorun --upload.target=temporary-public-storage # run lighthouse CI against your static site
+#  - lhci autorun --upload.target=temporary-public-storage # run lighthouse CI against your static site
+  - lhci autorun
