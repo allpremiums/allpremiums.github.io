@@ -22,6 +22,7 @@ ci:
         - error
         - maxNumericValue: 5000
           aggregationMethod: optimistic
-  #upload:
-  #  target: lhci
-  #  serverBaseUrl: https://lhci.example.com
+  upload:
+    target: lhci
+    serverBaseUrl: https://infinite-temple-74509.herokuapp.com/
+    token: $LHCI_TOKEN
