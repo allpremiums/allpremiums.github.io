@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem 'jekyll-extract-element', '0.0.7'
   gem 'jekyll-seo-tag', '2.4.0'
   gem 'jekyll-webp'
+  gem 'jekyll-redirect-from'
 end

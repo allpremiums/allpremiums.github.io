@@ -20,6 +20,9 @@ logo: /assets/images/allpremiums-logo.svg
 logo-png: /assets/images/allpremiums-logo.png
 logo1280-png: /assets/images/allpremiums-logo-1280.png
 
+# Google Analytics
+#analytics_id: UA-3767152-1
+
 # Build settings
 sass:
     style: compressed
@@ -41,6 +44,7 @@ plugins:
   - jekyll-extract-element
   - jekyll-seo-tag
   - jekyll-webp
+  - jekyll-redirect-from
 
 collections:
   producten:
