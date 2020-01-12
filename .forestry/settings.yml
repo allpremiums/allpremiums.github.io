@@ -7,8 +7,10 @@ sections:
 - type: directory
   path: ''
   label: Root
-  create: all
+  create: documents
   match: "**/*"
+  exclude: "*.yml"
+  new_doc_ext: ".html"
 - type: directory
   path: _data
   label: Data
