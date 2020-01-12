@@ -9,8 +9,8 @@ sections:
   label: Root
   create: documents
   match: "**/*"
-  exclude: "*.yml"
-  new_doc_ext: ".html"
+  exclude: ".yml"
+  new_doc_ext: html
 - type: directory
   path: _data
   label: Data
