@@ -3,30 +3,30 @@
 - text: Home
   url: /
 - text: Product Categoriën
-  url: /siliconen-polsbandjes-en-armbandjes
+  url: /siliconen-polsbandjes
   submenu:
   - text: Siliconen Polsbandjes
-    url: /siliconen-polsbandjes-en-armbandjes
+    url: /siliconen-polsbandjes
   - text: Magneten Bedrukken
     url: /magneten-bedrukken-met-logo
   - text: Festivalbandjes
-    url: /textiel-festivalbandjes-bedrukken-of-geweven
+    url: /festivalbandjes
   - text: Waterflesjes Bedrukken
-    url: /waterflesjes-bedrukken-met-logo-op-eigen-etiket
+    url: /waterflesjes-met-logo-bedrukken
   - text: keycord Bedrukken
     url: /keycords-lanyards-bedrukken
   - text: Bidons Bedrukken
-    url: /tacx-bidons-met-logo-bedrukken
+    url: /tacx-bidons-bedrukken
   - text: Kauwgom Bedrukken
-    url: /kauwgom-verpakking-bedrukken-met-eigen-logo
+    url: /kauwgom-bedrukken
   - text: Lolly Bedrukken
-    url: /bedrukte-lollies-met-logo
+    url: /lolly-bedrukken
   - text: Papierwaren
-    url: /schrijfblok-en-zelfklevende-memo-bedrukken
+    url: /schrijfblokken-notitieboek-bedrukken
   - text: Premiums
     url: /premiums
   - text: Whiteboard Magneten
-    url: /whiteboard-magneten
+    url: /whiteboard-magneten-bedrukken
 - text: Nieuws
   url: /nieuws
 - text: Product info
