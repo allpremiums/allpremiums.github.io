@@ -1,54 +1,37 @@
+---
 - title: SILICONEN POLSBANDJES
   title-img: siliconen polsbandjes en armbandjes
-  icon: /assets/images/products/silicone_polsbandjes_1
-  url: /siliconen-polsbandjes
-
+  icon: "/assets/images/products/silicone_polsbandjes_1"
+  url: "/siliconen-polsbandjes-en-armbandjes"
 - title: MAGNETEN BEDRUKKEN
   title-img: magneten bedrukken met logo
-  icon: /assets/images/products/magneten_bedrukken
-  url: /magneten-bedrukken-met-logo
-
+  icon: "/assets/images/products/magneten_bedrukken"
+  url: "/magneten-bedrukken-met-logo"
 - title: FESTIVALBANDJES
   title-img: textiel festivalbandjes bedrukken of geweven
-  icon: /assets/images/products/festivalbandjes
-  url: /festivalbandjes
-
+  icon: "/assets/images/products/festivalbandjes"
+  url: "/textiel-festivalbandjes-bedrukken-of-geweven"
 - title: WATERFLESJES BEDRUKKEN
   title-img: waterflesjes bedrukken met logo op eigen etiket
-  icon: /assets/images/products/waterflesjes_bedrukken
-  url: /waterflesjes-met-logo-bedrukken
-
+  icon: "/assets/images/products/waterflesjes_bedrukken"
+  url: "/waterflesjes-bedrukken-met-logo-op-eigen-etiket"
 - title: KEYCORDS BEDRUKKEN
   title-img: keycords lanyards bedrukken
-  icon: /assets/images/products/keycord
-  url: /keycords-lanyards-bedrukken
-
-- title: BIDONS BEDRUKKEN
-  title-img: tacx bidons met logo bedrukken
-  icon: /assets/images/products/bidons_bedrukken
-  url: /tacx-bidons-bedrukken
-
+  icon: "/assets/images/products/keycord"
+  url: "/keycords-lanyards-bedrukken"
 - title: KAUWGOM BEDRUKKEN
   title-img: kauwgom verpakking bedrukken met eigen logo
-  icon: /assets/images/products/kauwgom_bedrukken
-  url: /kauwgom-bedrukken
-
+  icon: "/assets/images/products/kauwgom_bedrukken"
+  url: "/kauwgom-verpakking-bedrukken-met-eigen-logo"
 - title: LOLLY BEDRUKKEN
   title-img: bedrukte lollies met logo
-  icon: /assets/images/products/lolly_bedrukken
-  url: /lolly-bedrukken
-
-- title: PAPIERWAREN
-  title-img: schrijfblok en zelfklevende memo bedrukken
-  icon: /assets/images/products/papierwaren
-  url: /schrijfblokken-notitieboek-bedrukken
-
+  icon: "/assets/images/products/lolly_bedrukken"
+  url: "/bedrukte-lollies-met-logo"
 - title: PREMIUMS
   title-img: premiums
-  icon: /assets/images/products/premiums
-  url: /premiums
-
+  icon: "/assets/images/products/premiums"
+  url: "/premiums"
 - title: WHITEBOARD MAGNETEN
   title-img: whiteboard magneten
-  icon: /assets/images/products/whiteboard_magneten_bedrukken
-  url: /whiteboard-magneten-bedrukken
+  icon: "/assets/images/products/whiteboard_magneten_bedrukken"
+  url: "/whiteboard-magneten"
