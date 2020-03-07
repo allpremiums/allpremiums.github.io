@@ -12,7 +12,7 @@
   description: Siliconen polsbandjes met opliggend reliëf, ook wel embossing genoemd. Het reliëf maken wij in dezelfde kleur als het silicone polsbandje, of bedrukken wij bovenop het reliëf met een andere kleur voor een mooi contrast.
   title-img: silicone polsbandjes (ingekleurd) graveren
   icon: gravering
-  url: /siliconen-polsbandjes-graveren-ingekleurde-gravering
+  url: /siliconen-polsbandjes-ingekleurd-graveren
   afname: 50 stuks
   levertijd: 2 weken
   prijs: € 0,25
@@ -22,7 +22,7 @@
   description: Door de hoogte van slechts 6mm, zijn deze extra smalle siliconen polsbandjes net even iets subtieler en minder opvallend.
   title-img: silicone polsbandje opliggend relief
   icon: siliconen_polsbandjes_opliggend_relief
-  url: /siliconen-polsbandjes-opliggend-relief-embossing
+  url: /siliconen-polsbandjes-opliggend-relief
   afname: 50 stuks
   levertijd: 2 weken
   prijs: € 0,25
@@ -32,7 +32,7 @@
   description: Combineer zelf verschillende kleuren in een siliconen polsbandje voor een unieke uitstraling. Met uw eigen tekst of logo bedrukt, gegraveerd of een opliggend reliëf.
   title-img: siliconen polsbandjes gekleurde segmenten
   icon: multi-color_silicone_polsbandjes
-  url: /siliconen-polsbandjes-gekleurde-segmenten-multi-color
+  url: /siliconen-polsbandjes-gekleurde-segmenten
   afname: 50 stuks
   levertijd: 2 weken
   prijs: € 0,25
@@ -42,7 +42,7 @@
   description: Siliconen polsbandjes met een marmer effect maken wij door verschillende kleuren van uw voorkeur door elkaar te mengen.
   title-img: siliconen polsbandjes marmer effect
   icon: siliconen_polsbandje_swirl_marmer
-  url: /siliconen-polsbandjes-marmer
+  url: /siliconen-polsbandjes-marmer-effect
   afname: 50 stuks
   levertijd: 2 weken
   prijs: € 0,25
@@ -88,15 +88,25 @@
   prijs: € 0,35
   animation: fadeInLeft
 
-- title: Breed & extra brede silicone polsbandje
-  description: Breed en extra brede siliconen polsbandjes van 17mm of 25mm voor nóg meer ruimte voor uw tekst en logo. Speciaal geschikt voor dubbele tekstregels en logo's met kleine details.
-  title-img: breed & extra brede silicone polsbandje
-  icon: extra_brede_siliconen_polsbandjes
-  url: /breed-en-extra-brede-silicone-polsbandje
+- title: Brede silicone polsbandje
+  description: Brede siliconen polsbandjes van 17mm voor nóg meer ruimte voor uw tekst en logo. Speciaal geschikt voor dubbele tekstregels en logo's met kleine details.
+  title-img: Brede silicone polsbandje
+  icon: brede_siliconen_polsbandjes
+  url: /brede-siliconen-polsbandjes
   afname: 50 stuks
   levertijd: 2 weken
   prijs: € 0,38
   animation: fadeInLeft
+
+- title: Extra brede silicone polsbandje
+  description: Extra brede siliconen polsbandjes 25mm voor nóg meer ruimte voor uw tekst en logo. Speciaal geschikt voor dubbele tekstregels en logo's met kleine details.
+  title-img: Extra brede silicone polsbandje
+  icon: extra_brede_siliconen_polsbandjes
+  url: /extra-brede-siliconen-polsbandjes
+  afname: 50 stuks
+  levertijd: 2 weken
+  prijs: € 0,38
+  animation: fadeInRight
 
 - title: Siliconen polsbandjes color coated
   description: Color coated silicone polsbandje met een bijzonder effect waarbij de binnen- en buitenkant van het polsbandje een andere kleur krijgen.
