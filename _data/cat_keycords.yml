@@ -1,39 +1,39 @@
+---
 - title: onbedrukte-keycords
-  description:
-  title-img:
-  icon:
-  url: /onbedrukte-keycords
-  afname: 50 stuks
-  levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+  description: 'Onbedrukte keycords, snel geleverd in 3 werkdagen. Je kunt kiezen
+    uit 3 typen keycords met verschillende accessoires. Er zijn 6 verschillende kleuren
+    leverbaar. '
+  title-img: 
+  icon: 
+  url: "/onbedrukte-keycords"
+  afname: 25 stuks
+  levertijd: 3 werkdagen
+  prijs: '100: € 1,38'
   animation: fadeInLeft
-
 - title: keycords-bedrukken-full-color
-  description:
-  title-img:
-  icon:
-  url: /keycords-bedrukken-full-color
+  description: 
+  title-img: 
+  icon: 
+  url: "/keycords-bedrukken-full-color"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+  prijs: 1.000 st. € 0,25
   animation: fadeInLeft
-
 - title: goedkoop-keycords-bedrukken
-  description:
-  title-img:
-  icon:
-  url: /goedkoop-keycords-bedrukken
+  description: 
+  title-img: 
+  icon: 
+  url: "/goedkoop-keycords-bedrukken"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+  prijs: 1.000 st. € 0,25
   animation: fadeInRight
-
 - title: snel-keycords-bedrukken
-  description:
-  title-img:
-  icon:
-  url: /snel-keycords-bedrukken
+  description: 
+  title-img: 
+  icon: 
+  url: "/snel-keycords-bedrukken"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+  prijs: 1.000 st. € 0,25
   animation: fadeInRight
