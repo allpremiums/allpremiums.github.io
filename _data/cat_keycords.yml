@@ -32,12 +32,14 @@
   levertijd: 15 werkdagen
   prijs: '250: € 1,08'
   animation: fadeInRight
-- title: snel-keycords-bedrukken
-  description: 
+- title: Snel keycords bedrukken
+  description: 'Met spoed keycords laten bedrukken? Deze keycords zijn met ca. 5 werkdagen
+    leverbaar. De definitieve levertijd is afhankelijk van het aantal kleuren opdruk
+    en keycords. Informeer snel naar de mogelijkheden!   '
   title-img: 
   icon: 
   url: "/snel-keycords-bedrukken"
-  afname: 50 stuks
-  levertijd: 2 weken
-  prijs: 1.000 st. € 0,25
+  afname: 25 stuks
+  levertijd: 6 werkdagen
+  prijs: '100: € 1,77'
   animation: fadeInRight
