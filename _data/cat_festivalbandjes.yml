@@ -10,7 +10,9 @@
   prijs: '50:  € 1,90'
   animation: fadeInLeft
 - title: Geweven festivalbandjes
-  description: 
+  description: Textiel festival bandjes met ingeweven logo en tekst. Geweven festivalbandjes
+    zijn iets grover van structuur en minder geschikt voor hele kleine details in
+    het ontwerp.
   icon: 
   url: "/geweven-festivalbandjes"
   afname: 50 stuks
