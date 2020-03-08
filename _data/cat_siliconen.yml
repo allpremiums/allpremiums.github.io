@@ -11,6 +11,7 @@
   levertijd: 2 weken
   prijs: '1.000: € 0,24'
   animation: fadeInLeft
+
 - title: Silicone polsbandjes (ingekleurd) graveren
   description: Siliconen polsbandjes met opliggend reliëf, ook wel embossing genoemd.
     Het reliëf maken wij in dezelfde kleur als het silicone polsbandje, of bedrukken
@@ -22,6 +23,7 @@
   levertijd: 2 weken
   prijs: "€ 0,25"
   animation: fadeInLeft
+
 - title: Siliconen polsbandjes opliggend relief
   description: Door de hoogte van slechts 6mm, zijn deze extra smalle siliconen polsbandjes
     net even iets subtieler en minder opvallend.
@@ -32,6 +34,7 @@
   levertijd: 2 weken
   prijs: "€ 0,25"
   animation: fadeInRight
+
 - title: Siliconen polsbandjes gekleurde segmenten
   description: Combineer zelf verschillende kleuren in een siliconen polsbandje voor
     een unieke uitstraling. Met uw eigen tekst of logo bedrukt, gegraveerd of een
@@ -43,6 +46,7 @@
   levertijd: 2 weken
   prijs: "€ 0,25"
   animation: fadeInRight
+
 - title: Siliconen polsbandjes marmer effect
   description: Siliconen polsbandjes met een marmer effect maken wij door verschillende
     kleuren van uw voorkeur door elkaar te mengen.
@@ -53,6 +57,7 @@
   levertijd: 2 weken
   prijs: "€ 0,25"
   animation: fadeInLeft
+
 - title: Siliconen polsbandjes glow in the dark
   description: Lichtgevende glow in the dark siliconen polsbandjes worden vaak gebruikt
     voor feesten en evenementen vanwege het leuke effect in het donker.
@@ -63,6 +68,7 @@
   levertijd: 2 weken
   prijs: "€ 0,28"
   animation: fadeInLeft
+
 - title: Extra smalle siliconen polsbandjes
   description: Door de hoogte van slechts 6mm, zijn deze extra smalle siliconen polsbandjes
     net even iets subtieler en minder opvallend.
@@ -73,6 +79,7 @@
   levertijd: 2 weken
   prijs: "€ 0,34"
   animation: fadeInRight
+
 - title: Siliconen polsbandjes met glitters
   description: Siliconen polsbandjes met zilveren glitters voor een feestelijk effect.
     Leverbaar met uw eigen opdruk, gravering of reliëf.
@@ -83,6 +90,7 @@
   levertijd: 2 weken
   prijs: "€ 0,34"
   animation: fadeInRight
+
 - title: Siliconen sleutelhangers
   description: Reclame maken én een leuk en praktisch relatiegeschenk weggeven? Met
     siliconen sleutelhangers blijft u steeds opnieuw onder de aandacht van uw klanten!
@@ -93,6 +101,7 @@
   levertijd: 2 weken
   prijs: "€ 0,35"
   animation: fadeInLeft
+
 - title: Brede silicone polsbandje
   description: Brede siliconen polsbandjes van 17mm voor nóg meer ruimte voor uw tekst
     en logo. Speciaal geschikt voor dubbele tekstregels en logo's met kleine details.
@@ -103,6 +112,7 @@
   levertijd: 2 weken
   prijs: "€ 0,38"
   animation: fadeInLeft
+
 - title: Extra brede silicone polsbandje
   description: Extra brede siliconen polsbandjes 25mm voor nóg meer ruimte voor uw
     tekst en logo. Speciaal geschikt voor dubbele tekstregels en logo's met kleine
@@ -114,6 +124,7 @@
   levertijd: 2 weken
   prijs: "€ 0,38"
   animation: fadeInRight
+  
 - title: Siliconen polsbandjes color coated
   description: Color coated silicone polsbandje met een bijzonder effect waarbij de
     binnen- en buitenkant van het polsbandje een andere kleur krijgen.
