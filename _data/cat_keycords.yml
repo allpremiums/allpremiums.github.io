@@ -21,14 +21,16 @@
   levertijd: 15 werkdagen
   prijs: 100 st. € 1,25
   animation: fadeInLeft
-- title: goedkoop-keycords-bedrukken
-  description: 
+- title: Goedkoop keycords bedrukken
+  description: Goedkope keycords bedrukken wij met 1 - 4 PMS kleuren. Er zijn 16 standaard
+    keycord kleuren leverbaar, de opdruk is in alle kleuren mogelijk. Verkrijgbaar
+    in 3 verschillende breedtes, een safety clip in de nek en een loskoppelbare buckle.
   title-img: 
   icon: 
   url: "/goedkoop-keycords-bedrukken"
-  afname: 50 stuks
-  levertijd: 2 weken
-  prijs: 1.000 st. € 0,25
+  afname: 250 stuks
+  levertijd: 15 werkdagen
+  prijs: '250: € 1,08'
   animation: fadeInRight
 - title: snel-keycords-bedrukken
   description: 
