@@ -1,79 +1,73 @@
+---
 - title: Goedkope magneten bedrukken
-  description:
-  title-img:
-  icon:
-  url: /goedkope-magneten-bedrukken
-  afname: 50 stuks
-  levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+  description: 
+  title-img: 
+  icon: 
+  url: "/goedkope-magneten-bedrukken"
+  afname: 100 stuks
+  levertijd: 7 werkdagen
+  prijs: '100: € 0,96'
   animation: fadeInLeft
-
 - title: Magneten bedrukken extra kleefkracht
-  description:
-  title-img:
-  icon:
-  url: /magneten-bedrukken-extra-kleefkracht
+  description: 
+  title-img: 
+  icon: 
+  url: "/magneten-bedrukken-extra-kleefkracht"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,25
+  prijs: "€ 0,25"
   animation: fadeInLeft
-
 - title: Extra stevige magneten bedrukken
-  description:
-  title-img:
-  icon:
-  url: /extra-stevige-magneten-bedrukken
+  description: 
+  title-img: 
+  icon: 
+  url: "/extra-stevige-magneten-bedrukken"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,25
+  prijs: "€ 0,25"
   animation: fadeInRight
-
 - title: Memomagneten doming bedrukken
-  description:
-  title-img:
-  icon:
-  url: /memomagneten-doming-bedrukken
+  description: 
+  title-img: 
+  icon: 
+  url: "/memomagneten-doming-bedrukken"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,25
+  prijs: "€ 0,25"
   animation: fadeInRight
-
 - title: Doming magneten bedrukken
-  description:
-  title-img:
-  icon:
-  url: /doming-magneten-bedrukken
+  description: 
+  title-img: 
+  icon: 
+  url: "/doming-magneten-bedrukken"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,25
+  prijs: "€ 0,25"
   animation: fadeInLeft
-
 - title: Plexiglas magneten bedrukken
-  description:
-  title-img:
-  icon:
-  url: /plexiglas-magneten-bedrukken
+  description: 
+  title-img: 
+  icon: 
+  url: "/plexiglas-magneten-bedrukken"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,28
+  prijs: "€ 0,28"
   animation: fadeInLeft
-
 - title: Memomagneten bedrukken
-  description:
-  title-img:
-  icon:
-  url: /memomagneten-bedrukken
+  description: 
+  title-img: 
+  icon: 
+  url: "/memomagneten-bedrukken"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,34
+  prijs: "€ 0,34"
   animation: fadeInRight
-
 - title: Onbuigbare magneten bedrukken
-  description:
-  title-img:
-  icon:
-  url: /onbuigbare-magneten-bedrukken
+  description: 
+  title-img: 
+  icon: 
+  url: "/onbuigbare-magneten-bedrukken"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,34
+  prijs: "€ 0,34"
   animation: fadeInRight
