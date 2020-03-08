@@ -1,17 +1,17 @@
+---
 - title: Textiel festivalbandjes bedrukken
-  description:
-  icon:
-  url: /textiel-festivalbandjes-bedrukken
+  description: 
+  icon: 
+  url: "/textiel-festivalbandjes-bedrukken"
   afname: 50 stuks
-  levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+  levertijd: 12 werkdagen
+  prijs: '50: 1,90'
   animation: fadeInLeft
-
 - title: Geweven festivalbandjes
-  description:
-  icon:
-  url: /geweven-festivalbandjes
+  description: 
+  icon: 
+  url: "/geweven-festivalbandjes"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,25
+  prijs: "€ 0,25"
   animation: fadeInLeft
