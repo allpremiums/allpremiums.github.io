@@ -1,29 +1,30 @@
+---
 - title: White board magneten doming bedrukken
-  description:
-  title-img: bedrukte whiteboard magneet
-  icon: bedrukte_whiteboard_magneet
-  url: /white-board-magneten-doming-bedrukken
-  afname: 50 stuks
-  levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+  description: 'Bedrukte whiteboard magneten met een mooie 3D doming. De magneten
+    worden standaard full color CMYK bedrukt met uw eigen logo, afbeelding of tekst.
+    Leverbaar met als basiskleur wit of zwart en 3 verschillende afmetingen. '
+  title-img: 
+  icon: 
+  url: "/white-board-magneten-doming-bedrukken"
+  afname: 100 stuks
+  levertijd: 7 werkdagen
+  prijs: '100: € 1,32'
   animation: fadeInLeft
-
 - title: white board magneten bedrukken
-  description:
-  title-img: memomagneten
-  icon: memomagneten_2
-  url: /white-board-magneten-bedrukken
+  description: 
+  title-img: 
+  icon: 
+  url: "/white-board-magneten-bedrukken"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+  prijs: 1.000 st. € 0,25
   animation: fadeInLeft
-
 - title: White board magneten bedrukken eigen vorm
-  description:
-  title-img: deonet hard kunststof
-  icon: deonet_hard_kunststof_1_2
-  url: /white-board-magneten-bedrukken-eigen-vorm
+  description: 
+  title-img: 
+  icon: 
+  url: "/white-board-magneten-bedrukken-eigen-vorm"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+  prijs: 1.000 st. € 0,25
   animation: fadeInRight
