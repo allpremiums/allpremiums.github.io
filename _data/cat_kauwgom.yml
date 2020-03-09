@@ -32,13 +32,15 @@
   prijs: '1.000: € 0,47'
   animation: fadeInRight
 - title: Kauwgom laten bedrukken
-  description: 
+  description: 12 stuks suikervrije kauwgom in blister. De kartonnen sleeve wordt
+    full color CMYK bedrukt, speciaal voor het bedrukken van foto's, logo's en mooie
+    afbeeldingen.
   title-img: 
   icon: 
   url: "/kauwgom-laten-bedrukken"
-  afname: 50 stuks
-  levertijd: 2 weken
-  prijs: 1.000 st. € 0,25
+  afname: 250 stuks
+  levertijd: 15 werkdagen
+  prijs: 1.000 st. € 0,63
   animation: fadeInRight
 - title: Sportlife kauwgom bedrukken
   description: 
