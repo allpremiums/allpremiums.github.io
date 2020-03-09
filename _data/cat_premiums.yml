@@ -22,11 +22,14 @@
   prijs: '75: € 2,55'
   animation: fadeInLeft
 - title: Zweetbandjes borduren
-  description: 
+  description: 'Geborduurde zweetbandjes leveren wij met een directe borduring, een
+    geweven label en jacquard geweven. Altijd met uw eigen logo, text of reclame uiting.
+    De zweetbanden zijn gemaakt van katoen en spandex voor een optimaal vochtopnemend
+    vermogen en vormvastheid. '
   title-img: 
   icon: 
   url: "/zweetbandjes-borduren"
-  afname: 50 stuks
-  levertijd: 2 weken
-  prijs: 1.000 st. € 0,25
+  afname: 100 stuks
+  levertijd: 3-4 weken
+  prijs: '100: € 3,08'
   animation: fadeInRight
