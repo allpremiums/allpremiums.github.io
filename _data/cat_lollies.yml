@@ -51,11 +51,12 @@
   prijs: 1.000 st. € 0,48
   animation: fadeInLeft
 - title: Lolly in vierkant doosje bedrukken
-  description: 
+  description: Ronde lolly verpakt in een vierkant doosje dat wij full color voor
+    je bedrukken. De lolly zelf wordt in cellofaan verpakt.
   title-img: 
   icon: 
   url: "/lolly-in-vierkant-doosje-bedrukken"
-  afname: 50 stuks
-  levertijd: 2 weken
-  prijs: 1.000 st. € 0,25
+  afname: 1.000 stuks
+  levertijd: 3 weken
+  prijs: '1.000: € 0,47'
   animation: fadeInLeft
