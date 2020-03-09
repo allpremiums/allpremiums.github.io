@@ -1,49 +1,59 @@
-- title: Siliconen polsbandjes bedrukken
-  description: Siliconen polsbandjes graveren voor een duurzaam effect dat niet kan slijten. U kunt de polsbandjes bestellen met een gravering in de kleur van het polsbandje, of ingevuld met een contrast kleur zodat uw eigen gravering nog meer opvalt.
-  title-img: siliconen polsbandjes bedrukken
-  icon: silicone_polsbandje_bedrukken_1
-  url: /siliconen-polsbandjes-bedrukken
+- title: Lolly logo bedrukken
+  description:
+  title-img:
+  icon:
+  url: /lolly-logo-bedrukken
   afname: 50 stuks
   levertijd: 2 weken
   prijs: "1.000 st. € 0,25"
   animation: fadeInLeft
 
-- title: Silicone polsbandjes (ingekleurd) graveren
-  description: Siliconen polsbandjes met opliggend reliëf, ook wel embossing genoemd. Het reliëf maken wij in dezelfde kleur als het silicone polsbandje, of bedrukken wij bovenop het reliëf met een andere kleur voor een mooi contrast.
-  title-img: silicone polsbandjes (ingekleurd) graveren
-  icon: gravering
-  url: /siliconen-polsbandjes-graveren-ingekleurde-gravering
+- title: Hartjes lolly bedrukken
+  description:
+  title-img:
+  icon:
+  url: /hartjes-lolly-bedrukken
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,25
+  prijs: "1.000 st. € 0,25"
   animation: fadeInLeft
 
-- title: Siliconen polsbandjes opliggend relief
-  description: Door de hoogte van slechts 6mm, zijn deze extra smalle siliconen polsbandjes net even iets subtieler en minder opvallend.
-  title-img: silicone polsbandje opliggend relief
-  icon: siliconen_polsbandjes_opliggend_relief
-  url: /siliconen-polsbandjes-opliggend-relief-embossing
+- title: Ronde knots lolly bedrukken
+  description:
+  title-img:
+  icon:
+  url: /ronde-knots-lolly-bedrukken
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,25
+  prijs: "1.000 st. € 0,25"
   animation: fadeInRight
 
-- title: Siliconen polsbandjes gekleurde segmenten
-  description: Combineer zelf verschillende kleuren in een siliconen polsbandje voor een unieke uitstraling. Met uw eigen tekst of logo bedrukt, gegraveerd of een opliggend reliëf.
-  title-img: siliconen polsbandjes gekleurde segmenten
-  icon: multi-color_silicone_polsbandjes
-  url: /siliconen-polsbandjes-gekleurde-segmenten-multi-color
+- title: Lolly in flowpack zakje bedrukken
+  description:
+  title-img:
+  icon:
+  url: /lolly-in-flowpack-zakje-bedrukken
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,25
+  prijs: "1.000 st. € 0,25"
   animation: fadeInRight
 
-- title: Siliconen polsbandjes marmer effect
-  description: Siliconen polsbandjes met een marmer effect maken wij door verschillende kleuren van uw voorkeur door elkaar te mengen.
-  title-img: siliconen polsbandjes marmer effect
-  icon: siliconen_polsbandje_swirl_marmer
-  url: /siliconen-polsbandjes-marmer
+- title: Lolly in kartonnen sachet bedrukken
+  description:
+  title-img:
+  icon:
+  url: /lolly-in-kartonnen-sachet-bedrukken
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: € 0,25
+  prijs: "1.000 st. € 0,25"
+  animation: fadeInLeft
+
+- title: Lolly in vierkant doosje bedrukken
+  description:
+  title-img:
+  icon:
+  url: /lolly-in-vierkant-doosje-bedrukken
+  afname: 50 stuks
+  levertijd: 2 weken
+  prijs: "1.000 st. € 0,25"
   animation: fadeInLeft

@@ -3,17 +3,20 @@
   description: Festival bandjes van textiel met uw eigen logo en tekst bedrukt. Dit
     festivalbandje voelt heel glad en zacht aan. Het is met name geschikt voor hele
     kleine details, afbeeldingen en een mooi full color kleurverloop.
-  icon: 
+  title-img:
+  icon:
   url: "/textiel-festivalbandjes-bedrukken"
   afname: 50 stuks
   levertijd: 13 werkdagen
   prijs: '50:  € 1,90'
   animation: fadeInLeft
+  
 - title: Geweven festivalbandjes
   description: Textiel festival bandjes met ingeweven logo en tekst. Geweven festivalbandjes
     zijn iets grover van structuur en minder geschikt voor hele kleine details in
     het ontwerp.
-  icon: 
+  title-img:
+  icon:
   url: "/geweven-festivalbandjes"
   afname: 50 stuks
   levertijd: 13 werkdagen

@@ -1,5 +1,6 @@
 - title: Kauwgom in zakje bedrukken
   description:
+  title-img:
   icon:
   url: /kauwgom-in-zakje-bedrukken
   afname: 50 stuks
@@ -9,6 +10,7 @@
 
 - title: Pakje kauwgom bedrukken
   description:
+  title-img:
   icon:
   url: /pakje-kauwgom-bedrukken
   afname: 50 stuks
@@ -18,6 +20,7 @@
 
 - title: Kauwgom verpakking bedrukken
   description:
+  title-img:
   icon:
   url: /kauwgom-verpakking-bedrukken
   afname: 50 stuks
@@ -27,6 +30,7 @@
 
 - title: Kauwgom laten bedrukken
   description:
+  title-img:
   icon:
   url: /kauwgom-laten-bedrukken
   afname: 50 stuks
@@ -36,6 +40,7 @@
 
 - title: Sportlife kauwgom bedrukken
   description:
+  title-img:
   icon:
   url: /sportlife-kauwgom-bedrukken
   afname: 50 stuks
