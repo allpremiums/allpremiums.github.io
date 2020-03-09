@@ -1,29 +1,30 @@
-- title: Magnetische boekenlegger met logobedrukken
-  description:
-  title-img: magnetische boekenlegger
-  icon: magnetische_boekenlegger
-  url: /magnetische-boekenlegger-met-logo-bedrukken
-  afname: 50 stuks
-  levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+---
+- title: Magnetische boekenlegger met logo bedrukken
+  description: 'Magnetische boekenlegger die wij aan 2 zijden bedrukken met uw logo,
+    reclametekst of foto afbeelding. Gemaakt van stevig 350 grams karton, full color
+    bedrukt en afgewerkt met een mooi luxe glanslaminaat.   '
+  title-img: 
+  icon: 
+  url: "/magnetische-boekenlegger-met-logo-bedrukken"
+  afname: 125 stuks
+  levertijd: 10-15 werkdagen
+  prijs: '125: € 1,59'
   animation: fadeInLeft
-
 - title: Speelkaarten bedrukken met logo
-  description:
-  title-img: speelkaarten bedrukken
-  icon: speelkaarten_bedrukken
-  url: /speelkaarten-bedrukken-met-logo
+  description: 
+  title-img: 
+  icon: 
+  url: "/speelkaarten-bedrukken-met-logo"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+  prijs: 1.000 st. € 0,25
   animation: fadeInLeft
-
 - title: Zweetbandjes borduren
-  description:
-  title-img: zweetbandje borduren
-  icon: zweetbandje_borduren_1
-  url: /zweetbandjes-borduren
+  description: 
+  title-img: 
+  icon: 
+  url: "/zweetbandjes-borduren"
   afname: 50 stuks
   levertijd: 2 weken
-  prijs: "1.000 st. € 0,25"
+  prijs: 1.000 st. € 0,25
   animation: fadeInRight
