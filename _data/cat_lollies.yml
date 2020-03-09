@@ -20,13 +20,15 @@
   prijs: '5.000: € 0,13'
   animation: fadeInLeft
 - title: Ronde knots lolly bedrukken
-  description: 
+  description: Ronde lolly, ook wel chupa of knots lolly genoemd. De opdruk wordt
+    op een wit of transparant folie gemaakt, het folie wordt vervolgens rondom de
+    lolly gewikkeld.
   title-img: 
   icon: 
   url: "/ronde-knots-lolly-bedrukken"
-  afname: 50 stuks
-  levertijd: 2 weken
-  prijs: 1.000 st. € 0,25
+  afname: 5.000 stuks
+  levertijd: 4 weken
+  prijs: '5.000: € 0,13'
   animation: fadeInRight
 - title: Lolly in flowpack zakje bedrukken
   description: 
