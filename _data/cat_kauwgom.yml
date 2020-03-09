@@ -10,13 +10,15 @@
   prijs: '5.000: € 0,17'
   animation: fadeInLeft
 - title: Pakje kauwgom bedrukken
-  description: 
+  description: 'Kauwgompakje met een blister van 5 kauwgompjes. De kartonnen sleeve
+    bedrukken wij full color zodat ook foto''s en meer kleuren logo''s mooi bedrukt
+    worden.  '
   title-img: 
   icon: 
   url: "/pakje-kauwgom-bedrukken"
-  afname: 50 stuks
-  levertijd: 2 weken
-  prijs: 1.000 st. € 0,25
+  afname: 1.000 stuks
+  levertijd: 15 werkdagen
+  prijs: '1.000: € 0,49'
   animation: fadeInLeft
 - title: Kauwgom verpakking bedrukken
   description: 
