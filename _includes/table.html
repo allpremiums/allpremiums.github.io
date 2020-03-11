@@ -1,10 +1,10 @@
   <div id="price-table" class="clearfix">
      <div class="table-description clearfix">
-        <table border="0" class="table-grid">
+        <table border="0" class="table-bordered table-striped table-sm">
             <thead>
             <tr>
               {% for columns in page.columns %}
-              <th>{{columns.col}}</th>
+              <th scope="col">{{columns.col}}</th>
               {% endfor %}
             </tr>
             </thead>
@@ -18,6 +18,12 @@
               {% endif %}
               {% if table.col4 %}
               <td>{{table.col4}}</td>
+              {% endif %}
+              {% if table.col5 %}
+              <td>{{table.col5}}</td>
+              {% endif %}
+              {% if table.col6 %}
+              <td>{{table.col6}}</td>
               {% endif %}
             </tr>
             {% endfor %}
