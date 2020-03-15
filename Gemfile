@@ -6,6 +6,7 @@ gem "liquid-c"
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
+  gem 'jekyll-include-cache'
   gem 'jekyll-paginate-v2'
   gem 'jekyll-tagging'
   gem 'jekyll-archives'

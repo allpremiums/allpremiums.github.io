@@ -39,6 +39,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
   - jekyll-paginate-v2
   - jekyll-archives
   - jekyll-seo-tag
