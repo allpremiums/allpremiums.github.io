@@ -109,3 +109,6 @@ webp:
   webp_path: nil
   exclude: []
   append_ext: false
+
+exclude:
+  - .jekyll-cache

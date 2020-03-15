@@ -13,3 +13,4 @@ lhci
 .lighthouseci
 _vendor
 .bundle
+.jekyll-cache
