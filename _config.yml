@@ -41,7 +41,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-archives
-  - jekyll-extract-element
   - jekyll-seo-tag
   - jekyll-webp
   - jekyll-redirect-from
