@@ -1,6 +1,6 @@
 ci:
   collect:
-    numberOfRuns: 3
+    numberOfRuns: 1
     additive: true
     url:
       - https://dev.allpremiums.nl/
