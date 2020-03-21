@@ -26,7 +26,7 @@ ci:
         - error
         - maxNumericValue: 5000
           aggregationMethod: optimistic
-  upload:
-    target: lhci
-    serverBaseUrl: https://ancient-hamlet-70821.herokuapp.com/
-    token: $LHCI_TOKEN
+#  upload:
+#    target: lhci
+#    serverBaseUrl: https://ancient-hamlet-70821.herokuapp.com/
+#    token: $LHCI_TOKEN
