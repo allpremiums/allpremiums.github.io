@@ -4,14 +4,14 @@ ci:
     additive: true
     url:
       - https://dev.allpremiums.nl/
-#      - https://dev.allpremiums.nl/siliconen-polsbandjes/
-#      - https://dev.allpremiums.nl/siliconen-polsbandjes-bedrukken/
-#      - https://dev.allpremiums.nl/magneten-bedrukken-met-logo/
-#      - https://dev.allpremiums.nl/goedkope-magneten-bedrukken/
-#      - https://dev.allpremiums.nl/festivalbandjes/
-#      - https://dev.allpremiums.nl/textiel-festivalbandjes-bedrukken/
-#      - https://dev.allpremiums.nl/nieuws/
-#      - https://dev.allpremiums.nl/product-info/
+      - https://dev.allpremiums.nl/siliconen-polsbandjes/
+      - https://dev.allpremiums.nl/siliconen-polsbandjes-bedrukken/
+      - https://dev.allpremiums.nl/magneten-bedrukken-met-logo/
+      - https://dev.allpremiums.nl/goedkope-magneten-bedrukken/
+      - https://dev.allpremiums.nl/festivalbandjes/
+      - https://dev.allpremiums.nl/textiel-festivalbandjes-bedrukken/
+      - https://dev.allpremiums.nl/nieuws/
+      - https://dev.allpremiums.nl/product-info/
   assert:
     lighthouse: all
     assertions:
@@ -26,7 +26,7 @@ ci:
         - error
         - maxNumericValue: 5000
           aggregationMethod: optimistic
-upload:
+  upload:
     target: lhci
     serverBaseUrl: https://lhci.bogman.info/
     token: $LHCI_TOKEN
