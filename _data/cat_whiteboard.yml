@@ -10,7 +10,6 @@
   levertijd: 7 werkdagen
   prijs: '100: € 1,32'
   animation: fadeInLeft
-
 - title: White board magneten bedrukken
   description: De bekende whiteboard magneet gemaakt van hard kunststof. Altijd geleverd
     met uw eigen opdruk, zodat u ook bij klanten en relaties goed in beeld blijft.
@@ -22,7 +21,6 @@
   levertijd: 10 werkdagen
   prijs: '100: € 1,55'
   animation: fadeInLeft
-
 - title: White board magneten bedrukken eigen vorm
   description: 'Uniek product deze bedrukte whiteboard magneten in uw eigen vorm,
     zoals een logo of product afbeelding. Gemaakt van dun hard kunsstof en op de achterzijde
@@ -33,5 +31,5 @@
   url: "/white-board-magneten-bedrukken-eigen-vorm"
   afname: 100 stuks
   levertijd: 7 werkdagen
-  prijs: '100: € 2,69'
+  prijs: '100: € 2,76'
   animation: fadeInRight
