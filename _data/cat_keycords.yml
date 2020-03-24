@@ -10,7 +10,6 @@
   levertijd: 3 werkdagen
   prijs: '100: € 1,38'
   animation: fadeInLeft
-
 - title: Keycords bedrukken full color
   description: 'Keycords full color CMYK bedrukt, gemaakt van een glad en zacht comfortabel
     materiaal. Bijzonder goed geschikt voor het bedrukken van 1 of meerdere kleuren
@@ -22,19 +21,17 @@
   levertijd: 15 werkdagen
   prijs: '100: € 1,25'
   animation: fadeInLeft
-
-- title: Goedkoop keycords bedrukken
-  description: Goedkope keycords bedrukken wij met 1 - 4 PMS kleuren. Er zijn 16 standaard
+- title: Keycords PMS - Pantone kleuren bedrukken
+  description: Keycords bedrukken wij ook met 1 - 4 PMS kleuren. Er zijn 16 standaard
     keycord kleuren leverbaar, de opdruk is in alle kleuren mogelijk. Verkrijgbaar
     in 3 verschillende breedtes, een safety clip in de nek en een loskoppelbare buckle.
   title-img: goedkoop keycords bedrukken
   icon: lanyard_bedrukken_6_1
-  url: "/goedkoop-keycords-bedrukken"
-  afname: 250 stuks
+  url: "/keycords-bedrukken"
+  afname: 100 stuks
   levertijd: 15 werkdagen
-  prijs: '250: € 1,08'
+  prijs: '100: € 1,67'
   animation: fadeInRight
-
 - title: Snel keycords bedrukken
   description: 'Met spoed keycords laten bedrukken? Deze keycords zijn met ca. 5 werkdagen
     leverbaar. De definitieve levertijd is afhankelijk van het aantal kleuren opdruk
