@@ -45,17 +45,19 @@ tags:
 <p>
 <p>doet u toch ook bij de specialist? Wij importeren de silicone bandjes zelf, zodat u altijd verzekerd bent van een snelle en goedkope levering. Wij leveren een breed assortiment silicone bandjes:</p>
 
-* siliconen polsbandjes bedrukken
-* extra smalle siliconen polsbandjes
-* siliconen polsbandje met (ingekleurde) gravering - debossed (colorfilled)
-* siliconen polsbandjes opliggend reliëf - embossed
-* siliconen polsbandjes gekleurde segmenten
-* lichtgevende glow in the dark polsbandjes
-* siliconen polsbandjes swirl marmer effect
-* siliconen polsbandjes met glitters
-* siliconen sleutelhangers
-* extra brede siliconen polsbandjes
-  <br>
+<ul>
+  <li>siliconen polsbandjes bedrukken</li>
+  <li>extra smalle siliconen polsbandjes</li>
+  <li>siliconen polsbandje met (ingekleurde) gravering - debossed (colorfilled)</li>
+  <li>siliconen polsbandjes opliggend reliëf - embossed</li>
+  <li>siliconen polsbandjes gekleurde segmenten</li>
+  <li>lichtgevende glow in the dark polsbandjes</li>
+  <li>siliconen polsbandjes swirl marmer effect</li>
+  <li>siliconen polsbandjes met glitters</li>
+  <li>siliconen sleutelhangers</li>
+  <li>extra brede siliconen polsbandjes</li>
+</ul>
+<br>
 
 ### SILICONE POLSBANDJES SNEL GELEVERD
 
