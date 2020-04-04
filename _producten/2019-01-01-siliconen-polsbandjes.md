@@ -14,30 +14,34 @@ tags:
 <br>
 
 ### SILICONEN POLSBANDJES BEDRUKKEN
+
 <p>
 <p>Bedrukte silicone polsbandjes maken wij met uw eigen logo, tekst, symbool of een combinatie ervan. Siliconen armbandjes worden bedrukt met uw favoriete Pantone of PMS kleur. Wij bedrukken teksten op het silicone armbandje in alle gangbare én custom lettertypen, precies zoal u het wenst. Combineer daarbij gerust verschillende kleuren polsbandjes én opdruk in een bestelling voor een nog leuker effect! U mag er rekening mee houden dat de opdruk na verloop van tijd, of bij intensief gebruik, wel op een gegeven moment kan gaan slijten.</p>
 <br>
 
-### SILICONE POLSBANDJES GRAVEREN
+### SILICONEN POLSBANDJES GRAVEREN
+
 <p>
 <p>Bij siliconen polsbanden met een gravering maken wij uw logo of tekst in een verdiept reliëf, zodat het als het ware "in het bandje" ligt. U kunt ervoor kiezen om de gravering in de kleur van het silicone bandje te maken, of om deze extra contrast te geven door de gravering met verf in te kleuren. Het voordeel van een gravering ten opzichte van een bedrukt polsbandje is dat deze niet kan slijten.</p>
 <br>
 
 ### SILICONEN BANDJES MAKEN
+
 <p>
 <p>wij in maar liefst vier verschillende standaard maten, waarbij u ook de mogelijkheid heeft uw eigen custom maat te bestellen. Voor specifieke doelgroepen kunt u siliconen polsbanden bestellen in het volwassen, dames, jeugd en kinderformaat. Zo kunt u altijd voor uw klanten en relaties het juiste silicone polsbandje kopen. Twijfelt u over de juiste maat? Neem contact met ons op voor een deskundig en vrijblijvend advies!</p>
 
 <ul>
-  <li>volwassenen 202x12x2mm</li>
-  <li>dames 190x12x2mm</li>
-  <li>jeugd 180x12x2mm</li>
-  <li>kinderen 150x12x2mm (leeftijd tot ca. 6 jaar)</li>
-  <li>brede (17mm), extra brede (25mm) en extra smalle (6mm) silicone polsbandjes</li>
-  <li>op aanvraag kunnen wij ook andere maten voor u maken: maximale omtrek 220mmm / maximale breedte 25mm</li>
+<li>volwassenen 202x12x2mm</li>
+<li>dames 190x12x2mm</li>
+<li>jeugd 180x12x2mm</li>
+<li>kinderen 150x12x2mm (leeftijd tot ca. 6 jaar)</li>
+<li>brede (17mm), extra brede (25mm) en extra smalle (6mm) silicone polsbandjes</li>
+<li>op aanvraag kunnen wij ook andere maten voor u maken: maximale omtrek 220mmm / maximale breedte 25mm</li>
 </ul>
 <br>
 
 ### SILICONEN BANDJES BESTELLEN EN KOPEN
+
 <p>
 <p>doet u toch ook bij de specialist? Wij importeren de silicone bandjes zelf, zodat u altijd verzekerd bent van een snelle en goedkope levering. Wij leveren een breed assortiment silicone bandjes:</p>
 
@@ -51,9 +55,10 @@ tags:
 * siliconen polsbandjes met glitters
 * siliconen sleutelhangers
 * extra brede siliconen polsbandjes
-<br>
+  <br>
 
 ### SILICONE POLSBANDJES SNEL GELEVERD
+
 <p>
 <p>Heeft u siliconen polsbandjes nodig met een korte levertijd? Wij kunnen de siliconen armbandjes snel leveren; met twee weken na akkoord op de drukproef. Twijfelt u over de haalbaarheid voor uw evenement? Neem dan gerust vrijblijvend contact met ons op om de mogelijkheden te bespreken!</p>
 <br>
