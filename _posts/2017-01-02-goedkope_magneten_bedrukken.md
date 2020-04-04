@@ -1,7 +1,7 @@
 ---
 layout: post_left
 title: Goedkope magneten bedrukken
-date: 2017-01-04T12:48:10.000+00:00
+date: 2020-02-18 13:48:10 +0100
 tags:
 - magneten
 - bedrukken
