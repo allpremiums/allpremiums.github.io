@@ -14,5 +14,4 @@ permalink: "/nieuws/:title"
 
 ---
 <br>  
-<br>  
 <p>Silicone polsbandjes met glitters voor een extra feestelijk effect! Leuk om te gebruiken op bijvoorbeeld een (kinder) feestje of een evenement. Wij leveren de siliconen bandjes met glitters met een opdruk, gravering of ingekleurde gravering. Het is zelfs mogelijk om deze glitters te leveren op glow in the dark armbandjes. Heeft u zelf een leuk idee? Neem vrijblijvend contact met ons op om de mogelijkheden te bespreken!</p>
