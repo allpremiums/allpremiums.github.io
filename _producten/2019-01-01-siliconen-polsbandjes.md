@@ -33,7 +33,7 @@ tags:
   <li>jeugd 180x12x2mm</li>
   <li>kinderen 150x12x2mm (leeftijd tot ca. 6 jaar)</li>
   <li>brede (17mm), extra brede (25mm) en extra smalle (6mm) silicone polsbandjes</li>
-  <li>wij kunnen ieder ander formaat polsbandje op aanvraag voor u maken</li>
+  <li>op aanvraag kunnen wij ook andere maten voor u maken: maximale omtrek 220mmm / maximale breedte 25mm</li>
 </ul>
 <br>
 
