@@ -52,7 +52,6 @@ layout: compress
     {% endcapture %}
     {{ include_to_scssify | scssify }}
     </style>
-    {% include_cached analytics.html %}
 </head>
 <body>
     {% include_cached header.html %}
@@ -63,6 +62,7 @@ layout: compress
     {{content}}
     {% include_cached call_to_action_footer.html %}
     {% include_cached footer.html %}
+    {% include_cached analytics.html %}
     <!-- Add Javascript File -->
    <script src="{{site.baseurl}}/assets/js/build.min.js"></script>
    <script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
