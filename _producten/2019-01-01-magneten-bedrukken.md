@@ -14,15 +14,27 @@ tags:
 
 <h3 class="pdp">Magneten bedrukken</h3>
 <p>
-<p>Wij bedrukken magneten full color cmyk, zodat foto's, logo's en afbeeldingen met kleurverlopen mooi bedrukt worden. Het is mogelijk om verschillende vormen, afmetingen en opdrukken in 1 bestelling te combineren. Ons assortiment bedrukte magneten:</p> 
+<p>Wij bedrukken magneten full color cmyk, zodat foto's, logo's en afbeeldingen met kleurverlopen mooi bedrukt worden. Het is mogelijk om verschillende vormen, afmetingen en opdrukken in 1 bestelling te combineren. Ons assortiment magneten:</p> 
 
 <ul>
 <li><a class="blue" href="https://www.allpremiums.nl/goedkope-magneten-bedrukken/" title="budget goedkope bedrukte magneten">budget / goedkope bedrukte magneten</a></li>
   
+<li><a class="blue" href="https://www.allpremiums.nl/magneten-bedrukken-extra-kleefkracht/" title="bedrukte magneten extra kleefkracht">bedrukte magneten met extra kleefracht</a></li>
   
+<li><a class="blue" href="https://www.allpremiums.nl/extra-stevige-magneten-bedrukken/" title="extra stevige magneten bedrukken">extra stevige bedrukte magneten</a></li>
   
+<li><a class="blue" href="https://www.allpremiums.nl/memomagneten-doming-bedrukken/" title="bedrukte memomagneten met doming">bedrukte memomagneten met doming</a></li>  
+ 
+<li><a class="blue" href="https://www.allpremiums.nl/doming-magneten-bedrukken/" title="bedrukte doming magneten">bedrukte doming magneten</a></li>    
   
-
+<li><a class="blue" href="https://www.allpremiums.nl/plexiglas-magneten-bedrukken/" title="bedrukte plexiglas magneten">bedrukte plexiglas magneten</a></li>      
+  
+<li><a class="blue" href="https://www.allpremiums.nl/memomagneten-bedrukken/" title="bedrukte memo magneten">bedrukte memo magneten</a></li>       
+  
+<li><a class="blue" href="https://www.allpremiums.nl/onbuigbare-magneten-bedrukken/" title="onbuigbare bedrukte magneten">onbuigbare bedrukte magneten</a></li>    
+</ul>
+<br>
+  
 <h3 class="pdp">Beste kwaliteit bedrukte magneten</h3>
 <p>
 <p>De magneten met opdruk die u bij Allpremiums bestelt zijn van de beste kwaliteit. Er zijn bedrijven die goedkopere magneten aanbieden, maar deze hebben een papieren / vouwkarton toplaag die snel bij de randen beschadigd. De magneten die wij leveren hebben een sterke vinyl toplaag. Deze vinyl toplaag is heel duurzaam en beschadigd niet aan de randen, ook niet wanneer u de magneten vaak oppakt. De magneten zijn daarmee eigenlijk bijna onslijtbaar.</p>
