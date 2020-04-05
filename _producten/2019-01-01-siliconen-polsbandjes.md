@@ -73,4 +73,4 @@ tags:
 <p>Heeft u met spoed siliconen polsbandjes nodig met een korte levertijd? Wij kunnen de siliconen armbandjes snel leveren: met twee weken na akkoord op de drukproef. Twijfelt u over de haalbaarheid voor uw evenement? Neem dan gerust vrijblijvend contact met ons op om de mogelijkheden te bespreken!</p>
 <br>
 
-<p>Bel ons op telefoonnummer: +31 (0) 252-235 253.</p>
+<p>Bel ons op telefoonnummer: +31 (0) 252 - 235 253.</p>
