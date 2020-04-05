@@ -32,6 +32,7 @@ tags:
 <li><a class="blue" href="https://www.allpremiums.nl/kauwgom-laten-bedrukken/" title="pakje kauwgom met 12 kauwgompjes">pakje kauwgom met 12 kauwgompjes</a></li>
 
 <li><a class="blue" href="https://www.allpremiums.nl/sportlife-kauwgom-bedrukken/" title="sportlife kauwgom bedrukken">Sportlife kauwgom met 6 of 12 kauwgompjes, ook met enkele of dubbele flap voor meer opdruk ruimte</a></li>
+</ul>
 <br>
 
 <h3 class="pdp">Pakje Sportlife kauwgom met eigen logo</h3>
