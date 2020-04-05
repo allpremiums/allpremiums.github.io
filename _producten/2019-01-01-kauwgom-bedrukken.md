@@ -15,23 +15,29 @@ tags:
 
 <h3 class="pdp">Kauwgompakjes bedrukken</h3>
 <p>  
-<p> wij standaard full color CMYK. Het grote voordeel voor u is dat wij met deze druktechniek mooie kleurverlopen, foto's en afbeeldingen haarscherp en kleurrijk weergeven. De kauwgom verpakking bedrukken wij rondom. Het is aan u of er bijvoorbeeld op de zijkant van de kartonnen sleeve een website URL wordt bedrukt, of dat u de beschikbare ruimte leeg laat. Wij maken de opdruk helemaal zoals u wilt!</p> <br>
+<p> wij standaard full color CMYK. Het grote voordeel voor u is dat wij met deze druktechniek mooie kleurverlopen, foto's en afbeeldingen haarscherp en kleurrijk weergeven. De kauwgom verpakking bedrukken wij rondom. Het is aan u of er bijvoorbeeld op de zijkant van de kartonnen sleeve een website URL wordt bedrukt, of dat u de beschikbare ruimte leeg laat. Wij maken de opdruk helemaal zoals u wilt!</p>
+<br>
 
 <h3 class="pdp">Assortiment</h3>
 <p>  
 <p>Alle kauwgom die wij leveren is suikervrij. Wij leveren een breed assortiment kauwgompakjes die u kunt personaliseren. Met verschillende afmetingen, inhoud en mogelijkheden om te bedrukken zit er ongetwijfeld ook voor u een geschikte kauwgum bij:</p>
 
-* Pakje kauwgum met 5 kauwgumpjes
-* Pakje kauwgom met 6 kauwgumpjes
-* Pakje kauwgum met 12 kauwgumpjes
-* Sportlife kauwgom met 6 of 12 kauwgompjes, eventueel met extra flap meer opdruk ruimte
-
 <ul>
-<li><a class="blue" href="https://www.allpremiums.nl/siliconen-polsbandjes-bedrukken/" title="bedrukte silicone polsbandjes">bedrukte silicone polsbandjes</a></li>
+<li><a class="blue" href="https://www.allpremiums.nl/kauwgom-in-zakje-bedrukken/" title="kauwgom in bedrukte zakjes">kauwgom in bedrukte zakjes</a></li>
+
+<li><a class="blue" href="https://www.allpremiums.nl/pakje-kauwgom-bedrukken/" title="pakje kauwgom met 5 kauwgompjes">pakje kauwgom met 5 kauwgompjes</a></li>
+
+<li><a class="blue" href="https://www.allpremiums.nl/kauwgom-verpakking-bedrukken/" title="pakje kauwgom met 6 kauwgompjes">pakje kauwgom met 6 kauwgompjes</a></li>
+  
+<li><a class="blue" href="https://www.allpremiums.nl/kauwgom-laten-bedrukken/" title="pakje kauwgom met 12 kauwgompjes">pakje kauwgom met 12 kauwgompjes</a></li>
+  
+<li><a class="blue" href="https://www.allpremiums.nl/sportlife-kauwgom-bedrukken/" title="sportlife kauwgom bedrukken">Sportlife kauwgom met 6 of 12 kauwgompjes, ook met enkele of dubbele flap voor meer opdruk ruimte</a></li>
+<br>   
 
 <h3 class="pdp">Pakje Sportlife kauwgom met eigen logo</h3>
 <p>  
-<p>De originele Sportlife kauwgum maar dan met uw eigen persoonlijke bedrukking. Verkrijgbaar in 4 verschillende uitvoeringen; met 6 kauwgompjes, 12 kauwgompjes en met een enkele of dubbele flap voor extra ruimte om te bedrukken. Sportlife bevat ca. 20% Xylitol en is in verschillende smaken verkrijgbaar; Smashmint, Extramint, Peppermint, Hotmint, Deepmint en Intense mint.</p> <br>
+<p>De originele Sportlife kauwgum maar dan met uw eigen persoonlijke bedrukking. Verkrijgbaar in 4 verschillende uitvoeringen; met 6 kauwgompjes, 12 kauwgompjes en met een enkele of dubbele flap voor extra ruimte om te bedrukken. Sportlife bevat ca. 20% Xylitol en is in verschillende smaken verkrijgbaar; Smashmint, Extramint, Peppermint, Hotmint, Deepmint en Intense mint.</p>
+<br>
 
 <h3 class="pdp">Minimale afname en levertijd</h3>
 <p>  
