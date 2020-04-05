@@ -8,7 +8,7 @@ tags:
 - bedrukken
 
 ---
-<p>Waterflesjes met een bedrukt label voorzien van bijvoorbeeld uw logo of reclame tekst: een verfrissend relatiegeschenk dat voor veel verschillende gelegenheden geschikt is. Leverbaar in verschillende uitvoeringen met schroef- of sportdop, glad of geribbeld flesje, helder- of blauw transparant flesje en met met een wit of transparant label. </p> <ul> <li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-bedrukken-330ml-schroefdop/" title="waterflesjes bedrukken">waterflesjes 330ml met schroefdop</a></li>
+<p>Waterflesjes met een bedrukt label voorzien van bijvoorbeeld uw logo of reclame tekst: een verfrissend relatiegeschenk dat voor veel verschillende gelegenheden geschikt is. Leverbaar in verschillende uitvoeringen met schroef- of sportdop, glad of geribbeld flesje, helder- of blauw transparant flesje, luxe glazen fles en met met een wit of transparant label. </p> <ul> <li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-bedrukken-330ml-schroefdop/" title="waterflesjes bedrukken">waterflesjes 330ml met schroefdop</a></li>
 
 <li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-met-logo-bedrukken-330ml-sportdop/" title="waterflesjes met logo bedrukken">waterflesjes 330ml met sportdop</a></li>
 
