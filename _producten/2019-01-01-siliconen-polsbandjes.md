@@ -20,6 +20,7 @@ tags:
 <br>
 
 ### SILICONEN POLSBANDJES GRAVEREN
+<h3 class="pdp">Siliconen polsbandjes graveren</h3>
 
 <p>
 <p>Bij siliconen polsbanden met een gravering maken wij uw logo of tekst in een verdiept reliëf, zodat het als het ware "in het bandje" ligt. U kunt ervoor kiezen om de gravering in de kleur van het silicone bandje te maken, of om deze extra contrast te geven door de gravering met verf in te kleuren. Het voordeel van een gravering ten opzichte van een bedrukt polsbandje is dat deze niet kan slijten.</p>
