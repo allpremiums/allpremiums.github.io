@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Siliconen Polsbandjes Bedrukken
+title: Silicone Polsbandjes
 date: 2019-01-01T06:00:00.000+00:00
 post_image: 
 tags:
@@ -42,20 +42,9 @@ tags:
 <p>doet u toch ook bij de specialist? Wij importeren de silicone bandjes zelf, zodat u altijd verzekerd bent van een snelle en voordelige levering. Wij hebben een breed assortiment silicone bandjes:</p>
 
 <ul>
-  <li>bedrukte silicone polsbandjes</li>
-  <li>gegraveerde silicone polsbandjes, ook met inkleuring</li>
-  <li>silicone polsbandjes met opliggend reliëf</li>
-  <li>silicone polsbandjes met gekleurde segmenten</li>
-  <li>silicone polsbandjes met swirl marmer effect</li>
-  <li>lichtgevende glow in the dark polsbandjes</li>
-  <li>extra smalle silicone polsbandjes</li>
-  <li>silicone polsbandjes met glitters</li>
-  <li>silicone sleutelhangers</li>
-  <li>17mm brede silicone polsbandjes</li>
-  <li>25mm extra brede silicone polsbandjes</li>
-  <li>color coated silicone polsbandjes</li> 
-</ul>
-<br>
+<li><a class="blue" href="https://www.allpremiums.nl/siliconen-polsbandjes-bedrukken/" title="bedrukte silicone polsbandjes">bedrukte silicone polsbandjes</a></li>
+
+<li>gegraveerde silicone polsbandjes, ook met inkleuring</li> <li>silicone polsbandjes met opliggend reliëf</li> <li>silicone polsbandjes met gekleurde segmenten</li> <li>silicone polsbandjes met swirl marmer effect</li> <li>lichtgevende glow in the dark polsbandjes</li> <li>extra smalle silicone polsbandjes</li> <li>silicone polsbandjes met glitters</li> <li>silicone sleutelhangers</li> <li>17mm brede silicone polsbandjes</li> <li>25mm extra brede silicone polsbandjes</li> <li>color coated silicone polsbandjes</li> </ul> <br>
 
 <h3 class="pdp">Silicone polsbandjes snel geleverd</h3>
 <p>
