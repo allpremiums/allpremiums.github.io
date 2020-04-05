@@ -30,8 +30,8 @@ tags:
 <li><a class="blue" href="https://www.allpremiums.nl/siliconen-polsbandjes-bedrukken/" title="bedrukte silicone polsbandjes">bedrukte silicone polsbandjes</a></li>
 
 <h3 class="pdp">Pakje Sportlife kauwgom met eigen logo</h3>
-<p>De originele Sportlife kauwgum maar dan met uw eigen persoonlijke bedrukking. Verkrijgbaar in 4 verschillende uitvoeringen; met 6 kauwgompjes, 12 kauwgompjes en met een enkele of dubbele flap voor extra ruimte om te bedrukken. Sportlife bevat ca. 20% Xylitol en is in verschillende smaken verkrijgbaar; Smashmint, Extramint, Peppermint, Hotmint, Deepmint en Intense mint.</p>
-<br>
+<p>  
+<p>De originele Sportlife kauwgum maar dan met uw eigen persoonlijke bedrukking. Verkrijgbaar in 4 verschillende uitvoeringen; met 6 kauwgompjes, 12 kauwgompjes en met een enkele of dubbele flap voor extra ruimte om te bedrukken. Sportlife bevat ca. 20% Xylitol en is in verschillende smaken verkrijgbaar; Smashmint, Extramint, Peppermint, Hotmint, Deepmint en Intense mint.</p> <br>
 
 <h3 class="pdp">Minimale afname en levertijd</h3>
 <p>  
@@ -53,4 +53,4 @@ tags:
 
 <h3 class="pdp">Gepersonaliseerde kauwom bestellen</h3>
 <p>  
-<p>Wilt u ook uw "eigen" pakjes kauwgom bestellen? Vraag dan geheel vrijblijvend een offerte via de productpagina's aan. Voor persoonlijk advies en aanvullende informatie neemt u contact op met Buddy Wolvers, telefoon: 0252 – 235 253.</p>
+<p>Wilt u ook uw "eigen" pakjes kauwgom bestellen? Vraag dan geheel vrijblijvend een offerte aan via de productpagina's. Voor persoonlijk advies en aanvullende informatie kunt u telefonisch contact opnemen via telefoonnummer: 0252 – 235 253.</p>
