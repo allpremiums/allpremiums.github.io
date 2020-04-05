@@ -3,15 +3,15 @@ ci:
     numberOfRuns: 1
     additive: true
     url:
-      - https://dev.allpremiums.nl/
-      - https://dev.allpremiums.nl/siliconen-polsbandjes/
-      - https://dev.allpremiums.nl/siliconen-polsbandjes-bedrukken/
-      - https://dev.allpremiums.nl/magneten-bedrukken-met-logo/
-      - https://dev.allpremiums.nl/goedkope-magneten-bedrukken/
-      - https://dev.allpremiums.nl/festivalbandjes/
-      - https://dev.allpremiums.nl/textiel-festivalbandjes-bedrukken/
-      - https://dev.allpremiums.nl/nieuws/
-      - https://dev.allpremiums.nl/product-info/
+      - https://www.allpremiums.nl/
+      - https://www.allpremiums.nl/siliconen-polsbandjes/
+      - https://www.allpremiums.nl/siliconen-polsbandjes-bedrukken/
+      - https://www.allpremiums.nl/magneten-bedrukken-met-logo/
+      - https://www.allpremiums.nl/goedkope-magneten-bedrukken/
+      - https://www.allpremiums.nl/festivalbandjes/
+      - https://www.allpremiums.nl/textiel-festivalbandjes-bedrukken/
+      - https://www.allpremiums.nl/nieuws/
+      - https://www.allpremiums.nl/product-info/
   assert:
     lighthouse: all
     assertions:
