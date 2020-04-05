@@ -28,11 +28,11 @@ tags:
 <li><a class="blue" href="https://www.allpremiums.nl/pakje-kauwgom-bedrukken/" title="pakje kauwgom met 5 kauwgompjes">pakje kauwgom met 5 kauwgompjes</a></li>
 
 <li><a class="blue" href="https://www.allpremiums.nl/kauwgom-verpakking-bedrukken/" title="pakje kauwgom met 6 kauwgompjes">pakje kauwgom met 6 kauwgompjes</a></li>
-  
+
 <li><a class="blue" href="https://www.allpremiums.nl/kauwgom-laten-bedrukken/" title="pakje kauwgom met 12 kauwgompjes">pakje kauwgom met 12 kauwgompjes</a></li>
-  
+
 <li><a class="blue" href="https://www.allpremiums.nl/sportlife-kauwgom-bedrukken/" title="sportlife kauwgom bedrukken">Sportlife kauwgom met 6 of 12 kauwgompjes, ook met enkele of dubbele flap voor meer opdruk ruimte</a></li>
-<br>   
+<br>
 
 <h3 class="pdp">Pakje Sportlife kauwgom met eigen logo</h3>
 <p>  
@@ -55,8 +55,8 @@ tags:
 <li>bedankje op bruiloften, recepties, feesten, festivals en partijen</li>
 <li>flap gebruikt als antwoordkaart, tegoedbon, programma overzicht of uitnodiging</li>
 </ul>
-<br>
-
+<br>  
+  
 <h3 class="pdp">Gepersonaliseerde kauwom bestellen</h3>
 <p>  
 <p>Wilt u ook uw "eigen" pakjes kauwgom bestellen? Vraag dan geheel vrijblijvend een offerte aan via de productpagina's. Voor persoonlijk advies en aanvullende informatie kunt u telefonisch contact opnemen via telefoonnummer: 0252 – 235 253.</p>
