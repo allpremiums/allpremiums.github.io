@@ -60,4 +60,4 @@ tags:
   
 <h3 class="pdp">Gepersonaliseerde kauwom bestellen</h3>
 <p>  
-<p>Wilt u ook uw "eigen" pakjes kauwgom bestellen? Vraag dan geheel vrijblijvend een offerte aan via de productpagina's. Voor persoonlijk advies en aanvullende informatie kunt u telefonisch contact opnemen via telefoonnummer: 0252 – 235 253.</p>
+<p>Wilt u ook uw "eigen" pakjes kauwgom bestellen? Vraag dan geheel vrijblijvend een offerte aan via de productpagina's. Voor advies en aanvullende informatie neemt u telefonisch contact op via telefoonnummer: 0252 – 235 253.</p>
