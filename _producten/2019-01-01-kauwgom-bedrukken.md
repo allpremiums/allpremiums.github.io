@@ -47,7 +47,8 @@ tags:
 <p>Voor de merkloze kauwgom producten is de minimale afname afhankelijk van het product vanaf 250 stuks. De levertijd bedraagt ca. 3 weken na akkoord op de drukproef, enkele dagen sneller is vaak mogelijk.</p>
 <br>
 
-<h3 class="pdp">Kauwgom als promotie of relatiegeschenk</h3> <p>  
+<h3 class="pdp">Kauwgom als promotie of relatiegeschenk</h3>   
+<p>  
 <p>Kauwgom met logo of een (foto) afbeelding is bij veel verschillende gelegenheden weg te geven, onderstaand een aantal voorbeelden. Heeft u zelf nog een idee dat er niet bijstaat? Laat het ons weten zodat wij het overzicht nog completer kunnen maken.</p>
 
 <ul>
@@ -57,5 +58,6 @@ tags:
 </ul>
 <br>
 
-<h3 class="pdp">Gepersonaliseerde kauwgom bestellen</h3> <p>  
+<h3 class="pdp">Gepersonaliseerde kauwgom bestellen</h3>   
+<p>  
 <p>Wilt u ook uw "eigen" pakjes kauwgom bestellen? Vraag dan geheel vrijblijvend een offerte aan via de productpagina's. Voor advies en aanvullende informatie neemt u telefonisch contact op via telefoonnummer: +31 (0) 252 – 235 253.</p>
