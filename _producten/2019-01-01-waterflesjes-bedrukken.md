@@ -9,7 +9,7 @@ tags:
 
 ---
 <p>Waterflesjes bedrukken met een logo of reclame tekst: een verfrissend relatiegeschenk dat voor veel verschillende gelegenheden geschikt is. Leverbaar in de volgende uitvoeringen:</p>
-
+<ul>
 <li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-bedrukken-330ml-schroefdop/" title="waterflesjes bedrukken">waterflesjes 330ml met schroefdop</a></li>
   
 <li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-met-logo-bedrukken-330ml-sportdop/" title="waterflesjes met logo bedrukken">waterflesjes 330ml met sportdop</a></li>  
@@ -21,15 +21,17 @@ tags:
 <li><a class="blue" href="https://www.allpremiums.nl/glazen-waterfles-bedrukken-330ml/" title="glazen bedrukte waterfles">glazen waterfles 330ml</a></li> 
 
 <li><a class="blue" href="https://www.allpremiums.nl/glazen-waterfles-met-logo-bedrukken-750ml/" title="glazen waterfles bedrukken">glazen waterfles 750ml</a></li> 
-
+</ul>
+<br>
+  
 <h3 class="pdp">Duurzame Eco-vriendelijke bedrukte waterflesjes</h3>
 <p>
-<p>De bedrukte waterflesjes die u bij Allpremiums kunt bestellen zijn 100% gerecycled. Zowel het flesje, het etiket en de dop zijn gemaakt van zogenaamd R-pet materiaal. Ook na het gebruik kunnen de waterflesjes opnieuw gerecycled worden.</p>  
+<p>De bedrukte waterflesjes die u bij Allpremiums kunt bestellen zijn 100% gerecycled. Zowel het flesje, het etiket en de dop zijn gemaakt van zogenaamd R-pet materiaal. Ook na gebruik kunnen de waterflesjes opnieuw gerecycled worden.</p>  
 <br>
 
 <h3 class="pdp">Levertijd en minimale afname</h3>
 <p>
-<p>Wij leveren waterflesjes met uw eigen opdruk met ca. 5 werkdagen na uw akkoord op de digitale proef voor wat betreft het gewone - platte water. Voor lichtbruisend water is de leverijd ca. 15 werkdagen. De minimale afname verschilt per type waterflesje:</p>
+<p>Wij leveren waterflesjes met uw eigen opdruk met ca. 5 werkdagen na uw akkoord op de digitale proef, voor wat betreft het gewone - platte water. Voor lichtbruisend water is de leverijd ca. 15 werkdagen. De minimale afname verschilt per type waterflesje:</p>
 <ul>
 <li>330ml met schroefdop: minimale afname 48, verpakt per 24</li>
 <li>330ml met sportdop: minimale afname 48, verpakt per 24</li>
@@ -42,7 +44,7 @@ tags:
 
 <h3 class="pdp">Is er een toeslag voor een spoedlevering van toepassing?</h3>
 <p>
-<p>Nee dat is niet het geval, wij leveren zo snel mogelijk. Als een levertijd niet haalbaar is dan hoort u dat van ons. Daar verandert een toeslag naar onze mening niets aan. Wij leveren de bedrukte waterflesjes juist zo goedkoop mogelijk!</p>
+<p>Nee zeker niet, wij leveren zo snel mogelijk. Als een levertijd niet haalbaar is dan hoort u dat van ons. Daar verandert een toeslag naar onze mening niets aan. Wij leveren de bedrukte waterflesjes juist zo goedkoop mogelijk.</p>
 <br>
 
 <h3 class="pdp">Waterflesjes bedrukken</h3>
@@ -63,6 +65,7 @@ tags:
 <h3 class="pdp">Hoe moet het drukbestand aangeleverd worden?</h3>
 <p>
 <p>Bijvoorkeur in een gevectoriseerd bestand (.ai / .eps) of een PDF met een minimale resolutie van 300 dpi. Een foto, jpeg of tif bestand is helaas niet bruikbaar. Wij kunnen een blanco template mailen waarin u het artwork kunt (laten) opmaken. Laat het ons ook gerust weten als u hier hulp bij nodig heeft. In samenwerking met de fabrikant kan op basis van uw wensen, logo en tekst een gratis ontwerp gemaakt worden.</p>
+<br>
 
 <h3 class="pdp">Wat is de kwaliteit van het water?</h3>
 <p>
