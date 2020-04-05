@@ -11,6 +11,7 @@ tags:
 <p>Kauwgom bedrukken. Misschien niet het eerste waar u aan denkt, maar het is toch echt al jaren een favoriet promotioneel artikel voor veel van onze klanten. Bedrukte kauwgompakjes zijn een smaakvol product dat uw relaties zeker waarderen.</p>
 
 <p>Bedrukt met uw logo, wervende reclame tekst, foto of afbeelding, heeft u een verfrissend weggevertje voor op bijvoorbeeld een evenement of beurs. De kauwgum die wij van uw eigen opdruk voorzien, is in verschillende varianten leverbaar. Afhankelijk van het product kunnen wij al vanaf 100 stuks leveren.</p>
+<br>
 
 <h3 class="pdp">Kauwgompakjes bedrukken</h3>
 <p>
