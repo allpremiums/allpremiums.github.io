@@ -9,15 +9,15 @@ tags:
 
 ---
 <p>Magneten bedrukken voor een p(l)akkende reclame die blijft hangen!</p>
-<p> Met bedrukte koelkastmagneten blijft uw bedrijf, dienstverlening of product goed onder de aandacht van uw klanten of doelgroep. Omdat magneten blijven hangen, wordt er gedurende een lange tijd naar gekeken. De reclame magneten blijven daarmee mooi onder de aandacht, en dat is toch precies wat u wilt!</p>
+<p> Met bedrukte koelkastmagneten blijft uw bedrijf, dienstverlening of product goed onder de aandacht van uw klanten of doelgroep. Omdat magneten opgeplakt worden, blijven mensen er gedurende een lange tijd naar kijken. De reclame magneten blijven daarmee mooi onder de aandacht, en dat is toch precies wat u wilt!</p>
 <br>
 
 <h3 class="pdp">Magneten bedrukken</h3>
 <p>
-<p>Wij bedrukken magneten full color cmyk, zodat foto's, logo's en afbeeldingen met kleurverlopen mooi bedrukt worden. Het is mogelijk om verschillende vormen, afmetingen en opdrukken in 1 bestelling te combineren. Ons assortiment bedrukte magneten bestaat uit:</p> 
+<p>Wij bedrukken magneten full color cmyk, zodat foto's, logo's en afbeeldingen mooi bedrukt worden. Het is mogelijk om verschillende vormen, afmetingen en opdrukken in 1 bestelling te combineren. Ons assortiment bedrukte magneten bestaat uit:</p> 
 
 <ul>
-<li><a class="blue" href="https://www.allpremiums.nl/goedkope-magneten-bedrukken/" title="budget goedkope bedrukte magneten">budget / goedkope magneten</a></li>
+<li><a class="blue" href="https://www.allpremiums.nl/goedkope-magneten-bedrukken/" title="budget goedkope bedrukte magneten">budget - goedkope magneten</a></li>
   
 <li><a class="blue" href="https://www.allpremiums.nl/magneten-bedrukken-extra-kleefkracht/" title="bedrukte magneten extra kleefkracht">magneten met extra kleefkracht</a></li>
   
@@ -37,7 +37,7 @@ tags:
   
 <h3 class="pdp">Beste kwaliteit bedrukte magneten</h3>
 <p>
-<p>De magneten met opdruk die u bij Allpremiums bestelt zijn van de beste kwaliteit. Er zijn bedrijven die goedkopere magneten aanbieden, maar deze hebben een papieren / vouwkarton toplaag die snel bij de randen beschadigd. De magneten die wij leveren hebben een sterke vinyl toplaag. Deze vinyl toplaag is heel duurzaam en beschadigd niet aan de randen, ook niet wanneer u de magneten vaak oppakt. De magneten zijn daarmee eigenlijk onslijtbaar.</p>
+<p>De magneten met opdruk die u bij Allpremiums bestelt zijn van de beste kwaliteit. Er zijn bedrijven die goedkopere magneten aanbieden, maar deze hebben een papieren - vouwkartonnen toplaag die snel bij de randen beschadigd. De magneten die wij leveren hebben een sterke vinyl toplaag. Deze vinyl toplaag is heel duurzaam en beschadigd niet aan de randen, ook niet wanneer u de magneten vaak oppakt. De magneten zijn daarmee eigenlijk onslijtbaar.</p>
 
 <p>Bedrukte magneten zijn in verschillende materiaal diktes leverbaar, zodat u voor iedere toepassing de juiste kleefkracht kunt kiezen.</p>
 
@@ -72,4 +72,4 @@ tags:
 <br>
 
 <p>Wilt u ook mooie magneten laten bedrukken voor een scherpe prijs?
-Vraag dan vrijblijvend via de productpagina's een offerte aan, of bel voor aanvullende informatie en persoonlijk advies met: (+31) 0252- 235 253.</p>
+Vraag dan vrijblijvend via de productpagina's een offerte aan, of bel voor aanvullende informatie en persoonlijk advies met: +31 (0) 252- 235 253.</p>
