@@ -19,7 +19,7 @@ tags:
 <ul>
 <li><a class="blue" href="https://www.allpremiums.nl/goedkope-magneten-bedrukken/" title="budget goedkope bedrukte magneten">budget / goedkope magneten</a></li>
   
-<li><a class="blue" href="https://www.allpremiums.nl/magneten-bedrukken-extra-kleefkracht/" title="bedrukte magneten extra kleefkracht">magneten met extra kleefracht</a></li>
+<li><a class="blue" href="https://www.allpremiums.nl/magneten-bedrukken-extra-kleefkracht/" title="bedrukte magneten extra kleefkracht">magneten met extra kleefkracht</a></li>
   
 <li><a class="blue" href="https://www.allpremiums.nl/extra-stevige-magneten-bedrukken/" title="extra stevige magneten bedrukken">extra stevige magneten</a></li>
   
@@ -37,7 +37,7 @@ tags:
   
 <h3 class="pdp">Beste kwaliteit bedrukte magneten</h3>
 <p>
-<p>De magneten met opdruk die u bij Allpremiums bestelt zijn van de beste kwaliteit. Er zijn bedrijven die goedkopere magneten aanbieden, maar deze hebben een papieren / vouwkarton toplaag die snel bij de randen beschadigd. De magneten die wij leveren hebben een sterke vinyl toplaag. Deze vinyl toplaag is heel duurzaam en beschadigd niet aan de randen, ook niet wanneer u de magneten vaak oppakt. De magneten zijn daarmee eigenlijk bijna onslijtbaar.</p>
+<p>De magneten met opdruk die u bij Allpremiums bestelt zijn van de beste kwaliteit. Er zijn bedrijven die goedkopere magneten aanbieden, maar deze hebben een papieren / vouwkarton toplaag die snel bij de randen beschadigd. De magneten die wij leveren hebben een sterke vinyl toplaag. Deze vinyl toplaag is heel duurzaam en beschadigd niet aan de randen, ook niet wanneer u de magneten vaak oppakt. De magneten zijn daarmee eigenlijk onslijtbaar.</p>
 
 <p>Bedrukte magneten zijn in verschillende materiaal diktes leverbaar, zodat u voor iedere toepassing de juiste kleefkracht kunt kiezen.</p>
 
