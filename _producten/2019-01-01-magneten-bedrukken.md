@@ -9,7 +9,7 @@ tags:
 
 ---
 <p>Magneten bedrukken voor een p(l)akkende reclame die blijft hangen!</p>
-<p> Met bedrukte koelkastmagneten blijft uw bedrijf, dienstverlening of product goed onder de aandacht van uw klanten of doelgroep. Omdat magneten lang blijven hangen, wordt er gedurende een lange tijd naar gekeken. De reclame magneten blijven daarmee mooi onder de aandacht, en dat is toch precies wat u wilt!</p>
+<p> Met bedrukte koelkastmagneten blijft uw bedrijf, dienstverlening of product goed onder de aandacht van uw klanten of doelgroep. Omdat magneten blijven hangen, wordt er gedurende een lange tijd naar gekeken. De reclame magneten blijven daarmee mooi onder de aandacht, en dat is toch precies wat u wilt!</p>
 <br>
 
 <h3 class="pdp">Magneten bedrukken</h3>
