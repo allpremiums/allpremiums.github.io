@@ -31,7 +31,7 @@ tags:
 
 <h3 class="pdp">Is er een toeslag voor een spoedlevering van toepassing?</h3>
 <p>
-<p>Nee dat is niet het geval, wij leveren zo snel mogelijk. Als een levertijd niet haalbaar is dan hoort u dat van ons. Daar verandert een toeslag naar onze mening niets aan. Zonde van het geld, wij leveren de bedrukte waterflesjes juist zo goedkoop mogelijk!</p>
+<p>Nee dat is niet het geval, wij leveren zo snel mogelijk. Als een levertijd niet haalbaar is dan hoort u dat van ons. Daar verandert een toeslag naar onze mening niets aan. Wij leveren de bedrukte waterflesjes juist zo goedkoop mogelijk!</p>
 <br>
 
 <h3 class="pdp">Wat is de kwaliteit van het water?</h3>
@@ -41,12 +41,12 @@ tags:
 
 <h3 class="pdp">Wat is het verschil tussen bronwater en mineraalwater?</h3>
 <p>
- p>Bronwater en mineraalwater komen beiden uit door overheden erkende onderaardse bronnen en bevatten natuurlijke mineralen. Kenmerkend van mineraalwater is dat het aan de bron gebotteld moet worden. Bronwater mag eerst vervoerd en vervolgens gebotteld worden.</p>
+ <p>Bronwater en mineraalwater komen beiden uit door overheden erkende onderaardse bronnen en bevatten natuurlijke mineralen. Kenmerkend van mineraalwater is dat het aan de bron gebotteld wordt. Bronwater mag eerst vervoerd en vervolgens gebotteld worden.</p>
 <br>
  
 <h3 class="pdp">Hoe worden de labels bedrukt?</h3>
 <p>
-<p>De kunststof labels of etiketten worden full colour CMYK bedrukt en daarna afgewerkt met een glanslaminaat voor een luxe uitstraling. Full colour bedrukken heeft als voordeel dat u gedetailleerde afbeeldingen haarscherp kunt bedrukken. Het label zorgt in combinatie met het glans laminaat voor een hoogwaardige kwaliteit, waarbij in tegenstelling tot papieren labels het label zelfs mooi blijft als het nat wordt.</p>
+<p>De kunststof labels of etiketten worden full colour CMYK bedrukt en daarna afgewerkt met een glanslaminaat voor een luxe uitstraling. Full colour bedrukken heeft als voordeel dat u gedetailleerde afbeeldingen haarscherp kunt bedrukken. Het kunststof label zorgt in combinatie met het glans laminaat voor een hoogwaardige kwaliteit, waarbij in tegenstelling tot papieren labels, het label zelfs mooi blijft als het nat wordt.</p>
 <br>
 
 <h3 class="pdp">Kunnen Pantone of PMS kleuren bedrukt worden?</h3>
@@ -56,12 +56,12 @@ tags:
 
 <h3 class="pdp">Wat kan ik op het label van een waterflesje laten bedrukken?</h3>
 <p>
-<p>Logo’s, afbeeldingen, teksten en alle mogelijk reclame uitingen. U heeft de mogelijkheid om het label geheel naar eigen vorkeur te ontwerpen. De voedsel en warenwet geeft hooguit de restricties dat wij de fabrikant, onze contactgegevens en de ingrediënten op het label moeten vermelden.</p>
+<p>Logo’s, afbeeldingen, teksten en alle mogelijke reclame uitingen. U heeft de mogelijkheid om het label geheel naar eigen voorkeur te ontwerpen. De voedsel en warenwet geeft hooguit de restrictie dat wij de fabrikant, onze contactgegevens en de ingrediënten op het label moeten vermelden.</p>
 <br> 
 
 <h3 class="pdp">Hoe moet het drukbestand aangeleverd worden?</h3>
 <p>
-<p>Bijvoorkeur in een gevectoriseerd bestand (.ai / .eps) of een PDF met een minimale resolutie van 300 dpi. Een foto, jpeg of tif bestand is helaas niet bruikbaar. Wij kunnen een blanco template mailen waarin u het artwork kunt (laten) opmaken. Laat het ons ook gerust weten als u hier hulp bij nodig heeft. In samenwerking met de fabrikant kan op basis van uw wensen, logo en tekst een ontwerp gemaakt worden.</p>
+<p>Bijvoorkeur in een gevectoriseerd bestand (.ai / .eps) of een PDF met een minimale resolutie van 300 dpi. Een foto, jpeg of tif bestand is helaas niet bruikbaar. Wij kunnen een blanco template mailen waarin u het artwork kunt (laten) opmaken. Laat het ons ook gerust weten als u hier hulp bij nodig heeft. In samenwerking met de fabrikant kan op basis van uw wensen, logo en tekst een gratis ontwerp gemaakt worden.</p>
 
 
 <li><a class="blue" href="https://www.allpremiums.nl/memomagneten-bedrukken/" title="bedrukte memo magneten">bedrukte memo magneten</a></li>
