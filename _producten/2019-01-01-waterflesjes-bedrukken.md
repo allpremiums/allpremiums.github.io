@@ -1,9 +1,12 @@
 ---
 layout: doc
 title: Waterflesjes Bedrukken
-date: 2019-01-01 12:00:00 +0600
+date: 2019-01-01T06:00:00.000+00:00
 post_image: 
-tags: [waterflesjes, bedrukken]
+tags:
+- waterflesjes
+- bedrukken
+
 ---
 ### WAT IS DE MINIMALE AFNAME VAN DE PRIVATE LABEL DRINKS?
 252 flesjes of blikjes.
@@ -31,3 +34,6 @@ Logo’s, afbeeldingen, teksten en alle mogelijk reclame uitingen. U heeft de ge
 
 ### HOE MOET HET ARTWORK AANGELEVERD WORDEN?
 Bijvoorkeur in een gevectoriseerd bestand (.ai / .eps) of een PDF met een minimale resolutie van 300 dpi. Een foto, jpeg of tif bestand is helaas niet bruikbaar. Indien gewenst kunnen wij u een blanco template doormailen waarin u het artwork kunt (laten) opmaken. Als u een ontwerp door Allpremiums wilt laten maken, iets aan uw artwork wilt toevoegen of wijzigen, dan is dit ook mogelijk.
+
+
+<li><a class="blue" href="https://www.allpremiums.nl/memomagneten-bedrukken/" title="bedrukte memo magneten">bedrukte memo magneten</a></li>  
