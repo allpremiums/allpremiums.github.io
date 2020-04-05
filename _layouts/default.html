@@ -52,6 +52,7 @@ layout: compress
     {% endcapture %}
     {{ include_to_scssify | scssify }}
     </style>
+    {% include_cached analytics.html %}
 </head>
 <body>
     {% include_cached header.html %}
