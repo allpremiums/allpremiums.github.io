@@ -22,7 +22,6 @@ tags:
 
 <li><a class="blue" href="https://www.allpremiums.nl/glazen-waterfles-met-logo-bedrukken-750ml/" title="glazen waterfles bedrukken">glazen waterfles 750ml</a></li> 
 
-
 <h3 class="pdp">Duurzame Eco-vriendelijke bedrukte waterflesjes</h3>
 <p>
 <p>De bedrukte waterflesjes die u bij Allpremiums kunt bestellen zijn 100% gerecycled. Zowel het flesje, het etiket en de dop zijn gemaakt van zogenaamd R-pet materiaal. Ook na het gebruik kunnen de waterflesjes opnieuw gerecycled worden.</p>  
