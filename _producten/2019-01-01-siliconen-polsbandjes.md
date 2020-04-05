@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Silicone Polsbandjes
+title: Siliconen Polsbandjes
 date: 2019-01-01T06:00:00.000+00:00
 post_image: 
 tags:
