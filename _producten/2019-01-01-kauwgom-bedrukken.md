@@ -37,19 +37,19 @@ tags:
 
 <h3 class="pdp">Pakje Sportlife kauwgom met eigen logo</h3>
 <p>  
-<p>De originele Sportlife kauwgum maar dan met uw eigen persoonlijke bedrukking. Verkrijgbaar in 4 verschillende uitvoeringen; met 6 kauwgompjes, 12 kauwgompjes en met een enkele of dubbele flap voor extra ruimte om te bedrukken. Sportlife bevat ca. 20% Xylitol en is in verschillende smaken verkrijgbaar; Smashmint, Extramint, Peppermint, Hotmint, Deepmint en Intense mint.</p>
+<p>De originele Sportlife kauwgum maar dan met uw eigen persoonlijke bedrukking. Verkrijgbaar in 4 verschillende uitvoeringen; met 6 kauwgompjes, 12 kauwgompjes en met een enkele of dubbele flap voor extra ruimte om te bedrukken. Sportlife bevat ca. 20% Xylitol en is in verschillende smaken verkrijgbaar: Smashmint, Extramint, Peppermint, Hotmint, Deepmint en Intense mint.</p>
 <br>
 
 <h3 class="pdp">Minimale afname en levertijd</h3>
 <p>  
-<p>De Sportlife kauwgom heeft een minimale afname van 100 stuks. De levertijd bedraagt ca. 2 weken na akkoord op drukproef, maar wij hebben regelmatig met 1 week geleverd. Informeer dan ook gerust vrijblijvend naar de mogelijkheden wanneer u sneller dan 2 weken de bedrukte Sportlife kauwgom nodig heeft!</p>
+<p>De Sportlife kauwgom heeft een minimale afname van 100 stuks. De levertijd bedraagt ca. 2 weken na akkoord op drukproef, maar wij hebben regelmatig met 1 week geleverd. Informeer dan ook gerust vrijblijvend naar de mogelijkheden wanneer u sneller dan 2 weken de bedrukte Sportlife kauwgom nodig heeft.</p>
 
 <p>Voor de merkloze kauwgom producten is de minimale afname afhankelijk van het product vanaf 250 stuks. De levertijd bedraagt ca. 3 weken na akkoord op de drukproef, enkele dagen sneller is vaak mogelijk.</p>
 <br>
 
 <h3 class="pdp">Kauwom als promotie of relatiegeschenk</h3>
 <p>  
-<p>Kauwgom met logo of een (foto) afbeelding is bij veel verschillende gelegenheden weg te geven, onderstaand een aantal voorbeelden. Heeft u zelf nog een idee dat er niet bijstaat? Laat het ons weten zodat wij het overzicht nog completer kunnen maken!</p>
+<p>Kauwgom met logo of een (foto) afbeelding is bij veel verschillende gelegenheden weg te geven, onderstaand een aantal voorbeelden. Heeft u zelf nog een idee dat er niet bijstaat? Laat het ons weten zodat wij het overzicht nog completer kunnen maken.</p>
 
 <ul>
 <li>give away tijdens beurzen en evenementen</li>
