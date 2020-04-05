@@ -9,29 +9,29 @@ tags:
 
 ---
 <p>Magneten bedrukken voor een p(l)akkende reclame die blijft hangen!</p>
-<p> Met bedrukte koelkastmagneten blijft uw bedrijf, dienstverlening of product goed onder de aandacht van klanten en doelgroep. Omdat magneten lang blijven hangen, wordt er gedurende een lange tijd naar gekeken. De reclame magneten blijven daarmee mooi onder de aandacht, en dat is toch precies wat u wilt!</p>
+<p> Met bedrukte koelkastmagneten blijft uw bedrijf, dienstverlening of product goed onder de aandacht van uw klanten of doelgroep. Omdat magneten lang blijven hangen, wordt er gedurende een lange tijd naar gekeken. De reclame magneten blijven daarmee mooi onder de aandacht, en dat is toch precies wat u wilt!</p>
 <br>
 
 <h3 class="pdp">Magneten bedrukken</h3>
 <p>
-<p>Wij bedrukken magneten full color cmyk, zodat foto's, logo's en afbeeldingen met kleurverlopen mooi bedrukt worden. Het is mogelijk om verschillende vormen, afmetingen en opdrukken in 1 bestelling te combineren. Ons assortiment magneten:</p> 
+<p>Wij bedrukken magneten full color cmyk, zodat foto's, logo's en afbeeldingen met kleurverlopen mooi bedrukt worden. Het is mogelijk om verschillende vormen, afmetingen en opdrukken in 1 bestelling te combineren. Ons assortiment bedrukte magneten bestaat uit:</p> 
 
 <ul>
-<li><a class="blue" href="https://www.allpremiums.nl/goedkope-magneten-bedrukken/" title="budget goedkope bedrukte magneten">budget / goedkope bedrukte magneten</a></li>
+<li><a class="blue" href="https://www.allpremiums.nl/goedkope-magneten-bedrukken/" title="budget goedkope bedrukte magneten">budget / goedkope magneten</a></li>
   
-<li><a class="blue" href="https://www.allpremiums.nl/magneten-bedrukken-extra-kleefkracht/" title="bedrukte magneten extra kleefkracht">bedrukte magneten met extra kleefracht</a></li>
+<li><a class="blue" href="https://www.allpremiums.nl/magneten-bedrukken-extra-kleefkracht/" title="bedrukte magneten extra kleefkracht">magneten met extra kleefracht</a></li>
   
-<li><a class="blue" href="https://www.allpremiums.nl/extra-stevige-magneten-bedrukken/" title="extra stevige magneten bedrukken">extra stevige bedrukte magneten</a></li>
+<li><a class="blue" href="https://www.allpremiums.nl/extra-stevige-magneten-bedrukken/" title="extra stevige magneten bedrukken">extra stevige magneten</a></li>
   
-<li><a class="blue" href="https://www.allpremiums.nl/memomagneten-doming-bedrukken/" title="bedrukte memomagneten met doming">bedrukte memomagneten met doming</a></li>  
+<li><a class="blue" href="https://www.allpremiums.nl/memomagneten-doming-bedrukken/" title="bedrukte memomagneten met doming">memomagneten met doming</a></li>  
  
-<li><a class="blue" href="https://www.allpremiums.nl/doming-magneten-bedrukken/" title="bedrukte doming magneten">bedrukte doming magneten</a></li>    
+<li><a class="blue" href="https://www.allpremiums.nl/doming-magneten-bedrukken/" title="bedrukte doming magneten">doming magneten</a></li>    
   
-<li><a class="blue" href="https://www.allpremiums.nl/plexiglas-magneten-bedrukken/" title="bedrukte plexiglas magneten">bedrukte plexiglas magneten</a></li>      
+<li><a class="blue" href="https://www.allpremiums.nl/plexiglas-magneten-bedrukken/" title="bedrukte plexiglas magneten">plexiglas magneten</a></li>      
   
-<li><a class="blue" href="https://www.allpremiums.nl/memomagneten-bedrukken/" title="bedrukte memo magneten">bedrukte memo magneten</a></li>       
+<li><a class="blue" href="https://www.allpremiums.nl/memomagneten-bedrukken/" title="bedrukte memo magneten">memo magneten</a></li>       
   
-<li><a class="blue" href="https://www.allpremiums.nl/onbuigbare-magneten-bedrukken/" title="onbuigbare bedrukte magneten">onbuigbare bedrukte magneten</a></li>    
+<li><a class="blue" href="https://www.allpremiums.nl/onbuigbare-magneten-bedrukken/" title="onbuigbare bedrukte magneten">onbuigbare magneten</a></li>    
 </ul>
 <br>
   
@@ -42,8 +42,8 @@ tags:
 <p>Bedrukte magneten zijn in verschillende materiaal diktes leverbaar, zodat u voor iedere toepassing de juiste kleefkracht kunt kiezen.</p>
 
 <ul>
-  <li>0,75mm: standaard promotionele dikte, ideaal voor mailings</li>
-  <li>0,85mm: met extra sterke kleefkracht, ook geschikt als automagneet en voor het vastkleven op een white- of memo bord</li>
+  <li>0,75mm: standaard promotionele dikte, ideaal voor een mailing</li>
+  <li>0,85mm: met extra sterke kleefkracht, geschikt als automagneet en voor het white- of memo bord</li>
   <li>1,5mm: dikste flexibele magneet die moeilijk buigzaam is</li>
   </ul>
 <p>
