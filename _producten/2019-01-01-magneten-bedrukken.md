@@ -62,7 +62,7 @@ tags:
 <h3 class="pdp">Magneet eigenschappen</h3>
 <p>
 <ul>
-  <li>hoge kwaliteit magneten, in Nederland geproduceerd</li>
+  <li>beste kwaliteit magneten, in Nederland geproduceerd</li>
   <li>flexibele magneten met een duurzame vinyl toplaag, sterk verlijmd op het magnetisch vel</li>
   <li>altijd digitaal - full color bedrukt</li>
   <li>in iedere vorm en afmeting leverbaar</li>
