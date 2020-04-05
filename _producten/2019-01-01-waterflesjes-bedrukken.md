@@ -8,13 +8,21 @@ tags:
 - bedrukken
 
 ---
-<p>
+<p>Waterflesjes bedrukken met een logo of reclame tekst: een verfrissend relatiegeschenk dat voor veel verschillende gelegenheden geschikt is. Leverbaar in de volgende uitvoeringen:</p>
+
+
+  
+<li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-bedrukken-330ml-schroefdop/" title="waterflesjes bedrukken<a>bedrukte memo magneten</a></li>
+   
+  
+ 
+  
+  
   
 <h3 class="pdp">Duurzame Eco-vriendelijke bedrukte waterflesjes</h3>
 <p>
-<p>R-pet gerecycled
-
-
+<p>De bedrukte waterflesjes die u bij Allpremiums kunt bestellen zijn 100% gerecycled. Zowel het flesje, het etiket en de dop zijn gemaakt van zogenaamd R-pet materiaal. Ook na het gebruik kunnen de waterflesjes opnieuw gerecycled worden.</p>  
+<br>
   
 <h3 class="pdp">Levertijd en minimale afname</h3>
 <p>
@@ -34,17 +42,7 @@ tags:
 <p>Nee dat is niet het geval, wij leveren zo snel mogelijk. Als een levertijd niet haalbaar is dan hoort u dat van ons. Daar verandert een toeslag naar onze mening niets aan. Wij leveren de bedrukte waterflesjes juist zo goedkoop mogelijk!</p>
 <br>
 
-<h3 class="pdp">Wat is de kwaliteit van het water?</h3>
-<p>
-<p>Het water dat wij leveren heeft haar oorsprong in de Schotse hooglanden. Daar wordt het water vanuit een natuurlijke bron direct gebotteld. Doordat de grond in de Schotse hooglanden weinig kalkhoudend is, heeft een bronwater een zachte smaak.</p>
-<br> 
-
-<h3 class="pdp">Wat is het verschil tussen bronwater en mineraalwater?</h3>
-<p>
- <p>Bronwater en mineraalwater komen beiden uit door overheden erkende onderaardse bronnen en bevatten natuurlijke mineralen. Kenmerkend van mineraalwater is dat het aan de bron gebotteld wordt. Bronwater mag eerst vervoerd en vervolgens gebotteld worden.</p>
-<br>
- 
-<h3 class="pdp">Hoe worden de labels bedrukt?</h3>
+<h3 class="pdp">Waterflesjes bedrukken</h3>
 <p>
 <p>De kunststof labels of etiketten worden full colour CMYK bedrukt en daarna afgewerkt met een glanslaminaat voor een luxe uitstraling. Full colour bedrukken heeft als voordeel dat u gedetailleerde afbeeldingen haarscherp kunt bedrukken. Het kunststof label zorgt in combinatie met het glans laminaat voor een hoogwaardige kwaliteit, waarbij in tegenstelling tot papieren labels, het label zelfs mooi blijft als het nat wordt.</p>
 <br>
@@ -63,5 +61,16 @@ tags:
 <p>
 <p>Bijvoorkeur in een gevectoriseerd bestand (.ai / .eps) of een PDF met een minimale resolutie van 300 dpi. Een foto, jpeg of tif bestand is helaas niet bruikbaar. Wij kunnen een blanco template mailen waarin u het artwork kunt (laten) opmaken. Laat het ons ook gerust weten als u hier hulp bij nodig heeft. In samenwerking met de fabrikant kan op basis van uw wensen, logo en tekst een gratis ontwerp gemaakt worden.</p>
 
+<h3 class="pdp">Wat is de kwaliteit van het water?</h3>
+<p>
+<p>Het water dat wij leveren heeft haar oorsprong in de Schotse hooglanden. Daar wordt het water vanuit een natuurlijke bron direct gebotteld. Doordat de grond in de Schotse hooglanden weinig kalkhoudend is, heeft een bronwater een zachte smaak.</p>
+<br> 
 
-<li><a class="blue" href="https://www.allpremiums.nl/memomagneten-bedrukken/" title="bedrukte memo magneten">bedrukte memo magneten</a></li>
+<h3 class="pdp">Wat is het verschil tussen bronwater en mineraalwater?</h3>
+<p>
+ <p>Bronwater en mineraalwater komen beiden uit door overheden erkende onderaardse bronnen en bevatten natuurlijke mineralen. Kenmerkend van mineraalwater is dat het aan de bron gebotteld wordt. Bronwater mag eerst vervoerd en vervolgens gebotteld worden.</p>
+<br>
+
+<h3 class="pdp">Gepersonaliseerde waterflesjes bestellen</h3>
+<p>
+<p>Wilt u ook uw "eigen" waterflesjes bestellen? Vraag dan geheel vrijblijvend een offerte aan via de productpagina's. Voor advies en aanvullende informatie neemt u telefonisch contact op via telefoonnummer: +31 (0) 252 – 235 253.</p>
