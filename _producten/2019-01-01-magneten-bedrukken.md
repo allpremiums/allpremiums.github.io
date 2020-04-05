@@ -14,7 +14,7 @@ tags:
 
 <h3 class="pdp">Magneten bedrukken</h3>
 <p>
-<p>Wij bedrukken magneten full color cmyk, zodat foto's, logo's en afbeeldingen met kleurverlopen mooi bedrukt worden. Het is mogelijk om verschillende vormen, afmetingen en opdrukken in 1 bestelling te combineren. Enkele voorbeelden van magneten die wij bedrukken zijn:
+<p>Wij bedrukken magneten full color cmyk, zodat foto's, logo's en afbeeldingen met kleurverlopen mooi bedrukt worden. Het is mogelijk om verschillende vormen, afmetingen en opdrukken in 1 bestelling te combineren. Ons assortiment bedrukte magneten:</p> 
 
 <ul>
 <li><a class="blue" href="https://www.allpremiums.nl/goedkope-magneten-bedrukken/" title="budget goedkope bedrukte magneten">budget / goedkope bedrukte magneten</a></li>
