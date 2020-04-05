@@ -1,7 +1,7 @@
 ####################################################
 # Welcome to Doxy Jekyll Template
 # Product Link : https://themeix.com/product/doxy-documentation-website-jekyll-template/
-# Version : v3.0.0 + Upgraded to jekyll 4 
+# Version : v3.0.0 + Upgraded to jekyll 4
 ####################################################
 
 # Site settings
@@ -12,8 +12,8 @@ tel-link: "+31252235253"
 description: "Allpremiums - voor de leukste promotie artikelen om reclame mee te maken"
 keywords: "premiums, give aways, promotieartikelen, promotionele producten, promotiemiddelen en weggevertjes"
 baseurl: ""
-url: "https://dev.allpremiums.nl"
-robots: NOINDEX,NOFOLLOW
+url: "https://www.allpremiums.nl"
+robots: INDEX,FOLLOW
 cover_image: "/assets/images/allpremiums-preview.png"
 
 logo: /assets/images/allpremiums-logo.svg
@@ -21,7 +21,7 @@ logo-png: /assets/images/allpremiums-logo.png
 logo1280-png: /assets/images/allpremiums-logo-1280.png
 
 # Google Analytics
-#analytics_id: UA-3767152-1
+analytics_id: UA-3767152-1
 
 # Build settings
 sass:
