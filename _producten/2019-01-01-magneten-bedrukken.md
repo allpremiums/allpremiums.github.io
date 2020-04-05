@@ -72,4 +72,4 @@ tags:
 <br>
 
 <p>Wilt u ook mooie magneten laten bedrukken voor een scherpe prijs?
-Vraag dan vrijblijvend via de productpagina's een offerte aan, of bel voor aanvullende informatie en persoonlijk advies met: 0252- 235 253.</p>
+Vraag dan vrijblijvend via de productpagina's een offerte aan, of bel voor aanvullende informatie en persoonlijk advies met: (+31) 0252- 235 253.</p>
