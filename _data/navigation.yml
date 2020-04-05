@@ -28,8 +28,6 @@
 - text: Product info
   url: /product-info
   submenu:
-  - text: Bidons bedrukken
-    url: /producten/bidons-bedrukken
   - text: Kauwgom bedrukken
     url: /producten/kauwgom-bedrukken
   - text: Magneten Bedrukken
