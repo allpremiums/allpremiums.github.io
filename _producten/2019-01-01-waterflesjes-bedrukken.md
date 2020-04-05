@@ -8,22 +8,20 @@ tags:
 - bedrukken
 
 ---
-<p>Waterflesjes bedrukken met een logo of reclame tekst: een verfrissend relatiegeschenk dat voor veel verschillende gelegenheden geschikt is. Leverbaar in de volgende uitvoeringen:</p>
-<ul>
-<li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-bedrukken-330ml-schroefdop/" title="waterflesjes bedrukken">waterflesjes 330ml met schroefdop</a></li>
-  
-<li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-met-logo-bedrukken-330ml-sportdop/" title="waterflesjes met logo bedrukken">waterflesjes 330ml met sportdop</a></li>  
-  
-<li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-bedrukken-500ml-schroefdop/" title="bedrukte waterflesjes">waterflesjes 500ml met schroefdop</a></li> 
-  
-<li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-gepersonaliseerd-bedrukken-500ml-sportdop/" title="gepersonaliseerde waterflesjes met logo bedrukken">waterflesjes 500ml met sportdop</a></li> 
+<p>Waterflesjes met een bedrukt label voorzien van bijvoorbeeld uw logo of reclame tekst: een verfrissend relatiegeschenk dat voor veel verschillende gelegenheden geschikt is. Leverbaar in verschillende uitvoeringen met schroef- of sportdop, glad of geribbeld flesje, helder- of blauw transparant flesje en met met een wit of transparant label. </p> <ul> <li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-bedrukken-330ml-schroefdop/" title="waterflesjes bedrukken">waterflesjes 330ml met schroefdop</a></li>
 
-<li><a class="blue" href="https://www.allpremiums.nl/glazen-waterfles-bedrukken-330ml/" title="glazen bedrukte waterfles">glazen waterfles 330ml</a></li> 
+<li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-met-logo-bedrukken-330ml-sportdop/" title="waterflesjes met logo bedrukken">waterflesjes 330ml met sportdop</a></li>
 
-<li><a class="blue" href="https://www.allpremiums.nl/glazen-waterfles-met-logo-bedrukken-750ml/" title="glazen waterfles bedrukken">glazen waterfles 750ml</a></li> 
+<li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-bedrukken-500ml-schroefdop/" title="bedrukte waterflesjes">waterflesjes 500ml met schroefdop</a></li>
+
+<li><a class="blue" href="https://www.allpremiums.nl/waterflesjes-gepersonaliseerd-bedrukken-500ml-sportdop/" title="gepersonaliseerde waterflesjes met logo bedrukken">waterflesjes 500ml met sportdop</a></li>
+
+<li><a class="blue" href="https://www.allpremiums.nl/glazen-waterfles-bedrukken-330ml/" title="glazen bedrukte waterfles">glazen waterfles 330ml</a></li>
+
+<li><a class="blue" href="https://www.allpremiums.nl/glazen-waterfles-met-logo-bedrukken-750ml/" title="glazen waterfles bedrukken">glazen waterfles 750ml</a></li>
 </ul>
 <br>
-  
+
 <h3 class="pdp">Duurzame Eco-vriendelijke bedrukte waterflesjes</h3>
 <p>
 <p>De bedrukte waterflesjes die u bij Allpremiums kunt bestellen zijn 100% gerecycled. Zowel het flesje, het etiket en de dop zijn gemaakt van zogenaamd R-pet materiaal. Ook na gebruik kunnen de waterflesjes opnieuw gerecycled worden.</p>  
