@@ -40,7 +40,6 @@ tags:
 <h3 class="pdp">Siliconen bandjes bestellen en kopen</h3>
 <p>
 <p>doet u toch ook bij de specialist? Wij importeren de silicone bandjes zelf, zodat u altijd verzekerd bent van een snelle en voordelige levering. Wij hebben een breed assortiment silicone bandjes:</p>
-
 <ul>
 <li><a class="blue" href="https://www.allpremiums.nl/siliconen-polsbandjes-bedrukken/" title="bedrukte silicone polsbandjes">bedrukte silicone polsbandjes</a></li>  
   
