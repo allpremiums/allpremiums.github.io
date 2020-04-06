@@ -46,7 +46,7 @@ tags:
   
 <li><a class="blue" href="https://www.allpremiums.nl/siliconen-polsbandjes-ingekleurd-graveren/" title="gegraveerde silicone polsbandjes">gegraveerde silicone polsbandjes, ook met inkleuring</a></li>  
   
-<li><a class="blue" href="https://allpremiums.nl/siliconen-polsbandjes-opliggend-relief/" title="silicone polsbandjes opliggend reliëf">silicone polsbandjes met opliggend reliëf</a></li>
+<li><a class="blue" href="https://www.allpremiums.nl/siliconen-polsbandjes-opliggend-relief/" title="silicone polsbandjes opliggend reliëf">silicone polsbandjes met opliggend reliëf</a></li>
 
 <li><a class="blue" href="https://www.allpremiums.nl/siliconen-polsbandjes-gekleurde-segmenten/" title="silicone polsbandjes gekleurde segmenten">silicone polsbandjes met gekleurde segmenten</a></li>
 
