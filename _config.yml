@@ -13,7 +13,7 @@ description: "Allpremiums - voor de leukste promotie artikelen om reclame mee te
 keywords: "premiums, give aways, promotieartikelen, promotionele producten, promotiemiddelen en weggevertjes"
 baseurl: ""
 url: "https://www.allpremiums.nl"
-robots: INDEX,FOLLOW
+robots: index,follow
 cover_image: "/assets/images/allpremiums-preview.png"
 
 logo: /assets/images/allpremiums-logo.svg
