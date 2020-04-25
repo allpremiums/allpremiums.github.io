@@ -1,10 +1,10 @@
 ---
-- title: KN95 FFP2 Mondkapjes
-  description: KN95 FFP2 medisch mondkapje dat voldoet aan de richtlijnen van het
+- title: FFP2 KN95 Mondkapjes
+  description: FFP2 KN95 medisch mondkapje dat voldoet aan de richtlijnen van het
     RIVM en de WHO.
-  title-img: kn95ffp2mondkapjes
+  title-img: ffp2kn95mondkapjes
   icon: ffp2_mondkapje
-  url: "/kn95-ffp2-mondkapjes"
+  url: "/ffp2-kn95-mondkapjes"
   afname: 20 stuks
   levertijd: ca. 1-2 werkdagen
   prijs: '100:  € 4,50'
