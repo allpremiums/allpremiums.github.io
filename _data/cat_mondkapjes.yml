@@ -2,7 +2,7 @@
 - title: KN95 FFP2 Mondkapjes
   description: KN95 FFP2 medisch mondkapje dat voldoet aan de richtlijnen van het
     RIVM en de WHO.
-  title-img: ffp2mondmasker
+  title-img: kn95 ffp2 mondkapjes
   icon: ffp2_mondkapje
   url: "/kn95-ffp2-mondkapjes"
   afname: 20 stuks
@@ -11,8 +11,8 @@
   animation: fadeInLeft
 - title: FFP1 IIR Mondkapjes
   description: FFP1 IIR disposable chirurgisch mondkapje.
-  title-img: ffp1masker
-  icon: ffp1_masker
+  title-img: ffp1 iir mondkapjes
+  icon: ffp1_mondkapje
   url: "/ffp1-iir-mondkapjes"
   afname: 50 stuks
   levertijd: ca. 1-2 werkdagen
