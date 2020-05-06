@@ -30,6 +30,16 @@
   levertijd: 4 weken
   prijs: '5.000: € 0,13'
   animation: fadeInRight
+  - title: SNEL lolly in flowpack zakje bedrukken
+  description: Ronde knots lolly verpakt in een flowpack dat wij op de voor- en achterkant
+    voor u bedrukken. De lollies worden standaard in een assortiment van verschillende smaken geleverd. 
+  title-img: lolly bedrukken in flowpack
+  icon: lolly_bedrukken_flowpack
+  url: "/snel-lolly-in-flowpack-zakje-bedrukken"
+  afname: 5.000 stuks
+  levertijd: 13 werkdagen
+  prijs: '5.000: € 0,20'
+  animation: fadeInRight
 - title: Lolly in flowpack zakje bedrukken
   description: Ronde lolly verpakt in een zakje dat wij op de voor- en achterkant
     bedrukken. De lollies zijn in verschillende smaken leverbaar.
