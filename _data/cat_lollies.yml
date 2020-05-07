@@ -51,12 +51,12 @@
   levertijd: 25 werkdagen
   prijs: '5.000: € 0,16'
   animation: fadeInRight
-- title: Lolly in kartonnen sachet bedrukken
-  description: Lolly verpakt in een kartonnen sachet dat wij full color met bijvoorbeeld
+- title: Lolly in plat doosje bedrukken
+  description: Lolly verpakt in een plat kartonnen doosje dat wij full color met bijvoorbeeld
     je logo of foto afbeelding bedrukken. De lolly zelf wordt in cellofaan verpakt.
   title-img: lolly plat doosje
   icon: lolly_plat_doosje
-  url: "/lolly-in-kartonnen-sachet-bedrukken"
+  url: "/lolly-in-plat-doosje-bedrukken"
   afname: 1.000 stuks
   levertijd: 15 werkdagen
   prijs: 1.000 st. € 0,48
