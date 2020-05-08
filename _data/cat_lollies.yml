@@ -61,22 +61,22 @@
   levertijd: 22-25 werkdagen
   prijs: '5.000: € 0,16'
   animation: fadeInRight
-- title: Lolly in plat doosje bedrukken
+- title: SNEL lolly in plat doosje bedrukken
   description: Lolly verpakt in een plat kartonnen doosje dat wij full color met bijvoorbeeld
     je logo of foto afbeelding bedrukken. De lolly zelf wordt in cellofaan verpakt.
   title-img: lolly plat doosje
   icon: lolly_plat_doosje
-  url: "/lolly-in-plat-doosje-bedrukken"
+  url: "/snel-lolly-in-plat-doosje-bedrukken"
   afname: 1.000 stuks
   levertijd: 12-15 werkdagen
   prijs: 1.000 st. € 0,48
   animation: fadeInLeft
-- title: Lolly in vierkant doosje bedrukken
+- title: SNEL lolly in vierkant doosje bedrukken
   description: Ronde lolly verpakt in een vierkant doosje dat wij full color voor
     je bedrukken. De lolly zelf wordt in cellofaan verpakt.
   title-img: lollies bedrukken vierkant doosje
   icon: lollies_bedrukken_vierkant_doosje
-  url: "/lolly-in-vierkant-doosje-bedrukken"
+  url: "/snel-lolly-in-vierkant-doosje-bedrukken"
   afname: 1.000 stuks
   levertijd: 12-15 werkdagen
   prijs: '1.000: € 0,42'
