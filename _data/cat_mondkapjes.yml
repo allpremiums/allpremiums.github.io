@@ -1,6 +1,6 @@
 ---
-- title: FFP1 Mondkapjes
-  description: FFP1 disposable chirurgisch mondkapje.
+- title: FFP2 MondMaskers
+  description: FFP2 disposable chirurgisch mondmasker.
   title-img: ffp1iirmondkapjes
   icon: ffp1_mondkapje
   url: "/ffp1-mondkapjes"
@@ -8,7 +8,7 @@
   levertijd: ca. 1-2 werkdagen
   prijs: '100: € 0,90'
   animation: fadeInLeft
-- title: FFP2 KN95 Mondkapjes
+- title: FFP2 KN95 MondKapjes
   description: FFP2 KN95 medisch mondkapje dat voldoet aan de richtlijnen van het
     RIVM en de WHO.
   title-img: ffp2kn95mondkapjes
