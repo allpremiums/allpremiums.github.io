@@ -13,6 +13,7 @@ function updateStaticCache() {
             '/assets/js/build.min.js',
             '/assets/css/app.min.css',
             '/offline/'
+            '/manifest.json'
             {% raw %}
         ]);
     });
