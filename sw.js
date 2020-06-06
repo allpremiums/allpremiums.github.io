@@ -14,6 +14,7 @@ function updateStaticCache() {
             '/assets/css/app.min.css',
             '/offline/'
             '/manifest.json'
+            '/'
             {% raw %}
         ]);
     });
