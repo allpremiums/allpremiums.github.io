@@ -12,9 +12,8 @@ function updateStaticCache() {
             '/assets/images/allpremiums-logo.svg',
             '/assets/js/build.min.js',
             '/assets/css/app.min.css',
-            '/offline/'
+            '/offline/',
             '/manifest.json'
-            '/'
             {% raw %}
         ]);
     });
