@@ -31,7 +31,7 @@
   icon: kauwgomblister_6_stuks_4
   url: "/kauwgom-verpakking-bedrukken"
   afname: 250 stuks
-  levertijd: 12-15 werkdagen
+  levertijd: 10-12 werkdagen
   prijs: '250: € 0,98'
   animation: fadeInRight
 
@@ -43,8 +43,8 @@
   icon: kauwgomblister_12_stuks_4
   url: "/kauwgom-laten-bedrukken"
   afname: 250 stuks
-  levertijd: 15 werkdagen
-  prijs: '250: € 1,15'
+  levertijd: 10-12 werkdagen
+  prijs: '250: € 1,11'
   animation: fadeInRight
 
 - title: Kauwgom in zakje bedrukken
