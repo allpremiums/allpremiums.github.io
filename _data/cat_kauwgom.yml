@@ -1,4 +1,16 @@
 ---
+- title: Sportlife kauwgom bedrukken
+  description: Pakje Sportlife kauwgom bedrukt met uw eigen logo. Leverbaar met 6
+    of 12 kauwgompjes en als optie met een enkele of dubbele flap voor extra ruimte
+    voor uw opdruk. In alle bekende Sportlife smaken leverbaar.
+  title-img: sportlife kauwgom classic
+  icon: sportlife_kauwgom_classic
+  url: "/sportlife-kauwgom-bedrukken"
+  afname: 100 stuks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 1,19'
+  animation: fadeInLeft
+
 - title: Pakje kauwgom bedrukken (5)
   description: 'Kauwgompakje met een blister van 5 kauwgompjes. De kartonnen sleeve
     bedrukken wij full color zodat ook foto''s en meer kleuren logo''s mooi bedrukt
@@ -34,18 +46,6 @@
   levertijd: 15 werkdagen
   prijs: '250: € 1,15'
   animation: fadeInRight
-
-- title: Sportlife kauwgom bedrukken
-  description: Pakje Sportlife kauwgom bedrukt met uw eigen logo. Leverbaar met 6
-    of 12 kauwgompjes en als optie met een enkele of dubbele flap voor extra ruimte
-    voor uw opdruk. In alle bekende Sportlife smaken leverbaar.
-  title-img: sportlife kauwgom classic
-  icon: sportlife_kauwgom_classic
-  url: "/sportlife-kauwgom-bedrukken"
-  afname: 100 stuks
-  levertijd: 5-7 werkdagen
-  prijs: '100: € 1,19'
-  animation: fadeInLeft
 
 - title: Kauwgom in zakje bedrukken
   description: '2 suikervrije kauwgompjes geleverd in een zakje dat wij met uw logo
