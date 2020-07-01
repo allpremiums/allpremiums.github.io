@@ -58,3 +58,13 @@
   prijs: '5.000: € 0,19'
   animation: fadeInLeft
 
+- title: Kauwgom blikje bedrukken
+  description: '25 gram suikervrije kauwgom in een blikje dat wij full color voor u bedrukken.   '
+  title-img: kauwgom blikje bedrukken 
+  icon: kauwgom_blikje_bedrukken
+  url: "/kauwgom-in-blikje-bedrukken"
+  afname: 250 stuks
+  levertijd: 15 werkdagen
+  prijs: '250: € 2,37'
+  animation: fadeInLeft
+
