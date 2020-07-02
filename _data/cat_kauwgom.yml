@@ -36,9 +36,9 @@
   animation: fadeInRight
 
 - title: Pakje kauwgom bedrukken (5)
-  description: 'Kauwgompakje met een blister van 5 kauwgompjes. De kartonnen sleeve
+  description: Kauwgompakje met een blister van 5 kauwgompjes. De kartonnen sleeve
     bedrukken wij full color zodat ook foto''s en meer kleuren logo''s mooi bedrukt
-    worden.  '
+    worden.
   title-img: kauwgomblister 5 stuks
   icon: kauwgomblister_5_stuks
   url: "/pakje-kauwgom-bedrukken"
@@ -48,7 +48,7 @@
   animation: fadeInLeft
 
 - title: Bedrukt schuifdoosje met kauwgom
-  description: '12 gram suikervrije kauwgom in een schuifdoosje dat wij rondom full color voor u bedrukken.   '
+  description: 12 gram suikervrije kauwgom in een schuifdoosje dat wij rondom full color voor u bedrukken.
   title-img: bedrukt schuifdoosje met kauwgom 
   icon: bedrukt_schuifdoosje_met_kauwgom
   url: "/bedrukt-schuifdoosje-met-kauwgom"
@@ -58,7 +58,7 @@
   animation: fadeInLeft
 
 - title: Kauwgom blikje bedrukken
-  description: '25 gram suikervrije kauwgom in een blikje dat wij full color voor u bedrukken.   '
+  description: 25 gram suikervrije kauwgom in een blikje dat wij full color voor u bedrukken.
   title-img: kauwgom blikje bedrukken 
   icon: kauwgom_blikje_bedrukken
   url: "/kauwgom-in-blikje-bedrukken"
@@ -68,8 +68,8 @@
   animation: fadeInLeft
   
   - title: Kauwgom in zakje bedrukken
-  description: '2 of 3 suikervrije kauwgompjes geleverd in een zakje dat wij met uw logo
-    of tekst bedrukken.   '
+  description: 2 of 3 suikervrije kauwgompjes geleverd in een zakje dat wij met uw logo
+    of tekst bedrukken.
   title-img: kauwgom sachets
   icon: kauwgom_sachets_copy
   url: "/kauwgom-in-zakje-bedrukken"
@@ -77,4 +77,3 @@
   levertijd: 15 werkdagen
   prijs: '5.000: € 0,19'
   animation: fadeInLeft
-
