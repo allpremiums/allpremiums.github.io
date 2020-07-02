@@ -54,6 +54,16 @@
   levertijd: 15 werkdagen
   prijs: '500: € 1,45'
   animation: fadeInLeft
+
+- title: Bedrukte kunststof dispenser met kauwgom
+  description: 10 gram suikervrije kauwgom in een plastci dispenser die wij rondom full color voor u bedrukken.
+  title-img: bedrukte kunststof dispenser met kauwgom 
+  icon: bedrukte_kunststof_dispenser_met_kauwgom
+  url: "/bedrukte-kunststof-dispenser-met-kauwgom"
+  afname: 500 stuks
+  levertijd: 15 werkdagen
+  prijs: '500: € 1,45'
+  animation: fadeInLeft
   
   - title: Pakje kauwgom bedrukken (5)
   description: Kauwgompakje met een blister van 5 kauwgompjes. De kartonnen sleeve
