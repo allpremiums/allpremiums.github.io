@@ -34,8 +34,28 @@
   levertijd: 10-12 werkdagen
   prijs: '250: € 1,11'
   animation: fadeInRight
-
-- title: Pakje kauwgom bedrukken (5)
+  
+  - title: Kauwgom blikje bedrukken
+  description: 25 gram suikervrije kauwgom in een blikje dat wij full color voor u bedrukken.
+  title-img: kauwgom blikje bedrukken 
+  icon: kauwgom_blikje_bedrukken
+  url: "/kauwgom-in-blikje-bedrukken"
+  afname: 250 stuks
+  levertijd: 15 werkdagen
+  prijs: '500: € 1,53'
+  animation: fadeInLeft  
+  
+  - title: Bedrukt schuifdoosje met kauwgom
+  description: 12 gram suikervrije kauwgom in een schuifdoosje dat wij rondom full color voor u bedrukken.
+  title-img: bedrukt schuifdoosje met kauwgom 
+  icon: bedrukt_schuifdoosje_met_kauwgom
+  url: "/bedrukt-schuifdoosje-met-kauwgom"
+  afname: 500 stuks
+  levertijd: 15 werkdagen
+  prijs: '500: € 1,45'
+  animation: fadeInLeft
+  
+  - title: Pakje kauwgom bedrukken (5)
   description: Kauwgompakje met een blister van 5 kauwgompjes. De kartonnen sleeve
     bedrukken wij full color zodat ook foto''s en meer kleuren logo''s mooi bedrukt
     worden.
@@ -45,27 +65,7 @@
   afname: 1.000 stuks
   levertijd: 15 werkdagen
   prijs: '1.000: € 0,49'
-  animation: fadeInLeft
-
-- title: Bedrukt schuifdoosje met kauwgom
-  description: 12 gram suikervrije kauwgom in een schuifdoosje dat wij rondom full color voor u bedrukken.
-  title-img: bedrukt schuifdoosje met kauwgom 
-  icon: bedrukt_schuifdoosje_met_kauwgom
-  url: "/bedrukt-schuifdoosje-met-kauwgom"
-  afname: 500 stuks
-  levertijd: 15 werkdagen
-  prijs: '500: € 1,45'
-  animation: fadeInLeft
-
-- title: Kauwgom blikje bedrukken
-  description: 25 gram suikervrije kauwgom in een blikje dat wij full color voor u bedrukken.
-  title-img: kauwgom blikje bedrukken 
-  icon: kauwgom_blikje_bedrukken
-  url: "/kauwgom-in-blikje-bedrukken"
-  afname: 250 stuks
-  levertijd: 15 werkdagen
-  prijs: '500: € 1,53'
-  animation: fadeInLeft
+  animation: fadeInLeft  
   
 - title: Kauwgom in zakje bedrukken
   description: 2 of 3 suikervrije kauwgompjes geleverd in een zakje dat wij met uw logo
