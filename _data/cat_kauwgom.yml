@@ -35,7 +35,7 @@
   prijs: '250: € 1,11'
   animation: fadeInRight
   
-  - title: Kauwgom blikje bedrukken
+- title: Kauwgom blikje bedrukken
   description: 25 gram suikervrije kauwgom in een blikje dat wij full color voor u bedrukken.
   title-img: kauwgom blikje bedrukken 
   icon: kauwgom_blikje_bedrukken
@@ -45,7 +45,7 @@
   prijs: '500: € 1,53'
   animation: fadeInLeft  
   
-  - title: Bedrukt schuifdoosje met kauwgom
+- title: Bedrukt schuifdoosje met kauwgom
   description: 12 gram suikervrije kauwgom in een schuifdoosje dat wij rondom full color voor u bedrukken.
   title-img: bedrukt schuifdoosje met kauwgom 
   icon: bedrukt_schuifdoosje_met_kauwgom
@@ -65,7 +65,7 @@
   prijs: '500: € 1,45'
   animation: fadeInLeft
   
-  - title: Pakje kauwgom bedrukken (5)
+- title: Pakje kauwgom bedrukken (5)
   description: Kauwgompakje met een blister van 5 kauwgompjes. De kartonnen sleeve
     bedrukken wij full color zodat ook foto''s en meer kleuren logo''s mooi bedrukt
     worden.
