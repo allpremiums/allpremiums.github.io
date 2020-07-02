@@ -1,15 +1,4 @@
 ---
-- title: Mondmasker
-  description: 'KN95 / FFP2 mondmasker, 4 laags met 95% efficiëntie. CE gecertificeerd
-    en EN genormeerd, geschikt voor het gebruik in de gezondheidszorg. Biedt de juiste
-    bescherming tegen het Corona virus. '
-  title-img: ffp2mondmasker
-  icon: ffp2_mondkapje
-  url: "/mondmasker "
-  afname: 20 stuks
-  levertijd: ca. 1-2 werkdagen
-  prijs: '1.000: € 4,05'
-  animation: fadeInLeft
 - title: Magnetische boekenlegger met logo bedrukken
   description: 'Magnetische boekenlegger die wij aan 2 zijden bedrukken met uw logo,
     reclametekst of foto afbeelding. Gemaakt van stevig 350 grams karton, full color
@@ -21,6 +10,7 @@
   levertijd: 10-15 werkdagen
   prijs: '125: € 1,59'
   animation: fadeInLeft
+  
 - title: Speelkaarten bedrukken met logo
   description: 'Kaartspel met bedrukte speelkaarten voorzien van uw logo, foto afbeelding
     of reclametekst. Gemaakt van de beste kwaliteit 320 grams Kobaldeck karton met
@@ -32,6 +22,7 @@
   levertijd: 10-15 werkdagen
   prijs: '75: € 2,55'
   animation: fadeInLeft
+  
 - title: Zweetbandjes borduren
   description: 'Geborduurde zweetbandjes leveren wij met een directe borduring, een
     geweven label en jacquard geweven. Altijd met uw eigen logo, text of reclame uiting.
@@ -44,3 +35,4 @@
   levertijd: 3-4 weken
   prijs: '100: € 3,08'
   animation: fadeInRight
+  
