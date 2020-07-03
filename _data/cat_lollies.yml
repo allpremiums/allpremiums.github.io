@@ -1,4 +1,26 @@
 ---
+- title: SNEL lolly in vierkant doosje bedrukken
+  description: Ronde lolly verpakt in een vierkant doosje dat wij full color voor
+    je bedrukken. De lolly zelf wordt in cellofaan verpakt.
+  title-img: lollies bedrukken vierkant doosje
+  icon: lollies_bedrukken_vierkant_doosje
+  url: "/snel-lolly-in-vierkant-doosje-bedrukken"
+  afname: 1.000 stuks
+  levertijd: 12-15 werkdagen
+  prijs: '1.000: € 0,42'
+  animation: fadeInLeft
+
+- title: SNEL lolly in plat doosje bedrukken
+  description: Lolly verpakt in een plat kartonnen doosje dat wij full color met bijvoorbeeld
+    je logo of foto afbeelding bedrukken. De lolly zelf wordt in cellofaan verpakt.
+  title-img: lolly plat doosje
+  icon: lolly_plat_doosje
+  url: "/snel-lolly-in-plat-doosje-bedrukken"
+  afname: 1.000 stuks
+  levertijd: 12-15 werkdagen
+  prijs: 1.000 st. € 0,48
+  animation: fadeInLeft
+
 - title: SNEL lollies bedrukken
   description: Platte ronde lollie die wij met uw logo, tekst of afbeelding bedrukken. De lollies worden standaard in een assortiment van verschillende
     smaken geleverd. Vraag een vrijblijvende offerte aan!  
@@ -9,6 +31,7 @@
   levertijd: 12-15 werkdagen
   prijs: '7.000: € 0,17'
   animation: fadeInRight
+  
 - title: Lolly met logo bedrukken
   description: Ronde platte lolly die wij met bijvoorbeeld je logo bedrukken. Leverbaar
     in verschillende smaken en wit of transparant folie.
@@ -19,6 +42,7 @@
   levertijd: 22-25 werkdagen
   prijs: '5.000: € 0,13'
   animation: fadeInLeft
+  
 - title: Hartjes lolly bedrukken
   description: Lolly in hartvorm bedrukt met je logo of tekst op een wit of transparant
     folie. Wordt geleverd in verschillende fruitsmaken.
@@ -29,6 +53,7 @@
   levertijd: 22-25 werkdagen
   prijs: '5.000: € 0,13'
   animation: fadeInLeft
+  
 - title: Ronde knots lolly bedrukken
   description: Ronde lolly, ook wel chupa of knots lolly genoemd. De opdruk wordt
     op een wit of transparant folie gemaakt, het folie wordt vervolgens rondom de
@@ -40,6 +65,7 @@
   levertijd: 22-25 werkdagen
   prijs: '5.000: € 0,13'
   animation: fadeInRight
+  
 - title: SNEL lolly in flowpack zakje bedrukken
   description: Ronde knots lolly verpakt in een flowpack dat wij op de voor- en achterkant
     voor u bedrukken. De lollies worden standaard in een assortiment van verschillende
@@ -51,6 +77,7 @@
   levertijd: 12-15 werkdagen
   prijs: '5.000: € 0,20'
   animation: fadeInRight
+  
 - title: Lolly in flowpack zakje bedrukken
   description: Ronde lolly verpakt in een zakje dat wij op de voor- en achterkant
     bedrukken. De lollies zijn in verschillende smaken leverbaar.
@@ -61,23 +88,7 @@
   levertijd: 22-25 werkdagen
   prijs: '5.000: € 0,16'
   animation: fadeInRight
-- title: SNEL lolly in plat doosje bedrukken
-  description: Lolly verpakt in een plat kartonnen doosje dat wij full color met bijvoorbeeld
-    je logo of foto afbeelding bedrukken. De lolly zelf wordt in cellofaan verpakt.
-  title-img: lolly plat doosje
-  icon: lolly_plat_doosje
-  url: "/snel-lolly-in-plat-doosje-bedrukken"
-  afname: 1.000 stuks
-  levertijd: 12-15 werkdagen
-  prijs: 1.000 st. € 0,48
-  animation: fadeInLeft
-- title: SNEL lolly in vierkant doosje bedrukken
-  description: Ronde lolly verpakt in een vierkant doosje dat wij full color voor
-    je bedrukken. De lolly zelf wordt in cellofaan verpakt.
-  title-img: lollies bedrukken vierkant doosje
-  icon: lollies_bedrukken_vierkant_doosje
-  url: "/snel-lolly-in-vierkant-doosje-bedrukken"
-  afname: 1.000 stuks
-  levertijd: 12-15 werkdagen
-  prijs: '1.000: € 0,42'
-  animation: fadeInLeft
+  
+
+  
+
