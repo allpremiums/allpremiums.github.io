@@ -19,7 +19,7 @@
   afname: 1.000 stuks
   levertijd: 12-15 werkdagen
   prijs: 1.000 st. € 0,45
-  animation: fadeInLeft
+  animation: fadeInRight
 
 - title: SNEL lolly met logo bedrukken
   description: Platte ronde lollie die wij met uw logo, tekst of afbeelding bedrukken. De lollies worden standaard in een assortiment van verschillende
@@ -30,7 +30,7 @@
   afname: 7.000 stuks
   levertijd: 12-15 werkdagen
   prijs: '7.000: € 0,13'
-  animation: fadeInRight
+  animation: fadeInLeft
   
 - title: Lolly met logo bedrukken
   description: Ronde platte lolly die wij met bijvoorbeeld je logo bedrukken. Leverbaar
@@ -41,7 +41,7 @@
   afname: 5.000 stuks
   levertijd: 22-25 werkdagen
   prijs: '5.000: € 0,13'
-  animation: fadeInLeft
+  animation: fadeInRight
   
 - title: Hartjes lolly bedrukken
   description: Lolly in hartvorm bedrukt met je logo of tekst op een wit of transparant
