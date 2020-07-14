@@ -41,7 +41,7 @@
   icon: kauwgom_blikje_bedrukken
   url: "/kauwgom-in-blikje-bedrukken"
   afname: 250 stuks
-  levertijd: 15 werkdagen
+  levertijd: 10-12 werkdagen
   prijs: '500: € 1,53'
   animation: fadeInLeft  
   
@@ -61,7 +61,7 @@
   icon: bedrukte_kunststof_dispenser_met_kauwgom
   url: "/bedrukte-kunststof-dispenser-met-kauwgom"
   afname: 500 stuks
-  levertijd: 15 werkdagen
+  levertijd: 10-12 werkdagen
   prijs: '500: € 1,45'
   animation: fadeInLeft
   
