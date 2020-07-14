@@ -63,7 +63,7 @@
   afname: 500 stuks
   levertijd: 10-12 werkdagen
   prijs: '500: € 1,45'
-  animation: fadeInLeft
+  animation: fadeInRight
   
 - title: Pakje kauwgom bedrukken (5)
   description: Kauwgompakje met een blister van 5 kauwgompjes. De kartonnen sleeve
@@ -75,7 +75,7 @@
   afname: 1.000 stuks
   levertijd: 15 werkdagen
   prijs: '1.000: € 0,49'
-  animation: fadeInLeft  
+  animation: fadeInRight  
   
 - title: Kauwgom in zakje bedrukken
   description: 2 of 3 suikervrije kauwgompjes geleverd in een zakje dat wij met uw logo
