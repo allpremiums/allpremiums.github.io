@@ -9,6 +9,7 @@
   levertijd: 2 weken
   prijs: '100: € 0,96'
   animation: fadeInLeft
+  
 - title: Silicone polsbandjes (ingekleurd) graveren
   description: 'Siliconen polsbandjes graveren voor een duurzaam effect dat niet kan
     slijten. U kunt de polsbandjes bestellen met een gravering in de kleur van het
@@ -20,7 +21,8 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 0,99'
-  animation: fadeInLeft
+  animation: fadeInRight
+  
 - title: Siliconen polsbandjes opliggend relief
   description: Siliconen polsbandjes met opliggend reliëf, ook wel embossing genoemd.
     Het reliëf maken wij in dezelfde kleur als het silicone polsbandje, of bedrukken
@@ -32,6 +34,7 @@
   levertijd: 2 weken
   prijs: '100: € 0,99'
   animation: fadeInRight
+  
 - title: Siliconen polsbandjes gekleurde segmenten
   description: Combineer zelf verschillende kleuren in een siliconen polsbandje voor
     een unieke uitstraling. Met uw eigen tekst of logo bedrukt, gegraveerd of een
@@ -42,7 +45,8 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 0,96'
-  animation: fadeInRight
+  animation: fadeInLeft
+  
 - title: Siliconen polsbandjes marmer effect
   description: Siliconen polsbandjes met een marmer effect maken wij door verschillende
     kleuren van uw voorkeur door elkaar te mengen.
@@ -53,6 +57,7 @@
   levertijd: 2 weken
   prijs: '100: € 0,96'
   animation: fadeInLeft
+  
 - title: Siliconen polsbandjes glow in the dark
   description: Lichtgevende glow in the dark siliconen polsbandjes worden vaak gebruikt
     voor feesten en evenementen vanwege het leuke effect in het donker.
@@ -62,7 +67,18 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 0,96'
-  animation: fadeInLeft
+  animation: fadeInRight
+  
+- title: Siliconen vinger en duimringen
+  description: Silicone ring voor om je vingers of duim in plaats van om je pols. Een uniek en opvallend product om reclame mee te maken. 
+  title-img: siliconen vinger en duimringen 
+  icon: silicone_ring
+  url: "/siliconen-ringen-bedrukken-en-graveren"
+  afname: 50 stuks
+  levertijd: 2 weken
+  prijs: '100: € 0,96'
+  animation: fadeInRight  
+   
 - title: Extra smalle siliconen polsbandjes
   description: Door de hoogte van slechts 6mm, zijn deze extra smalle siliconen polsbandjes
     net even iets subtieler en minder opvallend.
@@ -72,7 +88,8 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 1,01'
-  animation: fadeInRight
+  animation: fadeInLeft
+  
 - title: Siliconen polsbandjes met glitters
   description: Siliconen polsbandjes met zilveren glitters voor een feestelijk effect.
     Leverbaar met uw eigen opdruk, gravering of reliëf.
@@ -82,7 +99,8 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 0,96'
-  animation: fadeInRight
+  animation: fadeInLeft
+  
 - title: Siliconen sleutelhangers
   description: Reclame maken én een leuk en praktisch relatiegeschenk weggeven? Met
     siliconen sleutelhangers blijft u steeds opnieuw onder de aandacht van uw klanten!
@@ -92,7 +110,8 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 1,27'
-  animation: fadeInLeft
+  animation: fadeInRight
+  
 - title: 17mm brede silicone polsbandjes
   description: Brede siliconen polsbandjes van 17mm voor nóg meer ruimte voor uw tekst
     en logo. Speciaal geschikt voor dubbele tekstregels en logo's met kleine details.
@@ -102,7 +121,8 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 1,26'
-  animation: fadeInLeft
+  animation: fadeInRight
+  
 - title: 25mm extra brede silicone polsbandjes
   description: Extra brede siliconen polsbandjes 25mm voor nóg meer ruimte voor uw
     tekst en logo. Speciaal geschikt voor dubbele tekstregels en logo's met kleine
@@ -113,7 +133,8 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 1,50'
-  animation: fadeInRight
+  animation: fadeInLeft
+  
 - title: Siliconen polsbandjes color coated
   description: Color coated silicone polsbandje met een bijzonder effect waarbij de
     binnen- en buitenkant van het polsbandje een andere kleur krijgen.
@@ -123,4 +144,4 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 1,19'
-  animation: fadeInRight
+  animation: fadeInLeft
