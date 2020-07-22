@@ -1,4 +1,14 @@
 ---
+- title: Onbedrukte blanco siliconen polsbandjes
+  description: Onbedrukte blanco silicone polsbandjes zonder opdruk. In iedere kleur en 4 verschillende maten leverbaar. 
+  title-img: onbedrukte blanco silicone polsbandjes 
+  icon: onbedrukte_silicone_polsbandjes 
+  url: "/onbedrukte-blanco-siliconen-polsbandjes"
+  afname: 50 stuks
+  levertijd: 2 weken
+  prijs: '100: € 0,39
+  animation: fadeInLeft
+
 - title: Siliconen polsbandjes bedrukken
   description: Silicone polsbandjes bedrukken met uw eigen tekst of logo. De polsbandjes
     en opdruk zijn in alle kleuren leverbaar.
@@ -8,7 +18,7 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 0,96'
-  animation: fadeInLeft
+  animation: fadeInRight
   
 - title: Silicone polsbandjes (ingekleurd) graveren
   description: 'Siliconen polsbandjes graveren voor een duurzaam effect dat niet kan
@@ -21,8 +31,8 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 0,99'
-  animation: fadeInRight
-  
+  animation: fadeInRight  
+    
 - title: Siliconen polsbandjes opliggend relief
   description: Siliconen polsbandjes met opliggend reliëf, ook wel embossing genoemd.
     Het reliëf maken wij in dezelfde kleur als het silicone polsbandje, of bedrukken
@@ -33,7 +43,7 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 0,99'
-  animation: fadeInRight
+  animation: fadeInLeft
   
 - title: Siliconen polsbandjes gekleurde segmenten
   description: Combineer zelf verschillende kleuren in een siliconen polsbandje voor
@@ -56,7 +66,7 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 0,96'
-  animation: fadeInLeft
+  animation: fadeInRight
   
 - title: Siliconen polsbandjes glow in the dark
   description: Lichtgevende glow in the dark siliconen polsbandjes worden vaak gebruikt
@@ -77,7 +87,7 @@
   afname: 50 stuks
   levertijd: 2,5 week
   prijs: '100: € 1,75'
-  animation: fadeInRight  
+  animation: fadeInLeft  
    
 - title: Extra smalle siliconen polsbandjes
   description: Door de hoogte van slechts 6mm, zijn deze extra smalle siliconen polsbandjes
@@ -99,7 +109,7 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 0,96'
-  animation: fadeInLeft
+  animation: fadeInRight
   
 - title: Siliconen sleutelhangers
   description: Reclame maken én een leuk en praktisch relatiegeschenk weggeven? Met
@@ -121,7 +131,7 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 1,26'
-  animation: fadeInRight
+  animation: fadeInLeft
   
 - title: 25mm extra brede silicone polsbandjes
   description: Extra brede siliconen polsbandjes 25mm voor nóg meer ruimte voor uw
@@ -144,4 +154,4 @@
   afname: 50 stuks
   levertijd: 2 weken
   prijs: '100: € 1,19'
-  animation: fadeInLeft
+  animation: fadeInRight
