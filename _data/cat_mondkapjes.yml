@@ -1,4 +1,14 @@
 ---
+- title: Bedrukte mondkapjes Reed
+  description: Met logo bedrukt mondkapje Reed.
+  title-img: bedrukte mondkapjes
+  icon: bedrukt_mondkapje
+  url: "/bedrukte-mondkapjes-reed"
+  afname: 25 stuks
+  levertijd: ca. 1 week 
+  prijs: '100: € 4,35'
+  animation: fadeInLeft
+
 - title: IIR 2R MondMaskers
   description: FFP2 disposable chirurgisch mondmasker.
   title-img: ffp1iirmondkapjes
@@ -7,7 +17,8 @@
   afname: 50 stuks
   levertijd: ca. 1-2 werkdagen
   prijs: '100: € 0,54'
-  animation: fadeInLeft
+  animation: fadeInRight
+  
 - title: FFP2 KN95 MondKapjes
   description: FFP2 KN95 medisch mondkapje dat voldoet aan de richtlijnen van het
     RIVM en de WHO.
