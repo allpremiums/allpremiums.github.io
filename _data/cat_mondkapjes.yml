@@ -8,6 +8,16 @@
   levertijd: ca. 3 weken 
   prijs: '500: € 1,78'
   animation: fadeInLeft    
+    
+- title: Full color bedrukte mondkapjes met koordjes
+  description: Mondkapjes full color bedrukt met koordjes.
+  title-img: full color bedrukte mondkapjes met koordjes
+  icon: full_color_bedrukte_mondkapjes_met_koordjes
+  url: "/full-color-bedrukte-mondkapjes-met-koordjes"
+  afname: 500 stuks
+  levertijd: ca. 3 weken 
+  prijs: '500: € 2,15'
+  animation: fadeInRight      
 
 - title: IIR 2R MondMaskers
   description: FFP2 disposable chirurgisch mondmasker.
@@ -17,6 +27,17 @@
   afname: 50 stuks
   levertijd: ca. 1-2 werkdagen
   prijs: '100: € 0,54'
+  animation: fadeInLeft
+
+- title: FFP2 KN95 MondKapjes
+  description: FFP2 KN95 medisch mondkapje dat voldoet aan de richtlijnen van het
+    RIVM en de WHO.
+  title-img: ffp2kn95mondkapjes
+  icon: ffp2_mondkapje
+  url: "/ffp2-kn95-mondkapjes"
+  afname: 20 stuks
+  levertijd: ca. 1-2 werkdagen
+  prijs: '100:  € 2,60'
   animation: fadeInRight
 
 - title: Bedrukte mondkapjes LAYTON 1-laags
@@ -29,17 +50,6 @@
   prijs: '100: € 3,16'
   animation: fadeInLeft   
   
-- title: FFP2 KN95 MondKapjes
-  description: FFP2 KN95 medisch mondkapje dat voldoet aan de richtlijnen van het
-    RIVM en de WHO.
-  title-img: ffp2kn95mondkapjes
-  icon: ffp2_mondkapje
-  url: "/ffp2-kn95-mondkapjes"
-  afname: 20 stuks
-  levertijd: ca. 1-2 werkdagen
-  prijs: '100:  € 2,60'
-  animation: fadeInRight
-  
 - title: Bedrukte mondkapjes REED 2-laags
   description: Met logo bedrukt mondkapje Reed.
   title-img: bedrukte mondkapjes
@@ -48,7 +58,7 @@
   afname: 25 stuks
   levertijd: ca. 1 week 
   prijs: '100: € 4,35'
-  animation: fadeInLeft  
+  animation: fadeInRight  
   
 
   
