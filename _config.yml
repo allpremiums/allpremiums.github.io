@@ -23,6 +23,9 @@ logo1280-png: /assets/images/allpremiums-logo-1280.png
 # Google Analytics
 analytics_id: UA-3767152-1
 
+#Google Tagmanager
+gtm: GTM-ZDLV7H4
+
 # Build settings
 sass:
     style: compressed
