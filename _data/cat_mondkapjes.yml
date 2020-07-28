@@ -9,6 +9,16 @@
   prijs: '500: € 1,78'
   animation: fadeInLeft    
     
+- title: IIR 2R MondMaskers
+  description: FFP2 disposable chirurgisch mondmasker.
+  title-img: ffp1iirmondkapjes
+  icon: ffp1_mondkapje
+  url: "/iir-2r-mondmaskers"
+  afname: 50 stuks
+  levertijd: ca. 1-2 werkdagen
+  prijs: '100: € 0,54'
+  animation: fadeInLeft    
+    
 - title: Full color bedrukte mondkapjes met koordjes
   description: Mondkapjes full color bedrukt met koordjes.
   title-img: full color bedrukte mondkapjes met koordjes
@@ -18,16 +28,6 @@
   levertijd: ca. 3 weken 
   prijs: '500: € 2,15'
   animation: fadeInRight      
-
-- title: IIR 2R MondMaskers
-  description: FFP2 disposable chirurgisch mondmasker.
-  title-img: ffp1iirmondkapjes
-  icon: ffp1_mondkapje
-  url: "/iir-2r-mondmaskers"
-  afname: 50 stuks
-  levertijd: ca. 1-2 werkdagen
-  prijs: '100: € 0,54'
-  animation: fadeInLeft
 
 - title: FFP2 KN95 MondKapjes
   description: FFP2 KN95 medisch mondkapje dat voldoet aan de richtlijnen van het
