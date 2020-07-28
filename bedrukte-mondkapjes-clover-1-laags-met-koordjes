@@ -1,0 +1,113 @@
+---
+layout: doc_full
+nav: pdp
+cat-url: mondkapjes
+cat-title: mondkapjes
+title: Bedrukte mondkapjes Clover 1-laags met koordjes
+title-page: 
+description: '1 laags bedrukte mondkapjes met koordjes en uw eigen logo of tekst. Vanaf 25 mondkapjes in het wit of zwart met uw opdruk geleverd. Vraag een vrijblijvende offerte aan!'
+keywords: ''
+main-image: "/assets/images/products/clover_mondkapje_bedrukken"
+carousel:
+- image: "/assets/images/products/clover_mondkapje_bedrukken"
+- image: "/assets/images/products/mondmaskers_bedrukken_met_koordjes"
+- image: "/assets/images/products/bedrukt_mondmasker_met_koordjes"
+- image: "/assets/images/products/bedrukte_mondmaskers_met_koordjes"
+columns:
+- col: Aantal
+- col: Prijs incl. 1 kleur opdruk 
+table:
+- amount: 25>
+  price: "€ 6,67"
+- amount: 50>
+  price: "€ 4,37"
+- amount: 100>
+  price: "€ 3,73"
+- amount: 250>
+  price: "€ 2,89"
+- amount: 500>
+  price: "€ 2,54"
+- amount: 1.000>
+  price: "€ 2,28"
+jotform-id: "202064246422344"
+---
+<!-- Left Col START - PDP img + table -->
+    <div class="col-md-6 col-lg-8">
+      <div class="row">
+        <!-- Left Col START - PDP img -->
+        <div class="col-md-6 col-lg-6">
+          {% include carousel.html %}
+        </div>
+        <!-- Left Col END - PDP img -->
+      <!-- Left Col START - PDP table -->
+        <div class="col-md-6 col-lg-6">
+          {% include table.html %}
+        </div>
+      </div>
+        <!-- Left Col END - PDP table -->
+      <div class="row">
+        <!-- Left Col START - PDP content -->
+        <div class="col-md-6 col-lg-12">
+          <br><p><strong>Wij leveren ook aan particulieren en verenigingen.</strong></p>
+<br>
+ <table border="0">
+  <tbody>
+    <tr>
+      <td><span class="table-blue">Minimale afname</span></td>
+      <td>: 25</td>
+    </tr>
+    <tr>
+      <td><span class="table-blue">Besteleenheid</span></td>
+      <td>: per stuk</td>
+    </tr>
+    <tr>
+      <td><span class="table-blue">Prijs</span></td>
+      <td>: incl. instelkosten & transport</td>
+    </tr>
+     <tr>
+      <td><span class="table-blue"></span></td>
+      <td>: excl. 21% btw.</td>
+    </tr>    
+    <tr>
+      <td><span class="table-blue">Levertijd</span></td>
+      <td>: ca. 1 week</td>
+    </tr>
+  </tbody>
+</table>
+          
+<br>
+   <h3 class="pdp">Mondkapjes met logo bedrukken</h3>               
+<p>
+   <p>Bent u op zoek naar een mondkapje met koordjes ddat u met uw eigen logo kunt laten bedrukken? Kies dan voor dit 1-laags mondkapje dat op de linkerkant (vanuit de drager gezien) met 1 kleur bedrukt wordt.</p>  
+   <p>Deze wasbare en herbuikbare bedrukte mondkapjes zijn geen medisch hulpmiddel of persoonlijk beschermingsmiddel. Het mondkapje is daarmee niet geschikt voor medisch gebruik en beschermt niet tegen virussen, bacteriën of infecties.</p>
+   <br>                 
+<h3 class="pdp">Mondkapjes Clover met uw eigen opdruk</h3> 
+          <ul>
+            <li>Standaard met 1 kleur bedrukt</li>
+            <li>Mondkapje verkrijgbaar in het wit en zwart</li>
+            <li>De opdruk is in iedere kleur mogelijk</li>
+            <li>Afmeting: ca. 15x24cm</li>
+            <li>Materiaal: 90% polyester & 10% elastane</li>
+            <li>Wasbaar op 30 graden</li>
+            <li>Per stuk in polybag verpakt</li>
+          </ul>
+    <br>
+          <h3 class="pdp">Opdruk positie</h3>           
+          <ul>
+            <li>Linkerkant vanuit de drager gezien</li>
+            <li>Maximale grootte van de opdruk: 70x50mm</li>
+          </ul>          
+          <br>     
+<p>Heeft u nog vragen of wilt u meer informatie? Neem gerust vrijblijvend contact met ons op, wij helpen u graag verder.</p>
+          <p><strong>Vraag een vrijblijvende offerte aan!</strong></p>
+<br>
+        </div>
+        <!-- Left Col END - PDP content -->
+      </div>
+    </div>
+    <!-- Left Col Block END - PDP img + table -->
+    <!-- Right Col START - Form -->
+    <div class="col-md-4 mx-auto">
+      <script type="text/javascript" src="https://form.jotformeu.com/jsform/{{page.jotform-id}}"></script>
+    </div>
+    <!-- Right Col END - Form -->
