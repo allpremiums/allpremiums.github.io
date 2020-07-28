@@ -50,6 +50,16 @@
   prijs: '100: € 3,16'
   animation: fadeInLeft   
   
+- title: Bedrukte mondkapjes CLOVER 1-laags met koordjes
+  description: Met logo bedrukt mondkapje Clover met koordjes.
+  title-img: mondkapjes met logo bedrukt 
+  icon: clover_mondkapje_bedrukken
+  url: "/bedrukte-mondkapjes-clover-1-laags"
+  afname: 25 stuks
+  levertijd: ca. 1 week 
+  prijs: '100: € 3,73'
+  animation: fadeInLeft     
+  
 - title: Bedrukte mondkapjes REED 2-laags
   description: Met logo bedrukt mondkapje Reed.
   title-img: bedrukte mondkapjes
@@ -58,7 +68,7 @@
   afname: 25 stuks
   levertijd: ca. 1 week 
   prijs: '100: € 4,35'
-  animation: fadeInRight  
+  animation: fadeInLeft  
   
 
   
