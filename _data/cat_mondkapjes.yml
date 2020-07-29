@@ -40,11 +40,11 @@
   prijs: '100:  € 2,60'
   animation: fadeInRight
 
-- title: Mondkapjes full color bedrukken 3-laags met oorelastieken
-  description: Mondkapjes full color bedrukken met oorelastieken 3-laags.
-  title-img: mondkapjes full color bedrukt met oorelastieken
+- title: Mondkapjes full color bedrukken 3-laags
+  description: Mondkapjes full color bedrukken 3-laags.
+  title-img: mondkapjes full color bedrukken
   icon: mondkapje_full_color_bedrukt_3_laags
-  url: "/mondkapjes-full-color-bedrukken-3-laags-met-oorelastieken"
+  url: "/mondkapjes-full-color-bedrukken-3-laags"
   afname: 25 stuks
   levertijd: ca.  
   prijs: '100: € 4,83'
