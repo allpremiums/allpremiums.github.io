@@ -52,8 +52,10 @@ layout: compress
     {% endcapture %}
     {{ include_to_scssify | scssify }}
     </style>
+    {% include_cached gtm-head.html %}	
 </head>
 <body>
+    {% include_cached gtm-body.html %}	
     {% include_cached header.html %}
     {% include_cached page_header.html %}
     {% include_cached call_to_action_header.html %}
@@ -62,7 +64,6 @@ layout: compress
     {{content}}
     {% include_cached call_to_action_footer.html %}
     {% include_cached footer.html %}
-    {% include_cached gtm.html %}
     {% include_cached analytics.html %}	
     <!-- Add Javascript File -->
    <script src="{{site.baseurl}}/assets/js/build.min.js"></script>
