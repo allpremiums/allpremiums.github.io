@@ -7,6 +7,8 @@ tags:
 - bedrukte memo magneten
 - memomagneten logo bedrukken
 - bedrukte memomagneten logo
+- magneten bedrukken
+- bedrukte magneten
 post_image: "/assets/images/blog/memomagneet_bedrukken"
 comment: true
 excerpt: 
