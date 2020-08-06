@@ -1,5 +1,5 @@
 ---
-layout: post_right
+layout: post_left
 title: Goedkope magneten bedrukken
 date: 2020-02-18 13:48:10 +0100
 tags:
