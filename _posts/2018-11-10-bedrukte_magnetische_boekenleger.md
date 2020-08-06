@@ -16,4 +16,4 @@ permalink: "/nieuws/:title"
 
 <p>De boekenleggers zijn gemaakt van een stevige kwaliteit 320 grams karton. U geeft dus echt een heel mooi promotie artikel aan uw relaties. Wij bedrukken de boekenleggers standaard full color op beide zijden. Door deze manier van bedrukken worden ook foto's en afbeeldingen haarscherp afgebeeld.</p> 
 
-<p>Bent u benieuwd naar uw mogelijkheden en de prijzen? Bekijk <a href="https://www.allpremiums.nl/magnetische-boekenlegger-met-logo-bedrukken" title="magnetische boekenlegger bedrukken"><strong>HIER</strong></a> het product. Neem gerust vrijblijvend contact met ons op zodat wij u verder kunnen informeren!</p>
+<p>Bent u benieuwd naar uw mogelijkheden en de prijzen? Bekijk <a class="blue" title=magnetische boekenlegger bedrukken" href="https://www.allpremiums.nl/magnetische-boekenlegger-met-logo-bedrukken"><strong>HIER</strong></a> het product. Neem gerust vrijblijvend contact met ons op zodat wij u verder kunnen informeren!</p>
