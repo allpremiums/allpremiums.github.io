@@ -3,8 +3,9 @@ layout: post_left
 title: Memo magneten bedrukken
 date: 2020-03-27 10:31:12 +0100
 tags:
-- memo
-- magneten
+- memo magneten
+- whiteboard magneten
+- memomagneten
 - bedrukken
 post_image: "/assets/images/blog/memomagneet_bedrukken"
 comment: true
