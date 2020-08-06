@@ -18,4 +18,4 @@ permalink: "/nieuws/:title"
 
 <p> Heeft u zelf een leuk idee? Neem vrijblijvend contact met ons op om de mogelijkheden te bespreken!</p>
 
-<p><strong>Bekijk <a class="blue" href="https://www.allpremiums.nl/siliconen-polsbandjes-met-glitters" title="HIER">de silicone polsbansjes met glitters</a></strong></p> 
+<p>Bekijk <a class="blue" title="silicone polsbandjes glitters" href="https://www.allpremiums.nl/siliconen-polsbandjes-met-glitters"><strong>HIER</strong></a> de silicone polsbandjes met glitters.</p>
