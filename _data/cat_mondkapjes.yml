@@ -1,14 +1,4 @@
 ---
-- title: Mondkapjes full color bedrukken 1-laags met oorelastieken
-  description: Mondkapjes full color bedrukt met oorelastieken.
-  title-img: full color bedrukte mondkapjes met oorelastieken
-  icon: full_color_bedrukte_mondkapjes_met_oorelastieken
-  url: "/mondkapjes-full-color-bedrukken-1-laags-met-oorelastieken"
-  afname: 500 stuks
-  levertijd: ca. 3 weken 
-  prijs: '500: € 1,78'
-  animation: fadeInLeft    
-    
 - title: IIR 2R MondMaskers
   description: FFP2 disposable chirurgisch mondmasker.
   title-img: ffp1iirmondkapjes
@@ -17,17 +7,7 @@
   afname: 50 stuks
   levertijd: ca. 1-2 werkdagen
   prijs: '100: € 0,54'
-  animation: fadeInRight    
-    
-- title: Mondkapjes full color bedrukken 1-laags met koordjes
-  description: Mondkapjes full color bedrukt met koordjes.
-  title-img: full color bedrukte mondkapjes met koordjes
-  icon: full_color_bedrukte_mondkapjes_met_koordjes
-  url: "/mondkapjes-full-color-bedrukken-1-laags-met-koordjes"
-  afname: 500 stuks
-  levertijd: ca. 3 weken 
-  prijs: '500: € 2,15'
-  animation: fadeInLeft      
+  animation: fadeInLeft    
 
 - title: FFP2 KN95 MondKapjes
   description: FFP2 KN95 medisch mondkapje dat voldoet aan de richtlijnen van het
@@ -39,6 +19,26 @@
   levertijd: ca. 1-2 werkdagen
   prijs: '100:  € 2,60'
   animation: fadeInRight
+
+- title: Mondkapjes full color bedrukken 1-laags met oorelastieken
+  description: Mondkapjes full color bedrukt met oorelastieken.
+  title-img: full color bedrukte mondkapjes met oorelastieken
+  icon: full_color_bedrukte_mondkapjes_met_oorelastieken
+  url: "/mondkapjes-full-color-bedrukken-1-laags-met-oorelastieken"
+  afname: 500 stuks
+  levertijd: ca. 3 weken 
+  prijs: '500: € 1,78'
+  animation: fadeInLeft    
+        
+- title: Mondkapjes full color bedrukken 1-laags met koordjes
+  description: Mondkapjes full color bedrukt met koordjes.
+  title-img: full color bedrukte mondkapjes met koordjes
+  icon: full_color_bedrukte_mondkapjes_met_koordjes
+  url: "/mondkapjes-full-color-bedrukken-1-laags-met-koordjes"
+  afname: 500 stuks
+  levertijd: ca. 3 weken 
+  prijs: '500: € 2,15'
+  animation: fadeInRight      
 
 - title: Mondkapjes full color bedrukken 3-laags
   description: Mondkapjes full color bedrukken 3-laags.
