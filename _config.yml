@@ -26,6 +26,9 @@ analytics_id: UA-3767152-1
 #Google Tagmanager
 gtm: GTM-ZDLV7H4
 
+# add redirect file for Netlify (Alternative 301 - since Jekyll does not really create a 301 but a meta refresh)
+include: _redirects
+
 # Build settings
 sass:
     style: compressed
