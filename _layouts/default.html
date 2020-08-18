@@ -1,4 +1,6 @@
-
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html lang="nl">
 <head>
@@ -50,10 +52,10 @@
     {% endcapture %}
     {{ include_to_scssify | scssify }}
     </style>
-    {% include_cached gtm-head.html %}	
+    {% include_cached gtm-head.html %}
 </head>
 <body>
-    {% include_cached gtm-body.html %}	
+    {% include_cached gtm-body.html %}
     {% include_cached header.html %}
     {% include_cached page_header.html %}
     {% include_cached call_to_action_header.html %}
