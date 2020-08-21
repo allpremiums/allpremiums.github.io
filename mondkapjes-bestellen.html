@@ -1,0 +1,85 @@
+---
+layout: default
+nav: cat
+title: mondkapjes bestellen | Allpremiums
+title-alt: Mondkapjes bestellen
+description: Mondkapjes bestellen. 
+  mondkapjes.
+keywords: ''
+img-left: 3_laags_mondkapjes
+img-right: 4_laags_mondkapjes
+
+---
+<!-- Start Catalog Area -->
+ <section class="blog-area bg-color1">
+    <div class="blog-wrapper section-spacing bminus-30">
+      <h1 class="heading-3 text-center">{{page.title-alt | upcase }}</h1>
+      {% include breadcrumbs.html %}
+      <a class="back-to visible-lg" aria-label="Terug naar vorige pagina" href="javascript: history.go(-1)"><i class="fa fa-angle-left" aria-hidden="true"></i> Terug naar vorige pagina </a>
+      <div class="col-md-6 col-lg-12 tminus-20"></div>
+       <div class="container">
+          <div class="row">
+             <div class="col-md-6 col-lg-12">
+                <div class="row">
+                   <div class="col-md-6">
+                       <article class="looking-for-service wow fadeInLeft" data-wow-duration="1s">
+                          <a href="{{page.url}}" title="{{page.title}}">
+                            <picture>
+                              <source srcset="/assets/images/banners/{{page.img-left}}.webp" type="image/webp">
+                              <source srcset="/assets/images/banners/{{page.img-left}}.jpg" type="image/jpeg">
+                                <img alt="{{page.title}}" src="/assets/images/banners/{{page.img-left}}.jpg">
+                            </picture>
+                         </a>
+                       </article>
+                   </div>
+                   <div class="col-md-6">
+                       <article class="looking-for-service wow fadeInRight" data-wow-duration="1s">
+                           <a href="{{page.url}}" title="{{page.title}}">
+                             <picture>
+                               <source srcset="/assets/images/banners/{{page.img-right}}.webp" type="image/webp">
+                               <source srcset="/assets/images/banners/{{page.img-right}}.jpg" type="image/jpeg">
+                                 <img alt="{{page.title}}" src="/assets/images/banners/{{page.img-right}}.jpg">
+                             </picture>
+                           </a>
+                       </article>
+                   </div>
+                </div>
+                <div class="col-md-12">
+                  <p>Voor zowel 3 laags vochtwerende mondkapjes als 4 laags mondkapjes kunt u bij Allpremiums terecht. Beide typen mondkapjes zijn CE goedgekeurd en EN-149: 2001 +A1: 2009 genormeerd.</p>
+                  <p>Belangrijk om te weten voor wat betreft de onbedrukte mondmaskers en mondkapjes:</p>
+                  <ul>
+                    <li>Blauwe 3 laags mondkapjes sluiten losser op het gezicht aan en ademen iets makkelijker</li>
+                    <li>Witte 4 laags mondkapjes sluiten strakker op het gezicht aan en bieden daardoor een hogere bescherming</li>
+                   </ul>
+                   <p><strong>Heeft u nog vragen of wilt u aanvullende informatie? Bel: <a class="blue" href="tel:{{site.tel-link}}">{{site.tel}}</a></strong></p>
+                </div>
+                <div class="row">
+                   {% for cat in site.data.cat_mondkapjes %}
+                       <div class="col-6 col-md-3">
+                           <article class="looking-for-service wow {{cat.animation}}" data-wow-duration="1s">
+                               <header class="headline-logo">
+                                   <a href="{{cat.url}}" title="{{cat.title-img}}">
+                                     <picture>
+                                       <source srcset="/assets/images/products/{{cat.icon}}.webp" type="image/webp">
+                                       <source srcset="/assets/images/products/{{cat.icon}}.jpg" type="image/jpeg">
+                                         <img alt="{{page.title}}" src="/assets/images/products/{{cat.icon}}.jpg">
+                                     </picture>
+                                   </a>
+                               </header>
+                               <footer class="looking-for-content">
+                                   <h3 class="heading-6 min-55"><a href="{{cat.url}}">{{cat.title}}</a></h3>
+                                   <p>Vanaf {{cat.afname}}</p>
+                                   <p>Levertijd ca. {{cat.levertijd}}</p>
+                                   <p>Prijs bij  <span class="price">{{cat.prijs}}</span></p>
+                                   <a href="{{cat.url}}" title="{{cat.title-img}}" class="btn-style3 btn mt-3">Bekijk Product</a>
+                               </footer>
+                           </article>
+                       </div>
+                   {% endfor %}
+                </div>
+             </div>
+          </div>
+       </div>
+    </div>
+ </section>
+ <!-- End Catalog Area -->
