@@ -1,7 +1,7 @@
 ---
 - title: MONDKAPJES
   title-img: ffp1 iir en kn 95 ffp mondkapjes
-  icon: "/assets/images/products/mondkapjes"
+  icon: "/assets/images/products/mondkapje"
   url: "/mondkapjes"
 - title: SILICONEN POLSBANDJES
   title-img: siliconen polsbandjes en armbandjes
@@ -41,5 +41,5 @@
   url: "/whiteboard-magneten-bedrukken"
 - title: MONDKAPJES BESTELLEN
   title-img: mondkapjes bestellen 
-  icon: "/assets/images/products/mondkapjes"
+  icon: "/assets/images/products/mondkapje"
   url: "/mondkapjes-bestellen"  
