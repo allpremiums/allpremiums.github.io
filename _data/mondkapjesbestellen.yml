@@ -1,0 +1,20 @@
+---
+- title: 3 laags vochtwerende mondkapjes
+  description: 3 laags vochtwerende mondkapjes.
+  title-img: 3 laags vochtwerende mondkapjes
+  icon: mondkapje
+  url: "/3-laags-vochtwerende-mondkapjes"
+  afname: 50 stuks
+  levertijd: ca. 1-2 werkdagen
+  prijs: '100: € 0,54'
+  animation: fadeInLeft    
+
+- title: 4 laags mondkapjes
+  description: 4 laags mondkapjes. 
+  title-img: 4 laags mondkapjes
+  icon: mondkapjes_bestellen
+  url: "/4-laags-mondkapjes"
+  afname: 20 stuks
+  levertijd: ca. 1-2 werkdagen
+  prijs: '100:  € 2,60'
+  animation: fadeInRight
