@@ -43,3 +43,7 @@
   title-img: mondkapjes bestellen 
   icon: "/assets/images/products/mondkapje"
   url: "/mondkapjes-bestellen"  
+- title: USB STICK BEDRUKKEN
+  title-img: usb stick bedrukken 
+  icon: "/assets/images/products/usb_stick_bedrukken"
+  url: "/usb-stick-bedrukken"    
