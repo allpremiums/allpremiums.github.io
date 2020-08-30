@@ -9,7 +9,7 @@ addons:
   chrome: stable # make Chrome available
 before_install:
 #  - chmod +x ./script/cibuild
-  - npm install -g @lhci/cli@0.3.x # install LHCI
+  - npm install -g @lhci/cli@0.5.x # install LHCI
 #  - echo $LHCI_GITHUB_APP_TOKEN
 #install:
 #  - bundle install
