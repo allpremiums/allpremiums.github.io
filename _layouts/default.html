@@ -30,6 +30,7 @@
     <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
     <link rel="dns-prefetch" href="https://www.jotform.com">
     <link rel="dns-prefetch" href="https://events.jotform.com">
+    <link rel="dns-prefetch" href="https://cdn.jotfor.ms">
 
     <!--  Add Favicon -->
     <link rel="shortcut icon" href="{{site.baseurl}}/assets/images/favicon.png" type="image/x-icon"/>
@@ -49,6 +50,15 @@
     {% endcapture %}
     {{ include_to_scssify | scssify }}
     </style>
+
+    {% if page.nav = pdp %}
+    <!-- Start Jotform CSS -->
+    <link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/static/formCss.css?3.3.19904"  />
+    <link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/css/styles/nova.css?3.3.19904" />
+    <link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/themes/CSS/566a91c2977cdfcd478b4567.css?themeRevisionID=5dca5ac9a5e86d17235d90c1"/>
+    <!-- End Jotform CSS -->
+    {% endif %}
+    
     {% include_cached gtm-head.html %}
 </head>
 <body>
@@ -62,6 +72,15 @@
     {% include_cached call_to_action_footer.html %}
     {% include_cached footer.html %}
    <!-- Add Javascript File -->
+   {% if page.nav = pdp %}
+   <!-- Start Jotform JS -->
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/punycode/1.4.1/punycode.min.js"></script>
+   <script src="https://cdn.jotfor.ms/js/vendor/imageinfo.js?v=3.3.19904"></script>
+   <script src="https://cdn.jotfor.ms/file-uploader/fileuploader.js?v=3.3.19904"></script>
+   <script src="https://cdn.jotfor.ms/static/prototype.forms.js"></script>
+   <script src="https://cdn.jotfor.ms/static/jotform.forms.js?3.3.19904"></script>
+   <!-- End Jotform JS -->
+   {% endif %}
    <script src="{{site.baseurl}}/assets/js/build.min.js"></script>
    <script src="https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
    <script>
