@@ -5,7 +5,7 @@
   icon: ffp1_mondkapje
   url: "/iir-2r-mondmaskers"
   afname: 50 stuks
-  levertijd: ca. 1-2 werkdagen
+  levertijd: 1-2 werkdagen
   prijs: '100: € 0,54'
   animation: fadeInLeft    
 
@@ -16,7 +16,7 @@
   icon: ffp2_mondkapje
   url: "/ffp2-kn95-mondkapjes"
   afname: 20 stuks
-  levertijd: ca. 1-2 werkdagen
+  levertijd: 1-2 werkdagen
   prijs: '100:  € 2,60'
   animation: fadeInRight
 
@@ -26,7 +26,7 @@
   icon: full_color_bedrukte_mondkapjes_met_oorelastieken
   url: "/mondkapjes-full-color-bedrukken-1-laags-met-oorelastieken"
   afname: 500 stuks
-  levertijd: ca. 3 weken 
+  levertijd: 3 weken 
   prijs: '500: € 1,78'
   animation: fadeInLeft    
         
@@ -36,7 +36,7 @@
   icon: full_color_bedrukte_mondkapjes_met_koordjes
   url: "/mondkapjes-full-color-bedrukken-1-laags-met-koordjes"
   afname: 500 stuks
-  levertijd: ca. 3 weken 
+  levertijd: 3 weken 
   prijs: '500: € 2,15'
   animation: fadeInRight      
 
@@ -46,7 +46,7 @@
   icon: mondkapje_full_color_bedrukt_3_laags
   url: "/mondkapjes-full-color-bedrukken-3-laags"
   afname: 25 stuks
-  levertijd: ca.  
+  levertijd: 1 week
   prijs: '100: € 4,83'
   animation: fadeInLeft    
 
@@ -56,7 +56,7 @@
   icon: mondmaskers_full_color_bedrukken_met_oorelastiek
   url: "/mondkapjes-full-color-bedrukken-2-laags-met-oorelastieken"
   afname: 50 stuks
-  levertijd: ca. 2-3 weken 
+  levertijd: 2-3 weken 
   prijs: '100: € 5,50'
   animation: fadeInRight    
 
@@ -66,7 +66,7 @@
   icon: mondkapjes_logo_bedrukken
   url: "/bedrukte-mondkapjes-layton-1-laags"
   afname: 25 stuks
-  levertijd: ca. 1 week 
+  levertijd: 1 week 
   prijs: '100: € 3,16'
   animation: fadeInLeft   
   
@@ -76,7 +76,7 @@
   icon: clover_mondkapje_bedrukken
   url: "/bedrukte-mondkapjes-clover-1-laags-met-koordjes"
   afname: 25 stuks
-  levertijd: ca. 1 week 
+  levertijd: 1 week 
   prijs: '100: € 3,73'
   animation: fadeInRight     
   
@@ -86,7 +86,7 @@
   icon: bedrukt_mondkapje
   url: "/bedrukte-mondkapjes-reed-2-laags"
   afname: 25 stuks
-  levertijd: ca. 1 week 
+  levertijd: 1 week 
   prijs: '100: € 4,35'
   animation: fadeInLeft  
   
