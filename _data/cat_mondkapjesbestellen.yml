@@ -5,7 +5,7 @@
   icon: mondkapje
   url: "/3-laags-vochtwerende-mondkapjes"
   afname: 50 stuks
-  levertijd: ca. 1-2 werkdagen
+  levertijd: 1-2 werkdagen
   prijs: '100: € 0,54'
   animation: fadeInLeft    
 
@@ -15,6 +15,6 @@
   icon: mondkapjes_bestellen
   url: "/4-laags-mondkapjes"
   afname: 20 stuks
-  levertijd: ca. 1-2 werkdagen
+  levertijd: 1-2 werkdagen
   prijs: '100:  € 2,60'
   animation: fadeInRight
