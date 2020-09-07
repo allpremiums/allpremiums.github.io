@@ -7,7 +7,7 @@
   afname: 25 
   levertijd: 5-7 werkdagen
   prijs: '100: € 0,81'
-  animation: fadeInRight
+  animation: fadeInLeft
 
 - title: usb stick spectra v2 doming bedrukken
   description: Bedrukte USB stick Spectra V2 met uw eigen logo full color op een doming gemaakt. In maar liefst 9 verschillende kleuren en met verschilende geheugen chips leverbaar. 
@@ -17,4 +17,4 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,16'
-  animation: fadeInLeft
+  animation: fadeInRight
