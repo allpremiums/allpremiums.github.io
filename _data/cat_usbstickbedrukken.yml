@@ -1,13 +1,23 @@
 ---
 - title: usb stick cadeau verpakking
-  description: USB stick cadeau verpakking, mooi zwart doosje met magneetsluiting als usb stick kado verpakking. Onbedrukt of geleverd met uw eigen logo of tekst full color bedrukt op een sticker of luxe doming label.   
-  title-img: usb stick box cadeau verpakking
+  description: USB stick cadeau verpakking, mooi zwart doosje met magneetsluiting om usb sticks als kado weg te geven. Onbedrukt of geleverd met uw eigen logo of tekst full color bedrukt op een sticker of luxe doming label.   
+  title-img: usb stick cadeau verpakking
   icon: usb_stick_box
   url: "/usb-stick-cadeau-verpakking"
   afname: 25 stuks
   levertijd: 5-7 werkdagen
   prijs: '100: € 0,81'
   animation: fadeInLeft
+
+- title: vierkante usb stick bedrukken
+  description: Vierkante usb stick die wij standaard voor u aan 2 zijden full coolor met uw eigen logo of tekst bedrukken. Met alle gangbare geheugen chips leverbaar. 
+  title-img: vierkante usb stick  
+  icon: usb_stick_square_card 
+  url: "/vierkante-usb-stick-bedrukken"
+  afname: 25 usb sticks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 3,97'
+  animation: fadeInRight
 
 - title: bedrukte usb stick met doming
   description: USB stick met full color bedrukt doming label. In maar liefst 9 verschillende kleuren en met verschillende geheugen chips leverbaar. 
@@ -19,15 +29,7 @@
   prijs: '100: € 4,16'
   animation: fadeInRight
 
-- title: vierkante usb stick bedrukken
-  description: Vierkante usb stick die wij standaard voor u aan 2 zijden full coolor met uw eigen logo of tekst bedrukken. Met alle gangbare geheugen chips leverbaar. 
-  title-img: vierkante usb stick  
-  icon: usb_stick_square_card 
-  url: "/vierkante-usb-stick-bedrukken"
-  afname: 25 usb sticks
-  levertijd: 5-7 werkdagen
-  prijs: '100: € 3,97'
-  animation: fadeInRight
+
 
 
 
