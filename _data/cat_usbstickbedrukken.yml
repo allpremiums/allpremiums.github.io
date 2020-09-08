@@ -1,6 +1,6 @@
 ---
 - title: usb stick cadeau verpakking
-  description: USB stick box, mooi zwart doosje met magneetsluiting als usb stick cadeau verpakking. Onbedrukt of geleverd met uw eigen logo of tekst full color bedrukt op een sticker of luxe doming label.   
+  description: USB stick cadeau verpakking, mooi zwart doosje met magneetsluiting als usb stick kado verpakking. Onbedrukt of geleverd met uw eigen logo of tekst full color bedrukt op een sticker of luxe doming label.   
   title-img: usb stick box cadeau verpakking
   icon: usb_stick_box
   url: "/usb-stick-cadeau-verpakking"
@@ -9,11 +9,11 @@
   prijs: '100: € 0,81'
   animation: fadeInLeft
 
-- title: usb stick spectra v2 doming bedrukken
-  description: Bedrukte USB stick Spectra V2 met uw eigen logo full color op een doming gemaakt. In maar liefst 9 verschillende kleuren en met verschillende geheugen chips leverbaar. 
-  title-img: usb stick spectra v2 doming 
+- title: bedrukte usb stick met doming
+  description: USB stick met full color bedrukt doming label. In maar liefst 9 verschillende kleuren en met verschillende geheugen chips leverbaar. 
+  title-img: bedrukte usb stick met doming 
   icon: usb_stick_spectra_v2_logo_bedrukken 
-  url: "/usb-stick-spectra-v2-doming-bedrukken"
+  url: "/bedrukte-usb-stick-met-doming"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,16'
