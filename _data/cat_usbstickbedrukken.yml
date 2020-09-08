@@ -9,16 +9,6 @@
   prijs: '100: € 0,81'
   animation: fadeInLeft
 
-- title: vierkante usb stick bedrukken
-  description: Vierkante usb stick die wij standaard voor u aan 2 zijden full coolor met uw eigen logo of tekst bedrukken. Met alle gangbare geheugen chips leverbaar. 
-  title-img: vierkante usb stick  
-  icon: usb_stick_square_card 
-  url: "/vierkante-usb-stick-bedrukken"
-  afname: 25 usb sticks
-  levertijd: 5-7 werkdagen
-  prijs: '100: € 4,39'
-  animation: fadeInRight
-
 - title: bedrukte usb stick met doming
   description: USB stick met full color bedrukt doming label. In maar liefst 9 verschillende kleuren en met verschillende geheugen chips leverbaar. 
   title-img: bedrukte usb stick met doming 
@@ -29,7 +19,13 @@
   prijs: '100: € 4,16'
   animation: fadeInRight
 
-
-
-
+- title: vierkante usb stick bedrukken
+  description: Vierkante usb stick die wij standaard voor u aan 2 zijden full coolor met uw eigen logo of tekst bedrukken. Met alle gangbare geheugen chips leverbaar. 
+  title-img: vierkante usb stick  
+  icon: usb_stick_square_card 
+  url: "/vierkante-usb-stick-bedrukken"
+  afname: 25 usb sticks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 4,39'
+  animation: fadeInRight
 
