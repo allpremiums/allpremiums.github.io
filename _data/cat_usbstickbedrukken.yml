@@ -19,8 +19,18 @@
   prijs: '100: € 4,16'
   animation: fadeInRight
 
+- title: ronde usb stick bedrukken
+  description: Ronde usb stick die wij standaard voor u aan 2 kanten met uw eigen logo of tekst full color bedrukken. Met alle soorten geheugen chips leverbaar. 
+  title-img: ronde usb stick  
+  icon: usb_stick_coin_card 
+  url: "/ronde-usb-stick-bedrukken"
+  afname: 25 usb sticks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 4,37'
+  animation: fadeInLeft
+
 - title: vierkante usb stick bedrukken
-  description: Vierkante usb stick die wij standaard voor u aan 2 zijden full coolor met uw eigen logo of tekst bedrukken. Met alle gangbare geheugen chips leverbaar. 
+  description: Vierkante usb stick die wij standaard voor u aan 2 zijden full collor met uw eigen logo of tekst bedrukken. Met alle gangbare geheugen chips leverbaar. 
   title-img: vierkante usb stick  
   icon: usb_stick_square_card 
   url: "/vierkante-usb-stick-bedrukken"
