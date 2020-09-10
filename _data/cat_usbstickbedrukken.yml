@@ -9,6 +9,16 @@
   prijs: '100: € 0,81'
   animation: fadeInLeft
 
+- title: classic usb stick met uw eigen logo
+  description: Classic usb stick met full color opdruk, lasergravering of doming label. De meest populaire en best verkochte usb-stick. In 6 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
+  title-img: classic usb stick  
+  icon: classic_usb_stick 
+  url: "/classic-usb-stick-met-uw-eigen-logo"
+  afname: 25 usb sticks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 5,80'
+  animation: fadeInRight
+
 - title: bedrukte usb stick met doming
   description: USB stick met full color bedrukt doming label. In maar liefst 9 verschillende kleuren en met verschillende geheugen chips leverbaar. Vraag een vrijblijvende offerte aan!
   title-img: bedrukte usb stick met doming 
