@@ -9,11 +9,11 @@
   prijs: '100: € 0,81'
   animation: fadeInLeft
 
-- title: classic usb stick met uw eigen logo
+- title: classic usb stick met eigen logo
   description: Classic usb stick met full color opdruk, lasergravering of doming label. De meest populaire en best verkochte usb-stick. In 6 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
-  title-img: classic usb stick  
+  title-img: classic usb stick met eigen logo  
   icon: classic_usb_stick 
-  url: "/classic-usb-stick-met-uw-eigen-logo"
+  url: "/classic-usb-stick-met-eigen-logo"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 5,80'
@@ -31,7 +31,7 @@
 
 - title: ronde usb stick bedrukken
   description: Ronde usb stick die wij standaard voor u aan 2 kanten met uw eigen logo of tekst full color bedrukken. Met alle soorten geheugen chips leverbaar. 
-  title-img: ronde usb stick  
+  title-img: ronde usb stick bedrukken  
   icon: usb_stick_coin_card 
   url: "/ronde-usb-stick-bedrukken"
   afname: 25 usb sticks
@@ -41,7 +41,7 @@
 
 - title: vierkante usb stick bedrukken
   description: Vierkante usb stick die wij standaard voor u aan 2 zijden full collor met uw eigen logo of tekst bedrukken. Met alle gangbare geheugen chips leverbaar. 
-  title-img: vierkante usb stick  
+  title-img: vierkante usb stick bedrukken  
   icon: usb_stick_square_card 
   url: "/vierkante-usb-stick-bedrukken"
   afname: 25 usb sticks
@@ -51,7 +51,7 @@
   
 - title: mini credit card usb stick bedrukken
   description: Mini credit card usb stick die wij voor u standaard aan 2 zijden full collor cmyk met uw eigen logo of tekst bedrukken. Met alle gangbare geheugen chips leverbaar. 
-  title-img: mini credit card usb stick  
+  title-img: mini credit card usb stick bedrukken  
   icon: usb_stick_mini_card
   url: "/mini-credit-card-usb-stick-bedrukken"
   afname: 25 usb sticks
@@ -61,7 +61,7 @@
   
 - title: credit card usb stick bedrukken
   description: USB stick in credit card formaat die wij met uw eigen logo, tekst of foto bedrukken. Standaard aan 2 zijden full color bedrukt zoals u het wilt. Met alle gangbare geheugen chips leverbaar. 
-  title-img: credit card usb stick  
+  title-img: credit card usb stick bedrukken 
   icon: usb_stick_credit_card_logo_bedrukken 
   url: "/credit-card-usb-stick-bedrukken"
   afname: 25 usb sticks
@@ -71,7 +71,7 @@
   
 - title: mini twister usb stick bedrukken of graveren
   description: De usb mini twister, een hele kleine usb stick met draaimechanisme. Leverbaar in 8 kleuren met uw logo of tekst bedrukt of gelasergraveerd. Met alle soorten geheugen chips leverbaar. 
-  title-img: mini twister usb stick   
+  title-img: mini twister usb stick bedrukken of graveren  
   icon: usb_stick_micro_twist_logo_bedrukken 
   url: "/mini-twister-usb-stick-bedrukken-of-graveren"
   afname: 25 usb sticks
@@ -81,7 +81,7 @@
   
 - title: grote twister usb stick bedrukken
   description: Grote twister usb stick met veel ruimte voor het bedrukken van uw eigen logo, tekst of afbeelding. Leverbaar in het wit of zwart en met alle soorten geheugen chips. 
-  title-img: grote twister usb stick   
+  title-img: grote twister usb stick bedrukken  
   icon: usb_stick_smart_twister_large
   url: "/grote-twister-usb-stick-bedrukken"
   afname: 25 usb sticks
@@ -91,7 +91,7 @@
   
 - title: alu sleutel usb stick bedrukken of graveren
   description: Aluminium usb stick in de vorm van een sleutel. Uw logo of tekst kunnen wij lasergraveren of full color bedrukken. Met alle soorten geheugen chips leverbaar. 
-  title-img: alu sleutel usb stick   
+  title-img: alu sleutel usb stick bedrukken of graveren   
   icon: usb_stick_alu_key 
   url: "/alu-sleutel-usb-stick-bedrukken-of-graveren"
   afname: 25 usb sticks
@@ -101,7 +101,7 @@
    
 - title: houten usb stick bedrukken of graveren
   description: Eco houten usb stick bedrukt of gegraveerd met uw eigen logo of tekst. Met alle gangbare geheugen chips leverbaar. Vraag een offerte met laagste prijs garantie aan! 
-  title-img: houten usb stick  
+  title-img: houten usb stick bedrukken of graveren 
   icon: usb_stick_hout_bedrukken 
   url: "/houten-usb-stick-bedrukken-of-graveren"
   afname: 25 usb sticks
