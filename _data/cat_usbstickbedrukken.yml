@@ -9,6 +9,16 @@
   prijs: '100: € 0,81'
   animation: fadeInLeft
   
+- title: bedrukte usb stick met doming
+  description: USB stick met full color bedrukt doming label. In maar liefst 9 verschillende kleuren en met verschillende geheugen chips leverbaar. Vraag een vrijblijvende offerte aan!
+  title-img: bedrukte usb stick met doming 
+  icon: usb_stick_spectra_v2_logo_bedrukken 
+  url: "/bedrukte-usb-stick-met-doming"
+  afname: 25 usb sticks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 4,16'
+  animation: fadeInRight
+  
 - title: draai usb stick bedrukken
   description: Draai usb stick die wij full color voor u bedrukken. In 9 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
   title-img: draai usb stick bedrukken  
@@ -27,17 +37,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,66'
-  animation: fadeInRight  
-  
-- title: bedrukte usb stick met doming
-  description: USB stick met full color bedrukt doming label. In maar liefst 9 verschillende kleuren en met verschillende geheugen chips leverbaar. Vraag een vrijblijvende offerte aan!
-  title-img: bedrukte usb stick met doming 
-  icon: usb_stick_spectra_v2_logo_bedrukken 
-  url: "/bedrukte-usb-stick-met-doming"
-  afname: 25 usb sticks
-  levertijd: 5-7 werkdagen
-  prijs: '100: € 4,16'
-  animation: fadeInLeft
+  animation: fadeInLeft  
 
 - title: ronde usb stick bedrukken
   description: Ronde usb stick die wij standaard voor u aan 2 kanten met uw eigen logo of tekst full color bedrukken. Met alle soorten geheugen chips leverbaar. 
@@ -47,7 +47,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,37'
-  animation: fadeInRight
+  animation: fadeInLeft
 
 - title: classic usb stick met eigen logo
   description: Classic usb stick met full color opdruk, lasergravering of doming label. De meest populaire en best verkochte usb-stick. In 6 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
@@ -67,7 +67,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,39'
-  animation: fadeInLeft
+  animation: fadeInRight
   
 - title: mini credit card usb stick bedrukken
   description: Mini credit card usb stick die wij voor u standaard aan 2 zijden full collor cmyk met uw eigen logo of tekst bedrukken. Met alle gangbare geheugen chips leverbaar. 
@@ -77,7 +77,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,40'
-  animation: fadeInRight
+  animation: fadeInLeft
   
 - title: credit card usb stick bedrukken
   description: USB stick in credit card formaat die wij met uw eigen logo, tekst of foto bedrukken. Standaard aan 2 zijden full color bedrukt zoals u het wilt. Met alle gangbare geheugen chips leverbaar. 
@@ -107,7 +107,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,30'
-  animation: fadeInLeft   
+  animation: fadeInRight   
   
 - title: alu sleutel usb stick bedrukken of graveren
   description: Aluminium usb stick in de vorm van een sleutel. Uw logo of tekst kunnen wij lasergraveren of full color bedrukken. Met alle soorten geheugen chips leverbaar. 
@@ -117,7 +117,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,49'
-  animation: fadeInRight     
+  animation: fadeInLeft     
    
 - title: houten usb stick bedrukken of graveren
   description: Eco houten usb stick bedrukt of gegraveerd met uw eigen logo of tekst. Met alle gangbare geheugen chips leverbaar. Vraag een offerte met laagste prijs garantie aan! 
@@ -127,5 +127,4 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 6,28'
-  animation: fadeInRight
-
+  animation: fadeInLeft
