@@ -9,7 +9,17 @@
   prijs: '100: € 0,81'
   animation: fadeInLeft
   
-- title: bedrukte usb stick met doming
+- title: draai usb stick bedrukken
+  description: Draai usb stick die wij full color voor u bedrukken. In 9 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
+  title-img: draai usb stick bedrukken  
+  icon: usb_stick_twister_logo_bedrukken
+  url: "/draai-usb-stick-bedrukken"
+  afname: 25 usb sticks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 4,66'
+  animation: fadeInRight  
+  
+  - title: bedrukte usb stick met doming
   description: USB stick met full color bedrukt doming label. In maar liefst 9 verschillende kleuren en met verschillende geheugen chips leverbaar. Vraag een vrijblijvende offerte aan!
   title-img: bedrukte usb stick met doming 
   icon: usb_stick_spectra_v2_logo_bedrukken 
@@ -19,14 +29,14 @@
   prijs: '100: € 4,16'
   animation: fadeInLeft
 
-- title: draai usb stick bedrukken
-  description: Draai usb stick die wij full color voor u bedrukken. In 9 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
-  title-img: draai usb stick bedrukken  
-  icon: usb_stick_twister_logo_bedrukken
-  url: "/draai-usb-stick-bedrukken"
+- title: ronde usb stick bedrukken
+  description: Ronde usb stick die wij standaard voor u aan 2 kanten met uw eigen logo of tekst full color bedrukken. Met alle soorten geheugen chips leverbaar. 
+  title-img: ronde usb stick bedrukken  
+  icon: usb_stick_coin_card 
+  url: "/ronde-usb-stick-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 4,66'
+  prijs: '100: € 4,37'
   animation: fadeInRight
 
 - title: classic usb stick met eigen logo
@@ -37,16 +47,6 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 5,80'
-  animation: fadeInRight
-
-- title: ronde usb stick bedrukken
-  description: Ronde usb stick die wij standaard voor u aan 2 kanten met uw eigen logo of tekst full color bedrukken. Met alle soorten geheugen chips leverbaar. 
-  title-img: ronde usb stick bedrukken  
-  icon: usb_stick_coin_card 
-  url: "/ronde-usb-stick-bedrukken"
-  afname: 25 usb sticks
-  levertijd: 5-7 werkdagen
-  prijs: '100: € 4,37'
   animation: fadeInRight
   
 - title: vierkante usb stick bedrukken
