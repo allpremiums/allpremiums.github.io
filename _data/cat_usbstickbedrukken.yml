@@ -138,7 +138,17 @@
   levertijd: 5-7 werkdagen
   prijs: '100: € 7,93'
   animation: fadeInRight
-  
+   
+- title: custom made usb stick drukknop 
+  description: Custom made usb stick met drukknop gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
+  title-img: custom made usb stick drukknop  
+  icon: usb_stick_shape_push_pull
+  url: "/custom-made-usb-stick-drukknop"
+  afname: 25 usb sticks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 6,44'
+  animation: fadeInRight  
+
 - title: custom made usb stick sleutelhanger 
   description: Custom made usb stick met sleutelhanger gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
   title-img: custom made usb stick sleutelhanger  
@@ -146,5 +156,5 @@
   url: "/custom-made-usb-stick-sleutelhanger"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 7,93'
+  prijs: '100: € 6,46'
   animation: fadeInRight
