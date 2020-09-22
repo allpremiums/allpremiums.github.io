@@ -7,6 +7,10 @@
   title-img: siliconen polsbandjes en armbandjes
   icon: "/assets/images/products/silicone_polsbandjes_1"
   url: "/siliconen-polsbandjes"
+- title: USB STICK BEDRUKKEN
+  title-img: usb stick bedrukken 
+  icon: "/assets/images/products/usb_stick_bedrukken"
+  url: "/usb-stick-bedrukken"       
 - title: MAGNETEN BEDRUKKEN
   title-img: magneten bedrukken met logo
   icon: "/assets/images/products/magneten_bedrukken"
@@ -42,8 +46,4 @@
 - title: MONDKAPJES BESTELLEN
   title-img: mondkapjes bestellen 
   icon: "/assets/images/products/mondkapjes_categorie"
-  url: "/mondkapjes-bestellen"  
-- title: USB STICK BEDRUKKEN
-  title-img: usb stick bedrukken 
-  icon: "/assets/images/products/usb_stick_bedrukken"
-  url: "/usb-stick-bedrukken"    
+  url: "/mondkapjes-bestellen"   
