@@ -9,6 +9,8 @@
     url: /mondkapjes
   - text: Siliconen Polsbandjes
     url: /siliconen-polsbandjes
+  - text: USB Stick Bedrukken
+    url: /usb-stick-bedrukken
   - text: Magneten Bedrukken
     url: /magneten-bedrukken-met-logo
   - text: Festivalbandjes
@@ -27,8 +29,6 @@
     url: /whiteboard-magneten-bedrukken
   - text: Mondkapjes Bestellen
     url: /mondkapjes-bestellen
-  - text: USB Stick Bedrukken
-    url: /usb-stick-bedrukken    
 - text: Nieuws
   url: /nieuws
 - text: Product info
