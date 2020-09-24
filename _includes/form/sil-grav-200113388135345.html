@@ -39,7 +39,7 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvr
   <input type="hidden" id="JWTContainer" value="" />
   <input type="hidden" id="cardinalOrderNumber" value="" />
   <div role="main" class="form-all">
-    <link type="text/css" rel="stylesheet" media="all" href="https://cdn.jotfor.ms/wizards/languageWizard/custom-dropdown/css/lang-dd.css?3.3.20033" />
+    <link type="text/css" rel="stylesheet" media="all" href="https://cdn.jotfor.ms/wizards/languageWizard/custom-dropdown/css/lang-dd.css?3.3.20480" />
     <div class="cont">
       <input type="text" id="input_language" name="input_language" style="display:none" />
       <div class="language-dd" id="langDd" style="display:none">
@@ -53,7 +53,7 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvr
         </ul>
       </div>
     </div>
-    <script type="text/javascript" src="https://cdn.jotfor.ms/js/formTranslation.v2.js?3.3.20033"></script>
+    <script type="text/javascript" src="https://cdn.jotfor.ms/js/formTranslation.v2.js?3.3.20480"></script>
     <ul class="form-section page-section">
       <li id="cid_15" class="form-input-wide" data-type="control_head">
         <div class="form-header-group  header-small">
@@ -110,9 +110,9 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvr
           <select class="form-dropdown" id="input_10" name="q10_wiltU" style="width:150px" data-component="dropdown" aria-labelledby="label_10">
             <option value="">  </option>
             <option selected="" value="nee "> nee </option>
-            <option value="glow in the dark: geen meerprijs "> glow in the dark: geen meerprijs </option>
-            <option value="gekleurde segmenten: geen meerprijs"> gekleurde segmenten: geen meerprijs </option>
-            <option value="marmer effect: geen meerprijs "> marmer effect: geen meerprijs </option>
+            <option value="glow in the dark"> glow in the dark </option>
+            <option value="gekleurde segmenten"> gekleurde segmenten </option>
+            <option value="marmer effect"> marmer effect </option>
           </select>
         </div>
       </li>
@@ -196,9 +196,13 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvr
   <script>
   JotForm.poweredByText = "Powered by JotForm";
   </script>
-  <input type="hidden" id="simple_spc" name="simple_spc" value="200113388135345" />
+  <input type="hidden" class="simple_spc" id="simple_spc" name="simple_spc" value="200113388135345" />
   <script type="text/javascript">
-  document.getElementById("si" + "mple" + "_spc").value = "200113388135345-200113388135345";
+  var all_spc = document.querySelectorAll("form[id='200113388135345'] .si" + "mple" + "_spc");
+for (var i = 0; i < all_spc.length; i++)
+{
+  all_spc[i].value = "200113388135345-200113388135345";
+}
   </script>
 </form>
 <script type="text/javascript">JotForm.forwardToEu=true;</script>
