@@ -28,7 +28,7 @@ if (window.JotForm && JotForm.accessible) $('input_14').setAttribute('tabindex',
 
    JotForm.prepareCalculationsOnTheFly([null,null,{"name":"verstuurOfferte","qid":"2","text":"Verstuur offerte aanvraag","type":"control_button"},{"description":"","name":"aantalSilicone","qid":"3","subLabel":"","text":"Aantal (minimaal 50)","type":"control_textbox"},null,{"name":"telefoonnummer","qid":"5","text":"Telefoonnummer","type":"control_textbox"},null,null,{"description":"","name":"typEen","qid":"8","subLabel":"","text":"Maat polsbandje","type":"control_dropdown"},{"description":"","name":"aantalKleuren","qid":"9","subLabel":"","text":"Aantal kleuren opdruk","type":"control_dropdown"},{"description":"","name":"wiltU","qid":"10","subLabel":"","text":"Wilt u een speciaal effect?","type":"control_dropdown"},{"description":"","name":"naam11","qid":"11","subLabel":"","text":"Naam","type":"control_textbox"},{"description":"","name":"emailAdres","qid":"12","subLabel":"","text":"E-mail adres","type":"control_email"},{"description":"","name":"gewensteLeverdatum","qid":"13","subLabel":"","text":"Gewenste leverdatum","type":"control_textbox"},{"description":"","name":"uwOpmerking","qid":"14","subLabel":"","text":"Vragen of opmerkingen?","type":"control_textarea"},{"name":"vraagEen","qid":"15","text":"Vrijblijvende offerte aanvragen","type":"control_head"},{"description":"","name":"input16","qid":"16","subLabel":"","text":"Bestand uploaden?","type":"control_fileupload"}]);
    setTimeout(function() {
-JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurOfferte","qid":"2","text":"Verstuur offerte aanvraag","type":"control_button"},{"description":"","name":"aantalSilicone","qid":"3","subLabel":"","text":"Aantal (minimaal 50)","type":"control_textbox"},null,{"name":"telefoonnummer","qid":"5","text":"Telefoonnummer","type":"control_textbox"},null,null,{"description":"","name":"typEen","qid":"8","subLabel":"","text":"Maat polsbandje","type":"control_dropdown"},{"description":"","name":"aantalKleuren","qid":"9","subLabel":"","text":"Aantal kleuren opdruk","type":"control_dropdown"},{"description":"","name":"wiltU","qid":"10","subLabel":"","text":"Wilt u een speciaal effect?","type":"control_dropdown"},{"description":"","name":"naam11","qid":"11","subLabel":"","text":"Naam","type":"control_textbox"},{"description":"","name":"emailAdres","qid":"12","subLabel":"","text":"E-mail adres","type":"control_email"},{"description":"","name":"gewensteLeverdatum","qid":"13","subLabel":"","text":"Gewenste leverdatum","type":"control_textbox"},{"description":"","name":"uwOpmerking","qid":"14","subLabel":"","text":"Vragen of opmerkingen?","type":"control_textarea"},{"name":"vraagEen","qid":"15","text":"Vrijblijvende offerte aanvragen","type":"control_head"},{"description":"","name":"input16","qid":"16","subLabel":"","text":"Bestand uploaden?","type":"control_fileupload"}]);}, 20);
+JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurOfferte","qid":"2","text":"Verstuur offerte aanvraag","type":"control_button"},{"description":"","name":"aantalSilicone","qid":"3","subLabel":"","text":"Aantal (minimaal 50)","type":"control_textbox"},null,{"name":"telefoonnummer","qid":"5","text":"Telefoonnummer","type":"control_textbox"},null,null,{"description":"","name":"typEen","qid":"8","subLabel":"","text":"Maat polsbandje","type":"control_dropdown"},{"description":"","name":"aantalKleuren","qid":"9","subLabel":"","text":"Aantal kleuren opdruk","type":"control_dropdown"},{"description":"","name":"wiltU","qid":"10","subLabel":"","text":"Wilt u een speciaal effect?","type":"control_dropdown"},{"description":"","name":"naam11","qid":"11","subLabel":"","text":"Naam","type":"control_textbox"},{"description":"","name":"emailAdres","qid":"12","subLabel":"","text":"E-mail adres","type":"control_email"},{"description":"","name":"gewensteLeverdatum","qid":"13","subLabel":"","text":"Gewenste leverdatum","type":"control_textbox"},{"description":"","name":"uwOpmerking","qid":"14","subLabel":"","text":"Vragen of opmerkingen?","type":"control_textarea"},{"name":"vraagEen","qid":"15","text":"Vrijblijvende offerte aanvragen","type":"control_head"},{"description":"","name":"input16","qid":"16","subLabel":"","text":"Bestand uploaden?","type":"control_fileupload"}]);}, 20); 
 </script>
 
 
@@ -87,9 +87,9 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurOfferte","qid":"2","te
           <select class="form-dropdown" id="input_10" name="q10_wiltU" style="width:150px" data-component="dropdown" aria-labelledby="label_10">
             <option value="">  </option>
             <option selected="" value="nee "> nee </option>
-            <option value="glow in the dark: geen meerprijs"> glow in the dark: geen meerprijs </option>
-            <option value="gekleurde segmenten: geen meerprijs"> gekleurde segmenten: geen meerprijs </option>
-            <option value="marmer effect: geen meerprijs "> marmer effect: geen meerprijs </option>
+            <option value="glow in the dark"> glow in the dark </option>
+            <option value="gekleurde segmenten"> gekleurde segmenten </option>
+            <option value="marmer effect"> marmer effect </option>
           </select>
         </div>
       </li>
@@ -173,9 +173,13 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurOfferte","qid":"2","te
   <script>
   JotForm.poweredByText = "Powered by JotForm";
   </script>
-  <input type="hidden" id="simple_spc" name="simple_spc" value="93403539707360" />
+  <input type="hidden" class="simple_spc" id="simple_spc" name="simple_spc" value="93403539707360" />
   <script type="text/javascript">
-  document.getElementById("si" + "mple" + "_spc").value = "93403539707360-93403539707360";
+  var all_spc = document.querySelectorAll("form[id='93403539707360'] .si" + "mple" + "_spc");
+for (var i = 0; i < all_spc.length; i++)
+{
+  all_spc[i].value = "93403539707360-93403539707360";
+}
   </script>
 </form>
 <script type="text/javascript">JotForm.forwardToEu=true;</script>
