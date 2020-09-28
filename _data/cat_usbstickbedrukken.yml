@@ -8,17 +8,7 @@
   levertijd: 15 werkdagen
   prijs: '100: € 2,58'
   animation: fadeInRight
-
-- title: usb stick cadeau verpakking
-  description: USB stick cadeau verpakking, mooi zwart doosje met magneetsluiting om usb sticks als kado weg te geven. Onbedrukt of geleverd met uw eigen logo of tekst full color bedrukt op een sticker of luxe doming label.   
-  title-img: usb stick cadeau verpakking
-  icon: usb_stick_box
-  url: "/usb-stick-cadeau-verpakking"
-  afname: 25 stuks
-  levertijd: 5-7 werkdagen
-  prijs: '100: € 0,81'
-  animation: fadeInLeft
-  
+ 
 - title: bedrukte usb stick met doming
   description: USB stick met full color bedrukt doming label. In maar liefst 9 verschillende kleuren en met verschillende geheugen chips leverbaar. Vraag een vrijblijvende offerte aan!
   title-img: bedrukte usb stick met doming 
@@ -38,6 +28,16 @@
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,66'
   animation: fadeInRight  
+  
+- title: usb stick cadeau verpakking
+  description: USB stick cadeau verpakking, mooi zwart doosje met magneetsluiting om usb sticks als kado weg te geven. Onbedrukt of geleverd met uw eigen logo of tekst full color bedrukt op een sticker of luxe doming label.   
+  title-img: usb stick cadeau verpakking
+  icon: usb_stick_box
+  url: "/usb-stick-cadeau-verpakking"
+  afname: 25 stuks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 0,81'
+  animation: fadeInLeft  
   
 - title: draai usb stick full print 
   description: USB stick waarvan de draaibeugel helemaal full color bedrukt wordt met uw eigen logo, tekst of foto afbeelding. In 9 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
