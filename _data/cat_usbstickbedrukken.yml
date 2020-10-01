@@ -17,7 +17,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,16'
-  animation: fadeInRight
+  animation: fadeInLeft
   
 - title: draai usb stick bedrukken
   description: Draai usb stick die wij full color voor u bedrukken. In 9 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
@@ -27,7 +27,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,66'
-  animation: fadeInRight  
+  animation: fadeInLeft  
   
 - title: usb stick cadeau verpakking
   description: USB stick cadeau verpakking, mooi zwart doosje met magneetsluiting om usb sticks als kado weg te geven. Onbedrukt of geleverd met uw eigen logo of tekst full color bedrukt op een sticker of luxe doming label.   
@@ -37,7 +37,17 @@
   afname: 25 stuks
   levertijd: 5-7 werkdagen
   prijs: '100: € 0,81'
-  animation: fadeInLeft  
+  animation: fadeInRight  
+  
+- title: houten usb stick bedrukken of graveren
+  description: Eco houten usb stick bedrukt of gegraveerd met uw eigen logo of tekst. Met alle gangbare geheugen chips leverbaar. Vraag een offerte met laagste prijs garantie aan! 
+  title-img: houten usb stick bedrukken of graveren 
+  icon: usb_stick_hout_bedrukken 
+  url: "/houten-usb-stick-bedrukken-of-graveren"
+  afname: 25 usb sticks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 6,28'
+  animation: fadeInRight 
   
 - title: draai usb stick full print 
   description: USB stick waarvan de draaibeugel helemaal full color bedrukt wordt met uw eigen logo, tekst of foto afbeelding. In 9 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
@@ -128,16 +138,6 @@
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,49'
   animation: fadeInLeft     
-   
-- title: houten usb stick bedrukken of graveren
-  description: Eco houten usb stick bedrukt of gegraveerd met uw eigen logo of tekst. Met alle gangbare geheugen chips leverbaar. Vraag een offerte met laagste prijs garantie aan! 
-  title-img: houten usb stick bedrukken of graveren 
-  icon: usb_stick_hout_bedrukken 
-  url: "/houten-usb-stick-bedrukken-of-graveren"
-  afname: 25 usb sticks
-  levertijd: 5-7 werkdagen
-  prijs: '100: € 6,28'
-  animation: fadeInLeft
 
 - title: custom made usb stick eigen vorm 
   description: Custom made usb stick gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
