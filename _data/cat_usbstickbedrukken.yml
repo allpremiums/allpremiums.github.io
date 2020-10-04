@@ -39,6 +39,16 @@
   prijs: '100: € 0,81'
   animation: fadeInRight  
   
+- title: draai usb stick full print 
+  description: USB stick waarvan de draaibeugel helemaal full color bedrukt wordt met uw eigen logo, tekst of foto afbeelding. In 9 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
+  title-img: draai usb stick full print  
+  icon: usb_stick_twister_max_print
+  url: "/draai-usb-stick-full-print"
+  afname: 25 usb sticks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 4,19'
+  animation: fadeInLeft    
+  
 - title: houten usb stick bedrukken of graveren
   description: Eco houten usb stick bedrukt of gegraveerd met uw eigen logo of tekst. Met alle gangbare geheugen chips leverbaar. Vraag een offerte met laagste prijs garantie aan! 
   title-img: houten usb stick bedrukken of graveren 
@@ -48,16 +58,6 @@
   levertijd: 5-7 werkdagen
   prijs: '100: € 5,71'
   animation: fadeInRight 
-  
-- title: draai usb stick full print 
-  description: USB stick waarvan de draaibeugel helemaal full color bedrukt wordt met uw eigen logo, tekst of foto afbeelding. In 9 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
-  title-img: draai usb stick full print  
-  icon: usb_stick_twister_max_print
-  url: "/draai-usb-stick-full-print"
-  afname: 25 usb sticks
-  levertijd: 5-7 werkdagen
-  prijs: '100: € 4,19'
-  animation: fadeInLeft  
 
 - title: ronde usb stick bedrukken
   description: Ronde usb stick die wij standaard voor u aan 2 kanten met uw eigen logo of tekst full color bedrukken. Met alle soorten geheugen chips leverbaar. 
@@ -109,16 +109,6 @@
   prijs: '100: € 4,13'
   animation: fadeInLeft    
   
-- title: mini twister usb stick bedrukken of graveren
-  description: De usb mini twister, een hele kleine usb stick met draaimechanisme. Leverbaar in 8 kleuren met uw logo of tekst bedrukt of gelasergraveerd. Met alle soorten geheugen chips leverbaar. 
-  title-img: mini twister usb stick bedrukken of graveren  
-  icon: usb_stick_micro_twist_logo_bedrukken 
-  url: "/mini-twister-usb-stick-bedrukken-of-graveren"
-  afname: 25 usb sticks
-  levertijd: 5-7 werkdagen
-  prijs: '100: € 3,98'
-  animation: fadeInRight    
-  
 - title: grote twister usb stick bedrukken
   description: Grote twister usb stick met veel ruimte voor het bedrukken van uw eigen logo, tekst of afbeelding. Leverbaar in het wit of zwart en met alle soorten geheugen chips. 
   title-img: grote twister usb stick bedrukken  
@@ -129,6 +119,16 @@
   prijs: '100: € 3,84'
   animation: fadeInRight   
   
+- title: mini twister usb stick bedrukken of graveren
+  description: De usb mini twister, een hele kleine usb stick met draaimechanisme. Leverbaar in 8 kleuren met uw logo of tekst bedrukt of gelasergraveerd. Met alle soorten geheugen chips leverbaar. 
+  title-img: mini twister usb stick bedrukken of graveren  
+  icon: usb_stick_micro_twist_logo_bedrukken 
+  url: "/mini-twister-usb-stick-bedrukken-of-graveren"
+  afname: 25 usb sticks
+  levertijd: 5-7 werkdagen
+  prijs: '100: € 3,98'
+  animation: fadeInRight      
+    
 - title: alu sleutel usb stick bedrukken of graveren
   description: Aluminium usb stick in de vorm van een sleutel. Uw logo of tekst kunnen wij lasergraveren of full color bedrukken. Met alle soorten geheugen chips leverbaar. 
   title-img: alu sleutel usb stick bedrukken of graveren   
