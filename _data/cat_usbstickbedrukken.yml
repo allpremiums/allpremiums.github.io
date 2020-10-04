@@ -56,7 +56,7 @@
   url: "/draai-usb-stick-full-print"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 4,66'
+  prijs: '100: € '
   animation: fadeInLeft  
 
 - title: ronde usb stick bedrukken
@@ -66,7 +66,7 @@
   url: "/ronde-usb-stick-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 4,37'
+  prijs: '100: € '
   animation: fadeInLeft
 
 - title: classic usb stick met eigen logo
@@ -76,7 +76,7 @@
   url: "/classic-usb-stick-met-eigen-logo"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 5,80'
+  prijs: '100: € '
   animation: fadeInRight
   
 - title: vierkante usb stick bedrukken
@@ -86,7 +86,7 @@
   url: "/vierkante-usb-stick-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 4,39'
+  prijs: '100: € '
   animation: fadeInRight
   
 - title: mini credit card usb stick bedrukken
@@ -96,7 +96,7 @@
   url: "/mini-credit-card-usb-stick-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 4,40'
+  prijs: '100: € '
   animation: fadeInLeft
   
 - title: credit card usb stick bedrukken
@@ -106,7 +106,7 @@
   url: "/credit-card-usb-stick-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 4,61'
+  prijs: '100: € '
   animation: fadeInLeft    
   
 - title: mini twister usb stick bedrukken of graveren
@@ -116,7 +116,7 @@
   url: "/mini-twister-usb-stick-bedrukken-of-graveren"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 4,24'
+  prijs: '100: € '
   animation: fadeInRight    
   
 - title: grote twister usb stick bedrukken
@@ -126,7 +126,7 @@
   url: "/grote-twister-usb-stick-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 4,30'
+  prijs: '100: € '
   animation: fadeInRight   
   
 - title: alu sleutel usb stick bedrukken of graveren
@@ -136,7 +136,7 @@
   url: "/alu-sleutel-usb-stick-bedrukken-of-graveren"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 4,49'
+  prijs: '100: € '
   animation: fadeInLeft     
 
 - title: custom made usb stick eigen vorm 
@@ -146,7 +146,7 @@
   url: "/custom-made-usb-stick-eigen-vorm"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 7,93'
+  prijs: '100: € '
   animation: fadeInRight
    
 - title: custom made usb stick drukknop 
@@ -156,7 +156,7 @@
   url: "/custom-made-usb-stick-drukknop"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 6,44'
+  prijs: '100: € '
   animation: fadeInRight  
 
 - title: custom made usb stick sleutelhanger 
@@ -166,5 +166,5 @@
   url: "/custom-made-usb-stick-sleutelhanger"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 6,46'
+  prijs: '100: € '
   animation: fadeInRight
