@@ -79,7 +79,15 @@
   prijs: '100: € 0,39'
   animation: fadeInLeft     
   
-  
+- title: 4 laags mondkapjes
+  description: 4 laags mondkapjes. 
+  title-img: 4 laags mondkapjes
+  icon: mondkapjes_bestellen
+  url: "/4-laags-mondkapjes"
+  afname: 20 stuks
+  levertijd: 1-2 werkdagen
+  prijs: '100:  € 2,50'
+  animation: fadeInLeft
   
   
   
