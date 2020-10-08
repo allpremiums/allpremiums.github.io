@@ -19,11 +19,11 @@
   prijs: '100: € 3,70'
   animation: fadeInLeft
   
-- title: draai usb stick bedrukken
-  description: Draai usb stick die wij full color voor u bedrukken. In 9 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
-  title-img: draai usb stick bedrukken  
+- title: draai usb stick bedrukken of graveren
+  description: Draai usb stick die wij full color voor u bedrukken of graveren. In 9 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
+  title-img: draai usb stick bedrukken of graveren  
   icon: usb_stick_twister_logo_bedrukken
-  url: "/draai-usb-stick-bedrukken"
+  url: "/draai-usb-stick-bedrukken-of-graveren"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '100: € 4,19'
