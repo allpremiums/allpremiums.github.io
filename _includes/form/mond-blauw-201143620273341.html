@@ -15,15 +15,16 @@ if (window.JotForm && JotForm.accessible) $('input_5').setAttribute('tabindex',0
 if (window.JotForm && JotForm.accessible) $('input_14').setAttribute('tabindex',0);
       JotForm.setCustomHint( 'input_14', 'laat het ons weten zodat wij er rekening mee kunnen houden!' );
 	JotForm.newDefaultTheme = false;
+	JotForm.extendsNewTheme = false;
 	JotForm.newPaymentUIForNewCreatedForms = false;
       JotForm.alterTexts({"alphabetic":"This field can only contain letters","alphanumeric":"This field can only contain letters and numbers.","ccDonationMinLimitError":"Minimum bedrag is {minAmount} {currency}","ccInvalidCVC":"CVC-nummer is ongeldig","ccInvalidExpireDate":"De einddatum is ongeldig.","ccInvalidNumber":"Het nummer van de creditcard is ongeldig.","ccMissingDetails":"Graag de Credit Card gegevens invullen.","ccMissingDonation":"Vul enkel numerieke waarden in voor het donatie bedrag.","ccMissingProduct":"Graag minimaal één product selecteren.","characterLimitError":"Too many Characters.  The limit is","characterMinLimitError":"Te weinig karakters. Het minimum is","confirmClearForm":"Are you sure you want to clear the form?","confirmEmail":"E-mail does not match","currency":"This field can only contain currency values.","cyrillic":"Dit veld kan alleen cyrillische karakters bevatten","dateInvalid":"Deze datum is niet geldig. De datumnotatie is {formaat}","dateInvalidSeparate":"Deze datum is niet geldig. Voer een geldig {} element in.","dateLimited":"Deze datum is niet beschikbaar.","disallowDecimals":"Geef een geheel getal.","email":"Enter a valid e-mail address","fillMask":"Field value must fill mask.","freeEmailError":"Gratis email accounts zijn niet toegelaten.","generalError":"There are errors on the form. Please fix them before continuing.","generalPageError":"There are errors on this page. Please fix them before continuing.","gradingScoreError":"Score total should only be less than or equal to","incompleteFields":"There are incomplete required fields. Please complete them.","inputCarretErrorA":"Input should not be less than the minimum value:","inputCarretErrorB":"Input should not be greater than the maximum value:","lessThan":"Your score should be less than or equal to","maxDigitsError":"The maximum digits allowed is","maxSelectionsError":"The maximum number of selections allowed is","minSelectionsError":"The minimum required number of selections is","multipleFileUploads_emptyError":"{file} is empty, please select files again without it.","multipleFileUploads_fileLimitError":"Only {fileLimit} file uploads allowed.","multipleFileUploads_minSizeError":"{file} is too small, minimum file size is {minSizeLimit}.","multipleFileUploads_onLeave":"The files are being uploaded, if you leave now the upload will be cancelled.","multipleFileUploads_sizeError":"{file} is too large, maximum file size is {sizeLimit}.","multipleFileUploads_typeError":"{file} has invalid extension. Only {extensions} are allowed.","nextButtonText":"Volgende","numeric":"This field can only contain numeric values","pastDatesDisallowed":"Date must not be in the past.","pleaseWait":"Please wait...","required":"deze informatie hebben wij echt van u nodig.","requireEveryCell":"Every cell is required.","requireEveryRow":"Every row is required.","requireOne":"deze informatie hebben wij echt van u nodig.","seeAllText":"Alle Opties","submissionLimit":"Sorry! Only one entry is allowed.  Multiple submissions are disabled for this form.","submitButtonText":"Versturen","uploadExtensions":"You can only upload following files:","uploadFilesize":"File size cannot be bigger than:","uploadFilesizemin":"Bestandsgrootte mag niet kleiner zijn dan:","url":"Dit veld kan alleen een geldige URL bevatten","wordLimitError":"Too many words. The limit is","wordMinLimitError":"Te weinig woorden. Het minimum is"});
       FormTranslation.init({"detectUserLanguage":"1","firstPageOnly":"0","options":"Nederlands","originalLanguage":"nl","primaryLanguage":"nl","saveUserLanguage":"1","showStatus":"flag-with-nation","theme":"light-theme","version":"2"});
     /*INIT-END*/
 	});
 
-   JotForm.prepareCalculationsOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvraag","qid":"2","text":"Verstuur offerte aanvraag","type":"control_button"},{"description":"","name":"aantalminimaal","qid":"3","subLabel":"","text":"Aantal mondmaskers (minimaal 50)","type":"control_textbox"},null,{"name":"telefoonnummer","qid":"5","text":"Telefoonnummer","type":"control_textbox"},null,null,null,null,null,{"description":"","name":"naam11","qid":"11","subLabel":"","text":"Naam","type":"control_textbox"},{"description":"","name":"emailAdres","qid":"12","subLabel":"","text":"E-mail adres ","type":"control_email"},null,{"description":"","name":"uwOpmerking","qid":"14","subLabel":"","text":"Vragen of opmerkingen? ","type":"control_textarea"},{"name":"vraagEen","qid":"15","text":"Vrijblijvende offerte aanvragen","type":"control_head"}]);
+   JotForm.prepareCalculationsOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvraag","qid":"2","text":"Verstuur offerte aanvraag","type":"control_button"},{"description":"","name":"aantalMondmaskers","qid":"3","subLabel":"","text":"Aantal mondmaskers (minimaal 500)","type":"control_textbox"},null,{"name":"telefoonnummer","qid":"5","text":"Telefoonnummer","type":"control_textbox"},null,null,null,null,null,{"description":"","name":"naam11","qid":"11","subLabel":"","text":"Naam","type":"control_textbox"},{"description":"","name":"emailAdres","qid":"12","subLabel":"","text":"E-mail adres ","type":"control_email"},null,{"description":"","name":"uwOpmerking","qid":"14","subLabel":"","text":"Vragen of opmerkingen? ","type":"control_textarea"},{"name":"vraagEen","qid":"15","text":"Vrijblijvende offerte aanvragen","type":"control_head"}]);
    setTimeout(function() {
-JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvraag","qid":"2","text":"Verstuur offerte aanvraag","type":"control_button"},{"description":"","name":"aantalminimaal","qid":"3","subLabel":"","text":"Aantal mondmaskers (minimaal 50)","type":"control_textbox"},null,{"name":"telefoonnummer","qid":"5","text":"Telefoonnummer","type":"control_textbox"},null,null,null,null,null,{"description":"","name":"naam11","qid":"11","subLabel":"","text":"Naam","type":"control_textbox"},{"description":"","name":"emailAdres","qid":"12","subLabel":"","text":"E-mail adres ","type":"control_email"},null,{"description":"","name":"uwOpmerking","qid":"14","subLabel":"","text":"Vragen of opmerkingen? ","type":"control_textarea"},{"name":"vraagEen","qid":"15","text":"Vrijblijvende offerte aanvragen","type":"control_head"}]);}, 20); 
+JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvraag","qid":"2","text":"Verstuur offerte aanvraag","type":"control_button"},{"description":"","name":"aantalMondmaskers","qid":"3","subLabel":"","text":"Aantal mondmaskers (minimaal 500)","type":"control_textbox"},null,{"name":"telefoonnummer","qid":"5","text":"Telefoonnummer","type":"control_textbox"},null,null,null,null,null,{"description":"","name":"naam11","qid":"11","subLabel":"","text":"Naam","type":"control_textbox"},{"description":"","name":"emailAdres","qid":"12","subLabel":"","text":"E-mail adres ","type":"control_email"},null,{"description":"","name":"uwOpmerking","qid":"14","subLabel":"","text":"Vragen of opmerkingen? ","type":"control_textarea"},{"name":"vraagEen","qid":"15","text":"Vrijblijvende offerte aanvragen","type":"control_head"}]);}, 20); 
 </script>
 
 
@@ -32,7 +33,7 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvr
   <input type="hidden" id="JWTContainer" value="" />
   <input type="hidden" id="cardinalOrderNumber" value="" />
   <div role="main" class="form-all">
-    <link type="text/css" rel="stylesheet" media="all" href="https://cdn.jotfor.ms/wizards/languageWizard/custom-dropdown/css/lang-dd.css?3.3.20067" />
+    <link type="text/css" rel="stylesheet" media="all" href="https://cdn.jotfor.ms/wizards/languageWizard/custom-dropdown/css/lang-dd.css?3.3.23247" />
     <div class="cont">
       <input type="text" id="input_language" name="input_language" style="display:none" />
       <div class="language-dd" id="langDd" style="display:none">
@@ -46,7 +47,7 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvr
         </ul>
       </div>
     </div>
-    <script type="text/javascript" src="https://cdn.jotfor.ms/js/formTranslation.v2.js?3.3.20067"></script>
+    <script type="text/javascript" src="https://cdn.jotfor.ms/js/formTranslation.v2.js?3.3.23247"></script>
     <ul class="form-section page-section">
       <li id="cid_15" class="form-input-wide" data-type="control_head">
         <div class="form-header-group  header-small">
@@ -59,13 +60,13 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvr
       </li>
       <li class="form-line jf-required" data-type="control_textbox" id="id_3">
         <label class="form-label form-label-top" id="label_3" for="input_3">
-          Aantal mondmaskers (minimaal 50)
+          Aantal mondmaskers (minimaal 500)
           <span class="form-required">
             *
           </span>
         </label>
         <div id="cid_3" class="form-input-wide jf-required">
-          <input type="text" id="input_3" name="q3_aantalminimaal" data-type="input-textbox" class="form-textbox validate[required, Numeric]" size="20" value="" data-component="textbox" aria-labelledby="label_3" required="" />
+          <input type="text" id="input_3" name="q3_aantalMondmaskers" data-type="input-textbox" class="form-textbox validate[required, Numeric]" size="20" value="" data-component="textbox" aria-labelledby="label_3" required="" />
         </div>
       </li>
       <li class="form-line jf-required" data-type="control_textbox" id="id_11">
@@ -123,9 +124,13 @@ JotForm.paymentExtrasOnTheFly([null,null,{"name":"verstuurdenbspoffertenbspaanvr
   <script>
   JotForm.poweredByText = "Powered by JotForm";
   </script>
-  <input type="hidden" id="simple_spc" name="simple_spc" value="201143620273341" />
+  <input type="hidden" class="simple_spc" id="simple_spc" name="simple_spc" value="201143620273341" />
   <script type="text/javascript">
-  document.getElementById("si" + "mple" + "_spc").value = "201143620273341-201143620273341";
+  var all_spc = document.querySelectorAll("form[id='201143620273341'] .si" + "mple" + "_spc");
+for (var i = 0; i < all_spc.length; i++)
+{
+  all_spc[i].value = "201143620273341-201143620273341";
+}
   </script>
 </form>
 <script type="text/javascript">JotForm.forwardToEu=true;</script>
