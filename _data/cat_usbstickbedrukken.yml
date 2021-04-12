@@ -9,14 +9,14 @@
   prijs: '100: € 3,45'
   animation: fadeInRight
  
-- title: bedrukte usb stick met doming
+- title: usb stick spectra v2 met doming bedrukken
   description: USB stick met full color bedrukt doming label. In maar liefst 9 verschillende kleuren en met verschillende geheugen chips leverbaar. Vraag een vrijblijvende offerte aan!
-  title-img: bedrukte usb stick met doming 
+  title-img: usb stick spectra v2 met doming bedrukken 
   icon: usb_stick_spectra_v2_logo_bedrukken 
-  url: "/bedrukte-usb-stick-met-doming"
+  url: "/usb-stick-spectra-v2-met-doming-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '100: € 3,70'
+  prijs: op aanvraag
   animation: fadeInLeft
   
 - title: draai usb stick bedrukken of graveren
