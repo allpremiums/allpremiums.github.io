@@ -109,16 +109,6 @@
   prijs: '25: op aanvraag'
   animation: fadeInLeft
   
-- title: usb stick smart twister large bedrukken
-  description: Grote twister usb stick met veel ruimte voor het bedrukken van uw eigen logo, tekst of afbeelding. Leverbaar in het wit of zwart en met alle soorten geheugen chips. 
-  title-img: grote twister usb stick bedrukken  
-  icon: usb_stick_smart_twister_large
-  url: "/usb-stick-smart-twister-large-bedrukken"
-  afname: 25 usb sticks
-  levertijd: 5-7 werkdagen
-  prijs: '25: op aanvraag'
-  animation: fadeInRight   
-  
 - title: mini twister usb stick bedrukken of graveren
   description: De usb mini twister, een hele kleine usb stick met draaimechanisme. Leverbaar in 8 kleuren met uw logo of tekst bedrukt of gelasergraveerd. Met alle soorten geheugen chips leverbaar. 
   title-img: mini twister usb stick bedrukken of graveren  
@@ -127,7 +117,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: X op aanvraag'
-  animation: fadeInRight      
+  animation: fadeInLeft      
     
 - title: alu sleutel usb stick bedrukken of graveren
   description: Aluminium usb stick in de vorm van een sleutel. Uw logo of tekst kunnen wij lasergraveren of full color bedrukken. Met alle soorten geheugen chips leverbaar. 
@@ -137,7 +127,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: X op aanvraag'
-  animation: fadeInLeft     
+  animation: fadeInRight     
 
 - title: custom made usb stick eigen vorm 
   description: Custom made usb stick gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
@@ -147,7 +137,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: X op aanvraag'
-  animation: fadeInLeft
+  animation: fadeInRight
    
 - title: custom made usb stick drukknop 
   description: Custom made usb stick met drukknop gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
@@ -157,7 +147,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: X op aanvraag'
-  animation: fadeInRight  
+  animation: fadeInLeft  
 
 - title: custom made usb stick sleutelhanger 
   description: Custom made usb stick met sleutelhanger gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
@@ -167,4 +157,4 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: X op aanvraag'
-  animation: fadeInRight
+  animation: fadeInLeft
