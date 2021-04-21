@@ -86,7 +86,7 @@
   url: "/credit-card-usb-stick-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '25: X op aanvraag'
+  prijs: '25: op aanvraag'
   animation: fadeInRight   
   
 - title: vierkante usb stick bedrukken
@@ -96,7 +96,7 @@
   url: "/vierkante-usb-stick-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '25: X op aanvraag'
+  prijs: '25: op aanvraag'
   animation: fadeInLeft
   
 - title: mini credit card usb stick bedrukken
@@ -106,17 +106,17 @@
   url: "/mini-credit-card-usb-stick-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '25: X op aanvraag'
+  prijs: '25: op aanvraag'
   animation: fadeInLeft
   
-- title: grote twister usb stick bedrukken
+- title: usb stick smart twister large bedrukken
   description: Grote twister usb stick met veel ruimte voor het bedrukken van uw eigen logo, tekst of afbeelding. Leverbaar in het wit of zwart en met alle soorten geheugen chips. 
   title-img: grote twister usb stick bedrukken  
   icon: usb_stick_smart_twister_large
-  url: "/grote-twister-usb-stick-bedrukken"
+  url: "/usb-stick-smart-twister-large-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '25: X op aanvraag'
+  prijs: '25: op aanvraag'
   animation: fadeInRight   
   
 - title: mini twister usb stick bedrukken of graveren
