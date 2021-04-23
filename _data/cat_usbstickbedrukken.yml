@@ -117,7 +117,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: op aanvraag'
-  animation: fadeInLeft      
+  animation: fadeInRight      
     
 - title: aluminium sleutel usb stick bedrukken of graveren
   description: Aluminium usb stick in de vorm van een sleutel. Uw logo of tekst kunnen wij lasergraveren of full color bedrukken. Met alle soorten geheugen chips leverbaar. 
@@ -127,7 +127,7 @@
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: op aanvraag'
-  animation: fadeInRight     
+  animation: fadeInLeft     
 
 - title: custom made usb stick eigen vorm 
   description: Custom made usb stick gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
@@ -136,7 +136,7 @@
   url: "/custom-made-usb-stick-eigen-vorm"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '25: X op aanvraag'
+  prijs: '25: op aanvraag'
   animation: fadeInRight
    
 - title: custom made usb stick drukknop 
@@ -146,8 +146,8 @@
   url: "/custom-made-usb-stick-drukknop"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '25: X op aanvraag'
-  animation: fadeInLeft  
+  prijs: '25: op aanvraag'
+  animation: fadeInRight  
 
 - title: custom made usb stick sleutelhanger 
   description: Custom made usb stick met sleutelhanger gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
@@ -156,5 +156,5 @@
   url: "/custom-made-usb-stick-sleutelhanger"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
-  prijs: '25: X op aanvraag'
+  prijs: '25: op aanvraag'
   animation: fadeInLeft
