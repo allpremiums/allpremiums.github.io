@@ -8,8 +8,9 @@
   url: "/goedkope-magneten-bedrukken"
   afname: 100 stuks
   levertijd: 7 werkdagen
-  prijs: '100: € 1,31'
+  prijs: '100: € 1,44'
   animation: fadeInLeft
+  
 - title: Magneten bedrukken extra kleefkracht
   description: 'Deze bedrukte magneten zijn flexibel en worden gemaakt met een extra
     sterke kleefkracht. Hierdoor zijn de bedrukte magneten ook geschikt voor het memobord.
@@ -20,8 +21,9 @@
   url: "/magneten-bedrukken-extra-kleefkracht"
   afname: 100 stuks
   levertijd: 10-12 werkdagen
-  prijs: '100: € 1,46'
+  prijs: '100: € 1,61'
   animation: fadeInLeft
+  
 - title: Extra stevige magneten bedrukken
   description: 'De stevigste flexibele bedrukte magneet met een dikte van 1,6mm. Altijd
     voorzien van uw eigen opdruk en leverbaar in iedere vorm en afmeting. '
@@ -30,8 +32,9 @@
   url: "/extra-stevige-magneten-bedrukken"
   afname: 100 stuks
   levertijd: 10-12 werkdagen
-  prijs: '100: € 1,64'
+  prijs: '100: € 1,80'
   animation: fadeInRight
+  
 - title: Memomagneten doming bedrukken
   description: 'Bedrukte memobord magneten voorzien van een doming voor een fraai
     3D-effect. Wij bedrukken de memo magneten standaard full color CMYK met een tekst,
@@ -43,6 +46,7 @@
   levertijd: 7 werkdagen
   prijs: '100: € 1,32'
   animation: fadeInRight
+  
 - title: Doming magneten bedrukken
   description: 'Domingmagneten bedrukt met eigen tekst of logo, gemaakt in iedere
     vorm en afmeting. Gemaakt van 0,85mm dik magnetisch vel met extra kleefkracht.
@@ -52,8 +56,9 @@
   url: "/doming-magneten-bedrukken"
   afname: 100 stuks
   levertijd: 7 werkdagen
-  prijs: '100: € 2,22'
+  prijs: '100: € 2,44'
   animation: fadeInLeft
+  
 - title: Plexiglas magneten bedrukken
   description: 'Exclusieve bedrukte magneten met een plexiglas afwerking. Voor een
     hele bijzondere magneet is dit de juiste keuze. De toplaag is gemaakt van 1mm
@@ -63,8 +68,9 @@
   url: "/plexiglas-magneten-bedrukken"
   afname: 100 stuks
   levertijd: 12-15 werkdagen
-  prijs: '100:  € 1,98'
+  prijs: '100:  € 2,18'
   animation: fadeInLeft
+  
 - title: Memomagneten bedrukken
   description: Dikke extra sterke magneet gemaakt van hard kunststof, specifiek voor
     het memobord. Bedrukt met bijvoorbeeld logo of reclame tekst. In verschillende
@@ -76,6 +82,7 @@
   levertijd: 10 werkdagen
   prijs: '100: € 1,55'
   animation: fadeInRight
+  
 - title: Onbuigbare magneten bedrukken
   description: Onbuigbare bedrukte magneet gemaakt van hard kunststof met op de achterzijde
     een magneetje met sterke kleefkracht bevestigd. Leverbaar in iedere vorm met eigen
