@@ -7,7 +7,7 @@
   icon: sportlife_kauwgom_classic
   url: "/sportlife-kauwgom-bedrukken"
   afname: 100 stuks
-  levertijd: 5-7 werkdagen
+  levertijd: 7-10 werkdagen
   prijs: '250: € 0,92'
   animation: fadeInLeft
 
@@ -31,7 +31,7 @@
   icon: kauwgomblister_12_stuks_4
   url: "/kauwgom-laten-bedrukken"
   afname: 250 stuks
-  levertijd: 10-12 werkdagen
+  levertijd: 15-20 werkdagen
   prijs: '250: € 1,11'
   animation: fadeInRight
   
@@ -41,7 +41,7 @@
   icon: kauwgom_blikje_bedrukken
   url: "/kauwgom-in-blikje-bedrukken"
   afname: 250 stuks
-  levertijd: 10-12 werkdagen
+  levertijd: 15-20 werkdagen
   prijs: '500: € 1,53'
   animation: fadeInLeft  
   
@@ -51,7 +51,7 @@
   icon: bedrukt_schuifdoosje_met_kauwgom
   url: "/bedrukt-schuifdoosje-met-kauwgom"
   afname: 500 stuks
-  levertijd: 15 werkdagen
+  levertijd: 15-20 werkdagen
   prijs: '500: € 1,45'
   animation: fadeInLeft
 
@@ -61,7 +61,7 @@
   icon: bedrukte_kunststof_dispenser_met_kauwgom
   url: "/bedrukte-kunststof-dispenser-met-kauwgom"
   afname: 500 stuks
-  levertijd: 10-12 werkdagen
+  levertijd: 15-20 werkdagen
   prijs: '500: € 1,45'
   animation: fadeInRight
   
@@ -73,7 +73,7 @@
   icon: kauwgomblister_5_stuks
   url: "/pakje-kauwgom-bedrukken"
   afname: 1.000 stuks
-  levertijd: 15 werkdagen
+  levertijd: 15-20 werkdagen
   prijs: '1.000: € 0,49'
   animation: fadeInRight  
   
@@ -84,6 +84,6 @@
   icon: kauwgom_sachets_copy
   url: "/kauwgom-in-zakje-bedrukken"
   afname: 5.000 stuks
-  levertijd: 15 werkdagen
+  levertijd: 15-20 werkdagen
   prijs: '5.000: € 0,21'
   animation: fadeInLeft
