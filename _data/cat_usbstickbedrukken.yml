@@ -119,11 +119,11 @@
   prijs: '25: op aanvraag'
   animation: fadeInRight      
     
-- title: aluminium sleutel usb stick bedrukken of graveren
-  description: Aluminium usb stick in de vorm van een sleutel. Uw logo of tekst kunnen wij lasergraveren of full color bedrukken. Met alle soorten geheugen chips leverbaar. 
-  title-img: alu sleutel usb stick bedrukken of graveren   
-  icon: usb_stick_alu_key 
-  url: "/aluminium-sleutel-usb-stick-bedrukken-of-graveren"
+- title: usb stick alu key bedrukken of graveren
+  description: Aluminium usb stick alu key in de vorm van een sleutel. Uw logo of tekst kunnen wij lasergraveren of full color bedrukken. Met alle soorten geheugen chips leverbaar. 
+  title-img: usb stick alu key bedrukken of graveren   
+  icon: usb-stick-alu-key 
+  url: "/usb-stick-alu-key-bedrukken-of-graveren"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: op aanvraag'
