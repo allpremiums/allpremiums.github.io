@@ -129,11 +129,11 @@
   prijs: '25: op aanvraag'
   animation: fadeInRight     
 
-- title: custom made usb stick eigen vorm 
-  description: Custom made usb stick gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
-  title-img: custom made usb stick eigen vorm  
+- title: usb stick shape include 
+  description: Custom made usb stick shape include gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
+  title-img: usb stick shape include  
   icon: usb_stick_shape_include
-  url: "/custom-made-usb-stick-eigen-vorm"
+  url: "/usb-stick-shape-include"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: op aanvraag'
