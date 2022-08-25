@@ -149,11 +149,11 @@
   prijs: '25: op aanvraag'
   animation: fadeInLeft  
 
-- title: custom made usb stick sleutelhanger 
-  description: Custom made usb stick met sleutelhanger gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
-  title-img: custom made usb stick sleutelhanger  
-  icon: usb_stick_shape_insert
-  url: "/custom-made-usb-stick-sleutelhanger"
+- title: usb stick shape insert 
+  description: Custom made usb stick shape insert met sleutelhanger gemaakt in uw eigen vorm. Wij maken en bedrukken deze usb stick precies zoals u wilt! Informeer naar de mogelijkheden of vraag een vrijblijvende offerte aan! 
+  title-img: usb stick shape insert  
+  icon: usb-stick-shape-insert
+  url: "/usb-stick-shape-insert"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: op aanvraag'
