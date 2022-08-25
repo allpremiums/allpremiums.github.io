@@ -79,11 +79,11 @@
   prijs: '25: op aanvraag'
   animation: fadeInRight 
   
-- title: credit card usb stick bedrukken
-  description: USB stick in credit card formaat die wij met uw eigen logo, tekst of foto bedrukken. Standaard aan 2 zijden full color bedrukt zoals u het wilt. Met alle gangbare geheugen chips leverbaar. 
-  title-img: credit card usb stick bedrukken 
-  icon: usb_stick_credit_card_logo_bedrukken 
-  url: "/credit-card-usb-stick-bedrukken"
+- title: creditcard usb stick bedrukken
+  description: USB stick in Creditcard formaat die wij met uw eigen logo, tekst of foto bedrukken. Standaard aan 2 zijden full color bedrukt zoals u het wilt. Met alle gangbare geheugen chips leverbaar. 
+  title-img: creditcard usb stick bedrukken 
+  icon: usb-stick-creditcard-logo-bedrukken 
+  url: "/creditcard-usb-stick-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: op aanvraag'
