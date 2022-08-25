@@ -99,11 +99,11 @@
   prijs: '25: op aanvraag'
   animation: fadeInLeft
   
-- title: mini credit card usb stick bedrukken
-  description: Mini credit card usb stick die wij voor u standaard aan 2 zijden full collor cmyk met uw eigen logo of tekst bedrukken. Met alle gangbare geheugen chips leverbaar. 
-  title-img: mini credit card usb stick bedrukken  
-  icon: usb_stick_mini_card
-  url: "/mini-credit-card-usb-stick-bedrukken"
+- title: mini creditcard usb stick bedrukken
+  description: Mini Creditcard USB Stick die wij voor u standaard aan 2 zijden full collor cmyk met uw eigen logo of tekst bedrukken. Met alle gangbare geheugen chips leverbaar. 
+  title-img: mini creditcard usb stick bedrukken  
+  icon: mini-creditcard-usb-stick
+  url: "/mini-creditcard-usb-stick-bedrukken"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: op aanvraag'
