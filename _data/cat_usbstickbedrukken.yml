@@ -109,11 +109,11 @@
   prijs: '25: op aanvraag'
   animation: fadeInLeft
   
-- title: usb stick mini twist bedrukken of graveren
-  description: De usb stick mini twist, een hele kleine usb stick met draaimechanisme. Leverbaar in 8 kleuren met uw logo of tekst bedrukt of gelasergraveerd. Met alle soorten geheugen chips leverbaar. 
-  title-img: usb stick mini twist bedrukken of graveren  
-  icon: usb-stick-min-twist 
-  url: "/usb-stick-mini-twist-bedrukken-of-graveren"
+- title: usb stick micro twist bedrukken of graveren
+  description: De USB Stick Micro Twist, een hele kleine usb stick met draaimechanisme. Leverbaar in 8 kleuren met uw logo of tekst bedrukt of gelasergraveerd. Met alle soorten geheugen chips leverbaar. 
+  title-img: usb stick micro twist bedrukken of graveren  
+  icon: usb-stick-micro-twist 
+  url: "/usb-stick-micro-twist-bedrukken-of-graveren"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: op aanvraag'
