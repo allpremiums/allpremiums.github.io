@@ -49,11 +49,11 @@
   prijs: '25: op aanvraag'
   animation: fadeInRight    
   
-- title: usb stick original bedrukken of graveren
-  description: USB stick Original met full color opdruk, lasergravering of doming label. De meest populaire en best verkochte usb-stick. In 6 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
-  title-img: usb stick original met eigen logo  
-  icon: classic_usb_stick 
-  url: "/usb-stick-original-bedrukken-of-graveren"
+- title: usb stick original delta bedrukken of graveren
+  description: USB stick Original Delta met full color opdruk, lasergravering of doming label. De meest populaire en best verkochte usb-stick. In 6 verschillende kleuren leverbaar, met alle mogelijke geheugenchips. Vraag een vrijblijvende offerte aan!
+  title-img: usb stick original delta bedrukken of graveren  
+  icon: usb-stick-original-delta 
+  url: "/usb-stick-original-delta-bedrukken-of-graveren"
   afname: 25 usb sticks
   levertijd: 5-7 werkdagen
   prijs: '25: op aanvraag'
