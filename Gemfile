@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", github: "jekyll/jekyll"
+gemspec :name => "jekyll"
+
 gem "minima", "~> 2.0"
 gem "liquid-c"
 
