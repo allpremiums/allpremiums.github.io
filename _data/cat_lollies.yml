@@ -6,7 +6,7 @@
   icon: lollies_bedrukken_vierkant_doosje
   url: "/snel-lolly-in-vierkant-doosje-bedrukken"
   afname: 1.000 stuks
-  levertijd: 12-15 werkdagen
+  levertijd: niet leverbaar
   prijs: 'niet leverbaar'
   animation: fadeInLeft
 
@@ -17,8 +17,8 @@
   icon: lolly_plat_doosje
   url: "/snel-lolly-in-plat-doosje-bedrukken"
   afname: 1.000 stuks
-  levertijd: 12-15 werkdagen
-  prijs: 1.000 st. € 0,45
+  levertijd: niet leverbaar
+  prijs: 'niet leverbaar'
   animation: fadeInRight
 
 - title: SNEL lolly met logo bedrukken
@@ -28,8 +28,8 @@
   icon: snel_lollies_bedrukken
   url: "/snel-lolly-met-logo-bedrukken"
   afname: 7.000 stuks
-  levertijd: 12-15 werkdagen
-  prijs: '7.000: € 0,13'
+  levertijd: niet leverbaar
+  prijs: 'niet leverbaar'
   animation: fadeInLeft
   
 - title: Lolly met logo bedrukken
@@ -39,8 +39,8 @@
   icon: def_platte_lollie_bedrukken
   url: "/lolly-met-logo-bedrukken"
   afname: 5.000 stuks
-  levertijd: 22-25 werkdagen
-  prijs: '5.000: € 0,13'
+  levertijd: niet leverbaar
+  prijs: 'niet leverbaar'
   animation: fadeInRight
   
 - title: Hartjes lolly bedrukken
@@ -50,8 +50,8 @@
   icon: hartjes_lollie
   url: "/hartjes-lolly-bedrukken"
   afname: 5.000 stuks
-  levertijd: 22-25 werkdagen
-  prijs: '5.000: € 0,13'
+  levertijd: niet leverbaar
+  prijs: 'niet leverbaar'
   animation: fadeInLeft
   
 - title: Ronde knots lolly bedrukken
@@ -62,8 +62,8 @@
   icon: ronde_chupa_lolly_bedrukken
   url: "/ronde-knots-lolly-bedrukken"
   afname: 5.000 stuks
-  levertijd: 22-25 werkdagen
-  prijs: '5.000: € 0,15'
+  levertijd: niet leverbaar
+  prijs: 'niet leverbaar'
   animation: fadeInRight
   
 - title: SNEL lolly in flowpack zakje bedrukken
@@ -72,6 +72,6 @@
   icon: lolly_flowpack_zakje_bedrukken
   url: "/snel-lolly-in-flowpack-zakje-bedrukken"
   afname: 5.000 stuks
-  levertijd: 12-15 werkdagen
-  prijs: 5.000 st. € 0,19
+  levertijd: niet leverbaar
+  prijs: "niet leverbaar"
   animation: fadeInLeft
