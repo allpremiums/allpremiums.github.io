@@ -8,7 +8,7 @@
   url: "/onbedrukte-keycords"
   afname: 25 stuks
   levertijd: 3 werkdagen
-  prijs: '100: € 1,38'
+  prijs: 'niet leverbaar'
   animation: fadeInLeft
 - title: Keycords bedrukken full color
   description: 'Keycords full color CMYK bedrukt, gemaakt van een glad en zacht comfortabel
@@ -19,7 +19,7 @@
   url: "/keycords-bedrukken-full-color"
   afname: 100 stuks
   levertijd: 15 werkdagen
-  prijs: '100: € 1,25'
+  prijs: 'niet leverbaar'
   animation: fadeInLeft
 - title: Keycords bedrukken
   description: Keycords bedrukken wij ook met 1 - 4 PMS kleuren. Er zijn 16 standaard
@@ -30,7 +30,7 @@
   url: "/goedkoop-keycords-bedrukken"
   afname: 100 stuks
   levertijd: 15 werkdagen
-  prijs: '100: € 1,67'
+  prijs: 'niet leverbaar'
   animation: fadeInRight
 - title: Snel keycords bedrukken
   description: 'Met spoed keycords laten bedrukken? Deze keycords zijn met ca. 5 werkdagen
@@ -41,5 +41,5 @@
   url: "/snel-keycords-bedrukken"
   afname: 25 stuks
   levertijd: 6 werkdagen
-  prijs: '100: € 2,77'
+  prijs: 'niet leverbaar'
   animation: fadeInRight
