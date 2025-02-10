@@ -33,7 +33,7 @@
   url: "/waterflesjes-bedrukken-500ml-schroefdop"
   afname: 36 stuks
   levertijd: 8 werkdagen
-  prijs: '1.008: € 0,99'
+  prijs: '1.008: € 1,05'
   animation: fadeInRight
 
 - title: Waterflesjes gepersonaliseerd bedrukken 500ml sportdop
@@ -45,7 +45,7 @@
   url: "/waterflesjes-gepersonaliseerd-bedrukken-500ml-sportdop"
   afname: 36 stuks
   levertijd: 8 werkdagen
-  prijs: '1.000: € 1,05'
+  prijs: '1.008: € 1,05'
   animation: fadeInRight
 
 - title: Glazen waterfles bedrukken 330ml
@@ -57,7 +57,7 @@
   url: "/glazen-waterfles-bedrukken-330ml"
   afname: 108 stuks
   levertijd: 8 werkdagen
-  prijs: '1.008: € 1,40'
+  prijs: '1.008: € 1,25'
   animation: fadeInLeft
 
 - title: Glazen waterfles met logo bedrukken 750ml
@@ -69,5 +69,5 @@
   url: "/glazen-waterfles-met-logo-bedrukken-750ml"
   afname: 102 stuks
   levertijd: 8 werkdagen
-  prijs: '1.002: € 1,99'
+  prijs: '1.002: € 2,10'
   animation: fadeInLeft
